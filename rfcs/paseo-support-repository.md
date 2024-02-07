@@ -5,7 +5,7 @@ This RFC proposes the creation of a new repository within the paseo-network orga
 **1. Repository Creation**
 
 - A new repository named paseo-network/support will be created.
-- This repository will serve as the primary point of contact for external support requests related to the paseo-network.
+- This repository will serve as the primary point of contact for external support requests related to the paseo-network. In addition to external support request,  the Paseo core team will register related tasks not related directly with the runtime in this repository. 
 
 **2. Issue Creation**
 
