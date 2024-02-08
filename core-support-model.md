@@ -54,7 +54,17 @@ The purpose of operating and maintaining the Paseo testnet is to cater to the ne
 
 - **Local Dry-Runs with Live State** : Testing upgrades in a controlled environment to ensure stability.
 - **Backporting** : Applying new features or fixes from the mainnet to the testnet.
-- **Bricked Parachains Resolution** : Developing strategies to deal with malfunctioning parachains.
+- **Bricked Parachains Resolution** : In case of malfunctioning parachains the team will provide the corresponding support from the relay chain perspective. Below there are more details about support tasks scope:
+Support tasks that are within the scope:
+- Force Storage Items for parachains (including runtime storage item)
+- Remove parachain locks
+- Dmp queues that usually come from forcing wasm changes force the parachains
+- Force lifecycle upgrades
+- Top up balances for sovereign accounts
+Support tasks that are **not** in the scope:
+- Analyze parachain failed storage migrations.
+- Check parachain configuration.
+- Check parachain node logs.
 - **XCM HRMP Channels Management** : Handling cross-consensus message passing channels.
 - **XCM Debugging for Parachain Support** : Troubleshooting and supporting parachain-related issues.
 - **Parachain Slot Assignment:** Managing the allocation of slots to parachains.
