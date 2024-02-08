@@ -18,3 +18,6 @@ The Paseo RFC repository serves as a structured platform for submitting, reviewi
 - [Hardware Specs](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/Hardware_specs.md)
 - [Deactivated Paseo Validators.md](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/Deactivated_Paseo_Validators.md)
 - [Active Paseo Validators](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/Active_Paseo_Validators.md)
+
+### Support Model
+- [Core Support Model](https://github.com/paseo-network/paseo-rfcs/blob/main/rfcs/core-support-model.md)
