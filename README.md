@@ -8,3 +8,13 @@ The Paseo RFC repository serves as a structured platform for submitting, reviewi
 - Submitting an RFC: To propose a new feature or change, start by creating an RFC document.
 - Discussion and Review: Once submitted, the community will review and discuss the proposal. Feedback and constructive criticism are encouraged to refine and improve the proposal.
 - Decision Making: Proposals will be evaluated by the Paseo governance team. Decisions will be made based on community feedback, the proposal's merit, and alignment with Paseo's objectives.
+
+## Index
+### RFCs
+- [paseo network support wiki](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/paseo-network-support-wiki.md)
+- [paseo support repository](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/paseo-support-repository.md)
+- [Paseo team call schedule](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/team-call-schedule.md)
+- [Indexer Explorer.md](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/indexer-explorer.md)
+- [Hardware Specs](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/Hardware_specs.md)
+- [Deactivated Paseo Validators.md](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/Deactivated_Paseo_Validators.md)
+- [Active Paseo Validators](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/Active_Paseo_Validators.md)
