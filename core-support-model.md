@@ -70,6 +70,7 @@ Support tasks that are **not** in the scope:
 - **Parachain Slot Assignment:** Managing the allocation of slots to parachains.
 - **Benchmarking** : Recalculate weights for every Runtime upgrade, taking into account different hardware configurations from Polkadot.
 - **Building Deterministic Runtime Artifacts** : Ensuring the runtime is predictable and repeatable.
+**Coretime:** Lead migration from parachain slots into coretime sales. Also once we have more details about coretime, a proper process for handling core assigments will be put in place.
 
 **6. Supported System Chains**
 Ensuring these specific chains are supported and integrated within Paseo.
