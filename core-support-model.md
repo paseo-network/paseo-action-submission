@@ -65,7 +65,7 @@ Support tasks that are **not** in the scope:
 - Analyze parachain failed storage migrations.
 - Check parachain configuration.
 - Check parachain node logs.
-- **XCM HRMP Channels Management** : Handling cross-consensus message passing channels.
+- **XCM HRMP Channels Management for System Chains** : Handling cross-consensus message passing channels for any Paseo System chain.
 - **XCM Debugging for Parachain Support** : Troubleshooting and supporting parachain-related issues.
 - **Parachain Slot Assignment:** Managing the allocation of slots to parachains.
 - **Benchmarking** : Recalculate weights for every Runtime upgrade, taking into account different hardware configurations from Polkadot.
