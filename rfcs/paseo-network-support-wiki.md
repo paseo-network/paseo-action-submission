@@ -6,7 +6,7 @@ This RFC will be linked with the [#15 RFC - Create paseo-network/support reposit
 
 ### Purpose
 
-- **Centralized Knowledge Base:** To consolidate all informational resources about paseo-network into a single, easily navigable platform.
+- **Knowledge Base:** To consolidate all informational resources about paseo-network into a single, easily navigable platform.
 
 - **Community Support**: To aid new and existing users and developers by providing clear and concise documentation, thereby enhancing their experience and understanding of the network.
 
