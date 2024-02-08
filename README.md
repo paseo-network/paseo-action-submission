@@ -10,6 +10,10 @@ The Paseo RFC repository serves as a structured platform for submitting, reviewi
 - Decision Making: Proposals will be evaluated by the Paseo governance team. Decisions will be made based on community feedback, the proposal's merit, and alignment with Paseo's objectives.
 
 ## Index
+
+### Support Model
+- [Core Support Model](https://github.com/paseo-network/paseo-rfcs/blob/main/rfcs/core-support-model.md)
+  
 ### RFCs
 - [paseo network support wiki](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/paseo-network-support-wiki.md)
 - [paseo support repository](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/paseo-support-repository.md)
@@ -19,5 +23,4 @@ The Paseo RFC repository serves as a structured platform for submitting, reviewi
 - [Deactivated Paseo Validators.md](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/Deactivated_Paseo_Validators.md)
 - [Active Paseo Validators](https://github.com/paseo-network/paseo-rfcs/blob/update-readme-index/rfcs/Active_Paseo_Validators.md)
 
-### Support Model
-- [Core Support Model](https://github.com/paseo-network/paseo-rfcs/blob/main/rfcs/core-support-model.md)
+
