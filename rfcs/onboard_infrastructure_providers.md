@@ -27,9 +27,7 @@ This file should, at least, contain the identity of the contributor.
 The **election criteria** is:
 
 - Contributor is part of [Polkadot 1KV Programme](https://wiki.polkadot.network/docs/thousand-validators).
-- Contributor is part of a collective or initiative service infrastructure services to the Polkadot ecosystem and is backed by its treasury.
 - Contributor maintains an invulnerable collator for a system chain for a parachain connected to either, Kusama or Polkadot.
-- Contributor volunteered bootstrapping the network.
 
 > At least one of the above statements needs to be true.
 
