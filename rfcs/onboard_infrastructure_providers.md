@@ -33,7 +33,7 @@ The **election criteria** is:
 
 > At least one of the above statements needs to be true.
 
-A proof of ownership of the onchain account is required in case the contributor is elegible because of its on-chain activity. This can be provided by signing the following text with your validator's public account:
+A proof of ownership of the onchain account is required in case the contributor is elegible because of its on-chain activity. This can be provided by signing the following text so it can be verified with your validator's on-chain public account:
 
 ```bash
 PASEO
