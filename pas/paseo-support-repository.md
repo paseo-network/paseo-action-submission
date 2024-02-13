@@ -1,5 +1,5 @@
 ### Introduction
-This RFC proposes the creation of a new repository within the paseo-network organization on GitHub, named support. The purpose of this repository is to centralize and streamline the process of handling support requests, issues, and inquiries from the public and contributors.
+This PAS proposes the creation of a new repository within the paseo-network organization on GitHub, named support. The purpose of this repository is to centralize and streamline the process of handling support requests, issues, and inquiries from the public and contributors.
 
 ### Description of the Process
 **1. Repository Creation**

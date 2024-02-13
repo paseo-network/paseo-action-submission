@@ -1,8 +1,8 @@
 ### Introduction
-This RFC proposes the establishment of a dedicated wiki within the paseo-network community. The primary goal of this wiki is to serve as an exhaustive resource for documentation, addressing various aspects of the network, ranging from technical guidelines to general information.
+This PAS proposes the establishment of a dedicated wiki within the paseo-network community. The primary goal of this wiki is to serve as an exhaustive resource for documentation, addressing various aspects of the network, ranging from technical guidelines to general information.
 
-### Linked RFCs
-This RFC will be linked with the [#15 RFC - Create paseo-network/support repository](https://github.com/paseo-network/paseo-rfcs/issues/15)
+### Linked PASs
+This PAS will be linked with the [#15 PAS - Create paseo-network/support repository](https://github.com/paseo-network/paseo-action-submission/issues/15)
 
 ### Purpose
 
