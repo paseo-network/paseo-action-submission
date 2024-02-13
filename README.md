@@ -15,12 +15,12 @@ The Paseo Action Submission Repository serves as a structured platform for submi
 - [Core Support Model](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/core-support-model.md)
   
 ### PASs
-- [paseo network support wiki](https://github.com/paseo-network/paseo-action-submission/blob/update-readme-index/pas/paseo-network-support-wiki.md)
-- [paseo support repository](https://github.com/paseo-network/paseo-action-submission/blob/update-readme-index/pas/paseo-support-repository.md)
-- [Paseo team call schedule](https://github.com/paseo-network/paseo-action-submission/blob/update-readme-index/pas/team-call-schedule.md)
-- [Indexer Explorer.md](https://github.com/paseo-network/paseo-action-submission/blob/update-readme-index/pas/indexer-explorer.md)
-- [Hardware Specs](https://github.com/paseo-network/paseo-action-submission/blob/update-readme-index/pas/Hardware_specs.md)
-- [Deactivated Paseo Validators.md](https://github.com/paseo-network/paseo-action-submission/blob/update-readme-index/pas/Deactivated_Paseo_Validators.md)
-- [Active Paseo Validators](https://github.com/paseo-network/paseo-action-submission/blob/update-readme-index/pas/Active_Paseo_Validators.md)
+- [paseo network support wiki](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/paseo-network-support-wiki.md)
+- [paseo support repository](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/paseo-support-repository.md)
+- [Paseo team call schedule](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/team-call-schedule.md)
+- [Indexer Explorer.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/indexer-explorer.md)
+- [Hardware Specs](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Hardware_specs.md)
+- [Deactivated Paseo Validators.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Deactivated_Paseo_Validators.md)
+- [Active Paseo Validators](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Active_Paseo_Validators.md)
 
 
