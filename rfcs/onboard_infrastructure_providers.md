@@ -1,18 +1,20 @@
 ### Introduction
 
-It seems reasonable that being Paseo a community testnet not a single party has to make all the efforts of maintaining this platform. At the same time, moving away from a single operator should not compromise the availablity of the network.
+Paseo is a decentralised community testnet, we want to open the opportunity for validators in the ecosystem to contribute to the success and scaling of the network.
 
-This RFC talks about how different infrastructure providers can support Paseo network.
+This RFC (PAS) discusses about how different infrastructure providers can join and contribute to the Paseo network.
 
 ### Background
 
-Different members of the Polkadot ecosystem have expressed interest to participate in this initiative. A selection criteria is necessary to don't compromise the network while allowing as many parties as possible. 
+Many individuals and companies that provide infrastructure in the Polkadot ecosystem have expressed interest to participate in Paseo. A selection criteria is necessary to ensure high standards which avoid compromises or downtime to the network, while allowing as many parties as possible.
+
 
 Infrastructure providers can run validators following the information detailed in [#20](https://github.com/paseo-network/paseo-rfcs/issues/20).
 
 ### Proposal
 
-Interested infrastructure providers (referred as _Contributor_ or _the contributor_ from here on) should open a PR in this repository and label is as `infra onboarding`.
+Interested infrastructure providers (referred as _Contributor_ or _the contributor_ from here on) should open a PR in this repository and label it, `infra onboarding``.
+
 
 In this PR they should create a file as described in [#20](https://github.com/paseo-network/paseo-rfcs/issues/20):
 
@@ -24,9 +26,9 @@ paseo-rfcs
 ```
 This file should, at least, contain the identity of the contributor.
 
-The **election criteria** is:
+The **selection criteria** is:
 
-- Contributor is part of [Polkadot 1KV Programme](https://wiki.polkadot.network/docs/thousand-validators).
+- Contributor is part of the [Polkadot 1KV Programme](https://wiki.polkadot.network/docs/thousand-validators).
 - Contributor maintains an invulnerable collator for a system chain for a parachain connected to either, Kusama or Polkadot.
 
 > At least one of the above statements needs to be true.
@@ -46,3 +48,5 @@ Approved contributors will be elegible for compensation and the inclusion of mor
 - Uptime
 - Performance
 - Maintenance
+
+The definition of said metrics as well as the minimum accepted values will be defined in a different RFC(PAS).
