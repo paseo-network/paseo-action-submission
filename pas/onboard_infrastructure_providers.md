@@ -2,21 +2,21 @@
 
 Paseo is a decentralised community testnet, we want to open the opportunity for validators in the ecosystem to contribute to the success and scaling of the network.
 
-This RFC (PAS) discusses about how different infrastructure providers can join and contribute to the Paseo network.
+This PAS (PAS) discusses about how different infrastructure providers can join and contribute to the Paseo network.
 
 ### Background
 
 Many individuals and companies that provide infrastructure in the Polkadot ecosystem have expressed interest to participate in Paseo. A selection criteria is necessary to ensure high standards which avoid compromises or downtime to the network, while allowing as many parties as possible.
 
 
-Infrastructure providers can run validators following the information detailed in [#20](https://github.com/paseo-network/paseo-rfcs/issues/20).
+Infrastructure providers can run validators following the information detailed in [#20](https://github.com/paseo-network/paseo-action-submission/issues/20).
 
 ### Proposal
 
 Interested infrastructure providers (referred as _Contributor_ or _the contributor_ from here on) should open a PR in this repository and label it, `infra onboarding``.
 
 
-In this PR they should create a file as described in [#20](https://github.com/paseo-network/paseo-rfcs/issues/20):
+In this PR they should create a file as described in [#20](https://github.com/paseo-network/paseo-action-submission/issues/20):
 
 ```bash
 paseo-rfcs
@@ -49,4 +49,4 @@ Approved contributors will be elegible for compensation and the inclusion of mor
 - Performance
 - Maintenance
 
-The definition of said metrics as well as the minimum accepted values will be defined in a different RFC(PAS).
+The definition of said metrics as well as the minimum accepted values will be defined in a different PAS(PAS).

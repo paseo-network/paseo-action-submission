@@ -1,5 +1,5 @@
 ### Introduction
-This RFC proposes the implementation of a regular schedule for team calls within the paseo-network community. These calls are aimed at enhancing coordination, communication, and collaboration among team members. A set schedule will ensure regular and effective touchpoints for various aspects of the project.
+This PAS proposes the implementation of a regular schedule for team calls within the paseo-network community. These calls are aimed at enhancing coordination, communication, and collaboration among team members. A set schedule will ensure regular and effective touchpoints for various aspects of the project.
 
 ### Proposed Schedule: 
 The team call schedule will be as follows:
