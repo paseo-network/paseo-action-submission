@@ -5,7 +5,7 @@ Welcome to the Paseo Action Submission (PAS) Repository, the central hub for all
 The Paseo Action Submission Repository serves as a structured platform for submitting, reviewing, and discussing proposals that impact the Paseo network's technical specifications, governance, features, and improvements. Our aim is to ensure that the Paseo testnet evolves in a way that meets the community's needs and adheres to high standards of quality and innovation.
 
 ## How to Contribute
-- Submitting an PAS: To propose a new feature or change, start by creating an PAS document.
+- Submitting a PAS: To propose a new feature or change, start by creating a PAS document.
 - Discussion and Review: Once submitted, the community will review and discuss the proposal. Feedback and constructive criticism are encouraged to refine and improve the proposal.
 - Decision Making: Proposals will be evaluated by the Paseo governance team. Decisions will be made based on community feedback, the proposal's merit, and alignment with Paseo's objectives.
 
