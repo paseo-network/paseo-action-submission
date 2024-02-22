@@ -90,6 +90,9 @@ The workflow to acknowledge and resolve support tickets within specified time fr
 - Support Ticket Handling
   - **Acknowledgment** : Within 24 hours.
   - **Resolution** : Mean time of 72 hours (_varies based on complexity and triage_)
+ 
+Support tickets that are **not** in the scope for the SLA:
+- every ticket that has the "Core" label on it.
 
 **8. High-Level Process Description**
 
