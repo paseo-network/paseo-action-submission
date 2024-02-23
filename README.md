@@ -22,6 +22,16 @@ When creating a PAS, please use the following statuses in the title of your PAS 
 - Decision Making: Proposals will be evaluated by the Paseo governance team. Decisions will be made based on community feedback, the proposal's merit, and alignment with Paseo's objectives.
 - All PAS proposals must be public domain. See in the bottom of this document for an example copyright waiver. 
 
+## What belongs in a successful PAS?
+Each PAS should have the following parts:
+* Preamble - A header including: the PAS number, a short descriptive title (limited to a maximum of 44 characters), and the author details.
+* Simple Summary - Provide a simplified and layman-accessible explanation of the PAS.
+* Abstract - a short (~200 word) description of the issue or change being proposed
+* Motivation - The motivation is optional but strongly suggested for all PAS proposals that propose to change the network in a significant way. For substantial network changes the motivation should clearly explain why the existing specification is inadequate to address the problem that the PAS is proposing. PAS submissions without sufficient motivation may be rejected outright.
+* Specification - The technical specification should describe the syntax and semantics of any new feature.
+* Copyright Waiver - All LEAPs must be in the public domain. See the bottom of this LEAP for an example copyright waiver.
+
+
 ## Index
 
 ### Support Model
