@@ -29,7 +29,7 @@ Each PAS should have the following parts:
 * Abstract - a short (~200 word) description of the issue or change being proposed
 * Motivation - The motivation is optional but strongly suggested for all PAS proposals that propose to change the network in a significant way. For substantial network changes the motivation should clearly explain why the existing specification is inadequate to address the problem that the PAS is proposing. PAS submissions without sufficient motivation may be rejected outright.
 * Specification - The technical specification should describe the syntax and semantics of any new feature.
-* Copyright Waiver - All LEAPs must be in the public domain. See the bottom of this LEAP for an example copyright waiver.
+* Copyright Waiver - All PASs must be in the public domain. See the bottom of this PAS for an example copyright waiver.
 
 
 ## Index
