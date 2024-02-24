@@ -34,7 +34,7 @@ In some cases there could be retroactive payments, if additional services were o
 
 ## Payout process
 Given the nature of the bounty where many individuals or groups will require funding, it makes sense to manage this in a transparent way. 
-2 weeks before the quarter end, an issue will be raised in the Paseo github. Individuals / groups / companies are to comment on the issue, using the following template:
+2 weeks before the quarter end, any individuals / groups / companies are to create a new issue in the /payouts folder of the repo and use the following template to document their payment request:
 
 Name: 
 Contact details (tg/email/element):
@@ -44,6 +44,7 @@ Proactive / Retroactive payment:
 Description: 
 Evidence: 
 
+There should be one Issue created per payment request. 
 This will be used by the curators to validate the work and individuals requesting funding. Rather than using a google form or a model centralised to one indiviudal, this way any of the curators can monitor and propose payments. 
 
 At the start of the quarter, these requests will be paid out onchain to the individuals. 
