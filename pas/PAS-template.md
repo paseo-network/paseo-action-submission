@@ -32,7 +32,7 @@ This is a high level overview of how the PAS will solve the problem. The overvie
 ### Rationale
 This is where you explain the reasoning behind how you propose to solve the problem. The reasoning can include technical specifications if required. It should also document potential trade-offs or considerations in the proposal. This section of the PAS should expand on what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
 
-### Readme
+### PAS README Update.
 
 The PR for the PAS proposal must include the update to the README.md where all the PAS documents are listed.
 
