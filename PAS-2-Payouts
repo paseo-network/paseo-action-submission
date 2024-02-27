@@ -44,7 +44,7 @@ Proactive / Retroactive payment:
 Description: 
 Evidence: 
 
-There should be one Issue created per payment request. 
+There should be one Issue created per payment request using the label `payout`.
 This will be used by the curators to validate the work and individuals requesting funding. Rather than using a google form or a model centralised to one indiviudal, this way any of the curators can monitor and propose payments. 
 
 At the start of the quarter, these requests will be paid out onchain to the individuals. 
