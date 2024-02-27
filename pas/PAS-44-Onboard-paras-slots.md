@@ -6,9 +6,6 @@ author: Alejandro (@al3mart)
 created: 27-02-2024
 ---
 
-Please use this template when creating a new PAS. Note that a PAS number will need to be manually assigned by the author. 
-When creating a PR for your PAS, please use an abbreviated title in the filename, PAS-draft_title_abbrev.md. The title should be 44 characters or less.
-
 ## Summary
 Means to onboard a parachain to Paseo via **leases and slot assingment**.
 This PAS is to be deprecated once parachain scheduling via coretime is deployed in Paseo.
