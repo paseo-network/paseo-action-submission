@@ -1,5 +1,5 @@
 ---
-PAS ID 1
+PAS ID: 1
 title: Template
 status: Draft
 author: Author (@gh_handle)
