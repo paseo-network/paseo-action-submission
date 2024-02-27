@@ -1,5 +1,5 @@
 ---
-PAS: X
+PAS: 0044
 title: Onboarding Parachains - Slots
 status: Proposed
 author: Alejandro (@al3mart)
