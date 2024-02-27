@@ -1,0 +1,61 @@
+---
+PAS: 2
+title: Funding & Payouts Process
+status: Draft
+author: Birdo (@itsbirdo)
+created: 23-02-2024
+---
+
+## Summary
+This PAS documentes the process for requesting funds from the bounty for completed work, or work in advance. 
+
+## Abstract
+To run the Paseo testnet, many payments need to be made to individuals / groups / companies for their work running and maintaining the testnet. 
+This PAS covers the processes for payments including frequency, budget tracking, transparency and reporting to the community. 
+
+## Specification
+### Overview
+The bounty curators will be managing a bounty of 125,018 DOT, approx $850k USD at the time of submission. This DOT needs to be allocated to individuals based on their contribution to the network and as per documented in the treasury proposal. 
+
+As per the proposal the breakdown in funds is as follows:
+
+| Amount (DOT) | Amount (USD) | Allocation |
+| ------------ | ------------ | ---------- |
+| 61,773 DOT   | $420,000 USD | is allocated for 3x full time resources to maintain the protocol | 
+| 44,609 DOT   | $303,300 USD | is allocated for nodes and management of them | 
+| 3,309 DOT    | $22,500 USD  | is allocated for open source validator logging |
+| 4,353 DOT    | $29,600 USD  | is allocated for block explorers |
+| 1,588 DOT    | $10,800 USD  | is allocated for curation fees |
+| 9,383 DOT    | $63,800 USD  | is allocated for contingency |
+
+## Payment structure
+Payments will be made to individuals quarterly in advance, over the 12-month funding period. This is tracked in a budget worksheet, documenting all payments made over the year.
+In some cases there could be retroactive payments, if additional services were offered or increased during the quarter - e.g. a validator spun up additional nodes (at request), beyond the forecast amount. 
+
+## Payout process
+Given the nature of the bounty where many individuals or groups will require funding, it makes sense to manage this in a transparent way. 
+2 weeks before the quarter end, any individuals / groups / companies are to create a new issue in the /payouts folder of the repo and use the following template to document their payment request:
+
+Name: 
+Contact details (tg/email/element):
+Proponent: 
+Requested DOT: 
+Proactive / Retroactive payment: 
+Description: 
+Evidence: 
+
+There should be one Issue created per payment request using the label `payout`.
+This will be used by the curators to validate the work and individuals requesting funding. Rather than using a google form or a model centralised to one indiviudal, this way any of the curators can monitor and propose payments. 
+
+At the start of the quarter, these requests will be paid out onchain to the individuals. 
+
+#### Exceptions
+There may be exceptions that arrise when one off, or monthly payments are required to be made - this is at the curators discression. 
+
+## Curator fees
+Following the [curator proposal] the curators will also be quarterly, retroactivly for the work they completed during the most recent payment run and any monthly / one off payments made during the quarter.
+These will be paid to the curator multisig and then paid individually to the curators. 
+This will also be recorded on the budget spreadsheet. 
+
+## Copyright
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
