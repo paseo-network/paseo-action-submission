@@ -61,6 +61,7 @@ The **selection criteria** is:
 
 - Contributor is part of the [Polkadot 1KV Programme](https://wiki.polkadot.network/docs/thousand-validators).
 - Contributor maintains an invulnerable collator for a system chain for a parachain connected to either, Kusama or Polkadot.
+- They have introduced themselves in [Paseo's public Element channel](https://matrix.to/#/#paseo-testnet-support:parity.io) or at `#paseo-testnet` room in [Polkadot's offical Discord server](https://discord.gg/polkadot).
 
 > At least one of the above statements needs to be true.
 
