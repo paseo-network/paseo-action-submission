@@ -5,7 +5,7 @@ identity:
   website: https://example.io
   twitter: @example
   discord: example
-  riot: @example:matrix.org
+  matrix: @example:matrix.org
 
 system_chain: AssetHub
 
