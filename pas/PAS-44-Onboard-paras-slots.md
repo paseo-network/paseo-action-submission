@@ -7,7 +7,7 @@ created: 27-02-2024
 ---
 
 ## Summary
-Means to onboard a parachain to Paseo via **leases and slot assingment**.
+Means to onboard a parachain to Paseo via **leases and slot assignment**.
 This PAS is to be deprecated once parachain scheduling via coretime is deployed in Paseo.
 
 ## Abstract
