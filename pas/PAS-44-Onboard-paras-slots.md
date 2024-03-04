@@ -26,7 +26,7 @@ To obtain a slot for your parachain, aka upgrading your parathread to a parachai
 This might be handy in case the root action is needed in the relay chain, for instance.
 Users can always open an issue in case their desired `ParaId` is < `4000`.
 Resources will be assigned as long as the network is not at capacity. This depends on the number of validators supporting the network.
-For this test environment we work with the assumtion that there should always be at least 2 validators per parachain running in the network.
+For this test environment we work with the assumption that there should always be at least 2 validators per parachain running in the network.
 
 _If you are willing to support the network, please see [PAS#1](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS_ID1_onboard_infrastructure_providers.md).
 
