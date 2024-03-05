@@ -1,0 +1,13 @@
+identity:
+  display: CLAWBIRD
+  email: luke@clawbird.com
+  website: https://www.clawbird.com
+  twitter: @ltfschoen
+  discord: ltfschoen
+  riot: @ltfschoen:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: CLAWBIRD
+    stash: 5E2HFz8T1R2DhPNT239y4TPAa4iGHgqnFKAD7JSUTKabw2JC
