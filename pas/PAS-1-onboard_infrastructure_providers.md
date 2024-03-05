@@ -13,6 +13,8 @@ created: 15-02-2024
 |---------|----------------------------------|-----------|------------|
 | 1.0     | Initial version                  | @al3mart  | 15-02-2024 |
 | 1.1     | Adding System Parachains and new structure | @hbulgarini | 27-02-2024            |
+| 1.2     | Misleading criteria                  | @al3mart  | 05-03-2024 |
+
 
 ## Summary
 
@@ -62,8 +64,6 @@ The **selection criteria** is:
 - Contributor is part of the [Polkadot 1KV Programme](https://wiki.polkadot.network/docs/thousand-validators).
 - Contributor maintains an invulnerable collator for a system chain for a parachain connected to either, Kusama or Polkadot.
 - They have introduced themselves in [Paseo's public Element channel](https://matrix.to/#/#paseo-testnet-support:parity.io) or at `#paseo-testnet` room in [Polkadot's offical Discord server](https://discord.gg/polkadot).
-
-> At least one of the above statements needs to be true.
 
 A proof of ownership of the onchain account is required in case the contributor is elegible because of its on-chain activity. This can be provided by signing the following text so it can be verified with your validator's on-chain public account:
 
