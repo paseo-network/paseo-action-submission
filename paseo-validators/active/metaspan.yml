@@ -11,5 +11,8 @@ accounts:
   0:
     identity:
       display: METASPAN
-      twitter: @metaspan_io
     stash: 5EResBHk8rwXfd1fxrhUqR5b8fFHxkzCtLLk9GSopgAnmP5v
+  1:
+    identity:
+      display: METASPAN/2
+    stash: 5GjQw9YE8dd9pobndLDoEc1CQQzTZY8d9kiyTzPQU6arWcRh
