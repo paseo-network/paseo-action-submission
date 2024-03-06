@@ -1,0 +1,17 @@
+identity:
+  display: CoinStudio
+  email: coinstudio.polkadot@gmail.com
+  website: na
+  twitter: @CoinStudio3
+  discord: CoinStudio
+  riot: @coinstudio:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: CoinStudio
+    stash: 5FJ7mri5qMgoAA1u6GptebqbPT1QXpPggoABrpgs2NJprKwz
+  1:
+    identity:
+      display: CoinStudio/02
+    stash: 5HRKPCr1YaRKLGJLMeG41iHs82XiAduBFgVasn8mMBfobneH
