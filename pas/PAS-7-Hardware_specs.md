@@ -1,4 +1,4 @@
-# Paseo Hardware specs
+## **PAS 2 - Core Support Model**
 
 
 ## Validators and Collators
