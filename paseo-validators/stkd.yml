@@ -1,0 +1,17 @@
+identity:
+  display: STKD.io
+  email: hello@STKD.io
+  website: https://STKD.io
+  twitter: @frazzled_dazzle
+  discord: 
+  riot: @frazzled:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: STKD.io/01
+    stash: 5GnMSvfjUpRSwyQyzbrFfGqAS6vhBnLGtQCmPDikshemP4Jh
+  1:
+    identity:
+      display: STKD.io/02
+    stash: 5HbS4tbvbvwtLXDQNeM2hw8WbHFbaTtPskYEQhLASMFNYYLX
