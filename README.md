@@ -15,12 +15,14 @@ The Paseo Action Submission Repository serves as a structured platform for submi
 - [Core Support Model](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/core-support-model.md)
   
 ### PASs
-- [paseo network support wiki](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/paseo-network-support-wiki.md)
-- [paseo support repository](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/paseo-support-repository.md)
-- [Paseo team call schedule](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/team-call-schedule.md)
-- [Indexer Explorer.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/indexer-explorer.md)
-- [Hardware Specs](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Hardware_specs.md)
-- [Deactivated Paseo Validators.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Deactivated_Paseo_Validators.md)
-- [Active Paseo Validators](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Active_Paseo_Validators.md)
+- [PAS - Active Paseo Validators](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Active_Paseo_Validators.md)
+- [PAS - Deactivated Paseo Validators.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Deactivated_Paseo_Validators.md)
+- [PAS - Hardware Specs](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Hardware_specs.md)
+- [PAS - PAS 0 - Template](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-0-template.md)
+- [PAS - PAS 1 - Onboarding Infraestructure Providers](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-1-onboard_infrastructure_providers.md)
+- [PAS - Indexer Explorer.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/indexer-explorer.md)
+- [PAS - paseo network support wiki](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/paseo-network-support-wiki.md)
+- [PAS - paseo support repository](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/paseo-support-repository.md)
+- [PAS - Paseo team call schedule](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/team-call-schedule.md)
 
 
