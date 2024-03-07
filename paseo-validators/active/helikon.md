@@ -1,0 +1,17 @@
+identity:
+  display: Helikon
+  email: info@helikon.io
+  website: https://helikon.io
+  twitter: @helikonlabs
+  discord: kukabi
+  riot: @helikon:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: HELIKON/ISTANBUL
+    stash: 5FKoLJA8u17wewFsFsiEmgkywujgb8wWBB7gupaCSvxiWiC8
+  1:
+    identity:
+      display: HELIKON/SOUTH
+    stash: 5DS6B8MqPBXh84tp1ciKFAphZWoVSUbAL5NafGvrnoKwt7CD
