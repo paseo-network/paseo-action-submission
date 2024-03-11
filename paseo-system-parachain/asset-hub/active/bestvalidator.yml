@@ -1,0 +1,17 @@
+# Identity to be set up for all system chain collators running by Example
+identity:
+  display: BestValidator
+  email: hello@bestvalidator.com
+  website: https://bestvalidator.com
+  twitter: @mosonyi_zoltan
+  discord: mosonyi
+  riot: @mosonyi:matrix.org
+
+system_chain: AssetHub
+
+accounts:
+  0:
+    identity:
+      display: BESTVALIDATOR/ASSETHUB
+    account_id: 5GKZxQUUmm3XkiUwU9JtLYGSw7KfkLPuRzrEfDf9NAUXznSW
+    aura_id: 
