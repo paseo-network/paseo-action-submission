@@ -1,0 +1,22 @@
+# Identity to be set up for all system chain collators running by Example
+identity:
+  display: METASPAN
+  email: derek@metaspan.com
+  website: https://metaspan.com
+  twitter: @metaspan_io
+  discord: metaspan
+  matrix: @metaspan:matrix.org
+
+system_chain: AssetHub
+
+accounts:
+  0:
+    identity:
+      display: METASPAN
+    account_id: 5E23oG3S4QWjpgNdy1CjN5QYwtGPvL8MptoyYZUmzFMe8Ad2
+    aura_id: 0x5671dbde4ee95b0ecbb5edd16cc8af70c037ca40b27f9fa01e35b1ec2de62da9
+  1:
+    identity:
+      display: METASPAN/2
+    account_id: 5HpD97VcYdeq233mkRC957U74mtzZN1EGHsShXtUzfbC9611
+    aura_id: 0xfe5b4bf873e09becfef681b3bd58f4aef3ff492d3933962fece729f19c55a55f
