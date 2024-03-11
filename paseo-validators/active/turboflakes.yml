@@ -1,0 +1,12 @@
+identity:
+  display: turboflakes.io
+  email: support@turboflakes.io
+  website: https://turboflakes.io
+  twitter: @turboflakes
+  riot: @turboflakes:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: turboflakes.io
+    stash: 5CQN2L4soC8G6L3nngT42oTEc28BCmNvDEt5RwtpYV7QBScp
