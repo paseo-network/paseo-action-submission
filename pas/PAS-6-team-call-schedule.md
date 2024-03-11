@@ -1,3 +1,10 @@
+---
+PAS: 6
+title: Team Call Scheduled
+status: Open
+author: Edu Clerici (@educlerici-zondax)
+created: 23-02-2024
+---
 
 ### Introduction
 This PAS proposes the implementation of a regular schedule for team calls within the paseo-network community. These calls are aimed at enhancing coordination, communication, and collaboration among team members. A set schedule will ensure regular and effective touchpoints for various aspects of the project.
