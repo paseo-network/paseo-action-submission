@@ -1,5 +1,10 @@
-## **PAS 2 - Core Support Model**
-
+---
+PAS: 7
+title: Hardware Specs
+status: Open
+author: Edu Clerici (@educlerici-zondax)
+created: 23-02-2024
+---
 
 ## Validators and Collators
 
