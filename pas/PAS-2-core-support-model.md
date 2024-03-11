@@ -1,4 +1,10 @@
-## **PAS 2 - Core Support Model**
+---
+PAS: 2
+title: Core Support Model
+status: Open
+author: Edu Clerici (@educlerici-zondax)
+created: 23-02-2024
+---
 
 **1. Purpose**
 
