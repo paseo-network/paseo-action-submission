@@ -12,6 +12,7 @@
 | 5FJ7mri5qMgoAA1u6GptebqbPT1QXpPggoABrpgs2NJprKwz | COINSTUDIO |
 | 5FKoLJA8u17wewFsFsiEmgkywujgb8wWBB7gupaCSvxiWiC8 | HELIKON/ISTANBUL |
 | 5GnMSvfjUpRSwyQyzbrFfGqAS6vhBnLGtQCmPDikshemP4Jh | STKD.IO/01 |
+| 5DvoL2BNoSm7wRt2tfZ6WW5QFrxm68GLv5SCrPQ4JBLjbvpL | POLKADOTTERS |
 
 
 
