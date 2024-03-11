@@ -1,4 +1,4 @@
-**Paseo Testnet Process - Operation and Maintenance**
+## **PAS 2 - Core Support Model**
 
 **1. Purpose**
 
