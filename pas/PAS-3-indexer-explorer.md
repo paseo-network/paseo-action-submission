@@ -1,4 +1,10 @@
-## **PAS 3 - Indexer Explorer**
+---
+PAS: 3
+title: Indexer Explorer
+status: Open
+author: Edu Clerici (@educlerici-zondax)
+created: 23-02-2024
+---
 
 ### Introduction
 This PAS proposes the adoption of TopMonks' Calamar, a robust indexer/explorer solution, for the paseo-network. The integration of this tool aims to enhance the network's transparency, accessibility, and user experience by providing an efficient way to query and visualize on-chain data.
