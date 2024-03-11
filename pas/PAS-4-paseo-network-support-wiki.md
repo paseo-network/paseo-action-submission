@@ -1,3 +1,10 @@
+---
+PAS: 4
+title: Paseo Network Support Wiki
+status: Open
+author: Edu Clerici (@educlerici-zondax)
+created: 23-02-2024
+---
 
 ### Introduction
 This PAS proposes the establishment of a dedicated wiki within the paseo-network community. The primary goal of this wiki is to serve as an exhaustive resource for documentation, addressing various aspects of the network, ranging from technical guidelines to general information.
