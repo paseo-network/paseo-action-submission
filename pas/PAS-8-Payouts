@@ -1,5 +1,5 @@
 ---
-PAS: 2
+PAS: 8
 title: Funding & Payouts Process
 status: Draft
 author: Birdo (@itsbirdo)
