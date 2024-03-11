@@ -1,0 +1,13 @@
+identity:
+  display: ValidOrange
+  email: doug@validorange.net
+  website: https://www.validorange.net
+  twitter: @ValidOrangeDOT
+  discord: validorange_17972
+  riot: @validorange:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: ValidOrange-PAS1
+    stash: 5G9M1Y4GLtEesD97uYjamzuG473WXfCWjfCJzx14nrFpexeV
