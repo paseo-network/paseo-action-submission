@@ -10,3 +10,7 @@ accounts:
     identity:
       display: turboflakes.io
     stash: 5CQN2L4soC8G6L3nngT42oTEc28BCmNvDEt5RwtpYV7QBScp
+  1:
+    identity:
+      display: turboflakes.io/v1
+    stash: 5HpwUjPDgg4YUzVcSjUaLXipVc4tSKofMvwiLLVbSFkjTQdu
