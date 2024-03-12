@@ -1,0 +1,19 @@
+# Identity to be set up for all validators running by Gatotech
+identity:
+  display: Gatotech
+  email: info@gatotech.uk
+  website: https://gatotech.uk
+  twitter: '@gatotech_uk'
+  discord: gatotech_uk
+  riot: '@gatotech:matrix.org'
+
+accounts:
+  0:
+    identity:
+      display: GATOTECH/UK1
+    stash: 5Fgato4wJxwZicavjaKQ9oG5e2M1S5wUfy7mMxsw1HTw95ub
+  1:
+    identity:
+      display: GATOTECH/UK2
+    stash: 5Ggatomsdkh6ByjPUfrHvEhdGpGNFh8rai1cdzokJz3KvgD1
+    
