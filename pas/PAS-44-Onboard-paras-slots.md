@@ -6,14 +6,20 @@ author: Alejandro (@al3mart)
 created: 27-02-2024
 ---
 
+## Changelog
+
+| Version | Description                      | Author    | Date       |
+|---------|----------------------------------|-----------|------------|
+| 1.0     | Initial version                  | @al3mart  | 12-03-2024 |
+
 ## Summary
 Means to onboard a parachain to Paseo via **leases and slot assignment**.
 This PAS is to be deprecated once parachain scheduling via coretime is deployed in Paseo.
 
 ## Abstract
 In this document users can find the steps to follow to register their parachain in Paseo.
-- Maintainers of a live parachain in Polkadot or Kusama will be granted a slot in Paseo with no expiration date.
-- Maintainers of parachains in development, or those that have not yet secured a slot in Kusama or Polkadot, will be assigned a lease for a shorter period of time.
+- Maintainers of a live parachain in Polkadot or Kusama will be granted a slot in Paseo for 1 year long.
+- Maintainers of parachains in development, or those that have not yet secured a slot in Kusama or Polkadot, will be assigned a lease for a shorter period of time: 2 weeks long.
 
 ## Motivation
 At the moment of writing there is no way a user without access to root origin can get their parachain's block finalised by Paseo.
