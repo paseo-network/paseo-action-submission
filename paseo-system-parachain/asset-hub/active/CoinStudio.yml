@@ -6,8 +6,11 @@ identity:
   discord: CoinStudio
   riot: @coinstudio:matrix.org
 
+system_chain: AssetHub
+
 accounts:
   0:
     identity:
       display: CoinStudio
     stash: 5FJ7mri5qMgoAA1u6GptebqbPT1QXpPggoABrpgs2NJprKwz
+    aura_id: 0xde05506c73f35cf0bd50652b719369c2e20be9bf2c8522bd6cb61059a0cb0033
