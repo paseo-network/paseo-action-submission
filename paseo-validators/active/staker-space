@@ -1,0 +1,18 @@
+# Identity to be set up for all validators running by staker-space
+identity:
+  display: 'Staker Space'
+  email: hello@staker.space
+  website: https://staker.space
+  twitter: @StakerSpace
+  discord: sustakerspace
+  riot: @suley:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: Staker Space/01
+    stash: 5C5qC2fWTm7ZeakAMM2XvSKwGngpcdnDuWLJM3f5V1SLt9wN
+  1:
+    identity:
+      display: Staker Space/02
+    stash: 5ECNsUYwvcc5cEKaUzAu1AVECPpvFsCxiyRevs7orRJeDkze
