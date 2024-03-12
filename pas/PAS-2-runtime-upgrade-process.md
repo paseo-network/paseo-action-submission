@@ -1,6 +1,6 @@
 ---
 PAS ID: 2
-title: Runtime Upgradte
+title: Runtime Upgrade
 status: Open
 author: Author (@educlerici_zondax)
 created: 20-02-2024
@@ -12,6 +12,7 @@ created: 20-02-2024
 |---------|----------------------------------|-----------|------------|
 | 1.0     | Initial version                  | Edu Clerici  | 20-02-2024 |
 | 1.1     | Update to PAS Repository         | Edu Clerici  |            |
+| 1.2     | Include pre-approval caveats         | @al3mart  | 12-03-2024 |
 
 
 ## Summary
@@ -28,21 +29,37 @@ This process covers all steps from the initial planning and scheduling of a runt
 ## Process Overview
 ### Preparation
 1.1 Proposal Review: Ensure the runtime upgrade has been thoroughly reviewed and tested. This includes peer review of the code changes and testing in a controlled environment.
+
+1.1.1 Leverage ecosystem tools such as [chopsticks](https://github.com/AcalaNetwork/chopsticks) and [try-runtime-cli](https://github.com/paritytech/try-runtime-cli) to get as many warranties as possible before the approval o fthe changes. Ideally the reviewer will use try-runtime-cli to verify the correctness of the migrations, if applicable, either pulling the state of the live network or from a local fork.
+If migrations testing seems healthy the runtime upgrade should then be enacted in a local fork that should outlive the upgrade to see the following happening without problems:
+
+- an epoch change
+- an era change
+- any other even affected due to a migration or the removal or inclusion of new logic.
+
+> Even though his should be enough to warranty the safety of the runtime, this process doesn't assure changes requiring action from validators on their infrastructure, as in a local environment these are not present. Different meassures should be taken to check these scenarios. Arguably upgrades to Paseo will happen after Kusama, so that should be a good indicator of stability in this front.
+
 1.2 Communication Plan: Prepare a communication plan to inform validators, developers, and users about the upcoming upgrade, including timelines and expected actions.
 
 ### Scheduling
 2.1 Determine Upgrade Window: Choose a time for the upgrade that minimizes impact on network users. Consider different time zones and network activity patterns.
+
 2.2 Notify Stakeholders: Use the communication plan to notify all stakeholders of the scheduled upgrade time. Provide detailed instructions for validators and users, if any actions on their part are required.
 ### Execution
 3.1 Final Checks: Perform last-minute checks and ensure all stakeholders are prepared for the upgrade.
+
 3.2 Deploy Upgrade: Execute the runtime upgrade using the agreed-upon method (e.g., Sudo, Democracy proposal, or other governance mechanisms).
+
 3.3 Monitor Deployment: Closely monitor the network for any unexpected behavior as the upgrade takes effect.
 ### Validation
 4.1 Verify Upgrade Success: Confirm that the new runtime is operating as expected. Check block production, transaction processing, and other critical network functions.
+
 4.2 Stakeholder Feedback: Gather feedback from validators, developers, and users to ensure the upgrade has not introduced any unforeseen issues.
 ### Post-Deployment
 5.1 Update Documentation: Ensure all relevant documentation is updated to reflect the new runtime features or changes.
+
 5.2 Communicate Completion: Inform all stakeholders that the upgrade has been successfully completed and the network is stable.
+
 5.3 Review Process: Conduct a post-upgrade review to identify any issues or improvements for future upgrades.
 ## Roles and Responsibilities
 - Core Developers: Prepare the runtime upgrade, perform testing, and assist in troubleshooting post-upgrade issues.
