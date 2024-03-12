@@ -30,7 +30,7 @@ This process covers all steps from the initial planning and scheduling of a runt
 ### Preparation
 1.1 Proposal Review: Ensure the runtime upgrade has been thoroughly reviewed and tested. This includes peer review of the code changes and testing in a controlled environment.
 
-1.1.1 Leverage ecosystem tools such as [chopsticks](https://github.com/AcalaNetwork/chopsticks) and [try-runtime-cli](https://github.com/paritytech/try-runtime-cli) to get as many warranties as possible before the approval o fthe changes. Ideally the reviewer will use try-runtime-cli to verify the correctness of the migrations, if applicable, either pulling the state of the live network or from a local fork.
+1.1.1 Leverage ecosystem tools such as [chopsticks](https://github.com/AcalaNetwork/chopsticks) and [try-runtime-cli](https://github.com/paritytech/try-runtime-cli) to get as many warranties as possible before the approval of the changes. Ideally the reviewer will use try-runtime-cli to verify the correctness of the migrations, if applicable, either pulling the state of the live network or from a local fork.
 If migrations testing seems healthy the runtime upgrade should then be enacted in a local fork that should outlive the upgrade to see the following happening without problems:
 
 - an epoch change
