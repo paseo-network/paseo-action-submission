@@ -2,14 +2,14 @@
 PAS: 7
 title: Hardware Specs
 status: Open
-author: Edu Clerici (@educlerici-zondax)
+author: Hector Bulgarini
 created: 23-02-2024
 ---
 ## Changelog
 
 | Version | Description                      | Author    | Date       |
 |---------|----------------------------------|-----------|------------|
-| 1.0     | Initial version                  | Edu Clerici  | 23-02-2024 |
+| 1.0     | Initial version                  | Hector Bulgarini  | 23-02-2024 |
 | 1.1     | ...                              |              |            |
 
 
