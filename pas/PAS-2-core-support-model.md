@@ -6,8 +6,16 @@ author: Edu Clerici (@educlerici-zondax)
 created: 23-02-2024
 ---
 
-**1. Purpose**
+## Changelog
 
+| Version | Description                      | Author    | Date       |
+|---------|----------------------------------|-----------|------------|
+| 1.0     | Initial version                  | Edu Clerici  | 23-02-2024 |
+| 1.1     | ...                              |              |            |
+
+
+
+## Summary
 The purpose of operating and maintaining the Paseo testnet is to cater to the needs of various stakeholders in the ecosystem. These include:
 
 - Parachains
@@ -15,10 +23,12 @@ The purpose of operating and maintaining the Paseo testnet is to cater to the ne
 - API Builders
 - Validators
 - Custodians
+  
+## Abstract
+A short description of the proposed change, this should clearly describe the proposed change that will happen if this PAS is passed rather than why it should be done or the detail behind how to complete the changes. 
 
-**2. Scope of Work**
 
-**2.1 Documentation**
+## Documentation
 
 - **Internal Processes** : Documenting standard operating procedures, workflows, and best practices for the team.
 - **Basic Tutorials** : Creating guides for new users and stakeholders to engage with Paseo Network.
@@ -128,3 +138,10 @@ Provide regular updates to stakeholders and the community in different formats.
 
 - **Weekly Updates** : Written summary about what update was done during the week.
 - **Monthly Reporting** :Written Blog Format summary about what happened during the current month.
+
+### PAS README Update.
+
+The PR for the PAS proposal must include the update to the README.md where all the PAS documents are listed.
+
+## Copyright
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
