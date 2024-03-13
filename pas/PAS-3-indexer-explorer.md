@@ -1,12 +1,26 @@
-## **PAS 3 - Indexer Explorer**
+---
+PAS: 3
+title: Indexer Explorer
+status: Open
+author: Edu Clerici (@educlerici-zondax)
+created: 23-02-2024
+---
 
-### Introduction
+## Changelog
+
+| Version | Description                      | Author    | Date       |
+|---------|----------------------------------|-----------|------------|
+| 1.0     | Initial version                  | Edu Clerici  | 23-02-2024 |
+| 1.1     | ...                              |              |            |
+
+
+## Summary
 This PAS proposes the adoption of TopMonks' Calamar, a robust indexer/explorer solution, for the paseo-network. The integration of this tool aims to enhance the network's transparency, accessibility, and user experience by providing an efficient way to query and visualize on-chain data.
 
-### Background
+## Abstract
 An indexer/explorer is crucial for blockchain networks, offering users and developers a user-friendly interface to interact with the blockchain, search transactions, blocks, and addresses, and monitor network activity. The choice of an effective indexer/explorer is pivotal for ensuring network transparency and usability.
 
-### Proposal
+## Proposal
 **Calamar Indexer/Explorer**
 After evaluating several options, we propose the implementation of Calamar, developed by TopMonks. Key features and considerations include:
 
@@ -17,7 +31,7 @@ After evaluating several options, we propose the implementation of Calamar, deve
 - Performance: Calamar's performance in terms of speed, reliability, and scalability.
 - Community Support: Evaluate the level of ongoing support and development activity in the Calamar community.
 
-### Implementation Plan
+## Implementation Plan
 - Initial Setup: Configure and deploy Calamar in a test environment for paseo-network.
 - Integration Testing: Rigorous testing to ensure compatibility and performance meet our network's requirements.
 - Customization: Make necessary customizations to tailor Calamar to paseo-network's specific needs.
@@ -61,8 +75,11 @@ For more information about them, the official documentation can be found [here](
 - GiantSquid main (Optional)
 - GiantSquid stats (Optional)
 
-### Goals
+## Goals
 
 - Enhanced User Experience: Providing a user-friendly interface for network interaction and data exploration.
 - Increased Transparency: Making on-chain data easily accessible and understandable to users.
 - Community Engagement: Encouraging community involvement in improving and maintaining the indexer/explorer.
+
+## Copyright
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

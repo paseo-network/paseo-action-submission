@@ -1,11 +1,22 @@
-## **PAS 2 - Core Support Model**
+---
+PAS: 7
+title: Hardware Specs
+status: Open
+author: Hector Bulgarini
+created: 23-02-2024
+---
+## Changelog
+
+| Version | Description                      | Author    | Date       |
+|---------|----------------------------------|-----------|------------|
+| 1.0     | Initial version                  | Hector Bulgarini  | 23-02-2024 |
+| 1.1     | ...                              |              |            |
 
 
-## Validators and Collators
-
+## Summary
 These hardware specs takes as a reference the Polkadot hardware specs listed [here](https://wiki.polkadot.network/docs/maintain-guides-how-to-validate-polkadot#requirements). The initial group supporting Paseo Network decided to set the 1/2 of the resources needed for Polkadot (except the storage which much less than 1TB is needed).
 
-### Hardware specs details:
+## Hardware specs details:
 
 - CPU
   - x86-64 compatible;
@@ -22,3 +33,5 @@ These hardware specs takes as a reference the Polkadot hardware specs listed [he
 - Network
   - The minimum symmetric networking speed is set to 500 Mbit/s (= 62.5 MB/s). This is required to support a large number of parachains and allow for proper congestion control in busy network situations
 
+## Copyright
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

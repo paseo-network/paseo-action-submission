@@ -1,7 +1,6 @@
-
 ---
 PAS ID: 1
-title: Template
+title: Onboard Infraestructure Provider
 status: Draft
 author: Alejandro Martinez (@al3mart)
 created: 15-02-2024
