@@ -1,0 +1,11 @@
+identity:
+  display: Parity Technologies
+  email: devops@parity.io
+  website: https://parity.io
+  twitter: @paritytech
+
+accounts:
+  0:
+    identity:
+      display: PARITY-VALIDATOR-0
+    stash: 5Ea38N1YzxnfDEkGRNixPE4oXALAuMK4XDoYpH4fyZahdrLL
