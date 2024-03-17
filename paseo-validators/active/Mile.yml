@@ -1,0 +1,17 @@
+identity:
+  display: Mile
+  email: mherceg@protonmail.com
+  website: NA
+  twitter: NA
+  discord: mherceg
+  riot: @matherceg:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: Mile
+    stash: 5CMheRzc8yw6fzan97QdVpBtJ7vu2dVpomzLEvmWPWjMnjCs
+  1:
+    identity:
+      display: Mile/Bravo
+    stash: 5C7MHerZDXGsKbJP3i5EEJ71GjX3bdJGhdKNrjEED9znjSw7
