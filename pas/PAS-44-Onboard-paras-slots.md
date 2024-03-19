@@ -28,7 +28,7 @@ At the moment of writing there is no way a user without access to root origin ca
 ### Overview
 
 Users can do a regular registration via dispatching the extrinsics `registrar.reserve` to reserve a `ParaId` and `registrar.register` to submit their code and state. 
-To obtain a slot for your parachain, aka upgrading your parathread to a parachain, users can log an issue in [Paseo's support repository](https://github.com/paseo-network/support) for what they can use the custom issue template in https://github.com/paseo-network/support/issues/new/choose.
+To obtain a slot for your parachain, aka upgrading your parathread to a parachain, users can log an issue in [Paseo's support repository](https://github.com/paseo-network/support) for that, they can use the custom issue template in https://github.com/paseo-network/support/issues/new/choose.
 This might be handy in case the root action is needed in the relay chain, for instance.
 Users can always open an issue in case their desired `ParaId` is < `4000`.
 Resources will be assigned as long as the network is not at capacity. This depends on the number of validators supporting the network.
