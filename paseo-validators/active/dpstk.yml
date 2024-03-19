@@ -1,0 +1,17 @@
+identity:
+  display: DPSTK
+  email: david@fuxbau.cc
+  website: 
+  twitter: 
+  discord: 
+  riot: @dapestake:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: DPSTK - VAL01
+    stash: 5DykdhyMLNa6qPgcGimqfgm9JHTiZMwqzzQdHPjPFjZ7Do9P
+  1:
+    identity:
+      display: DPSTK - VAL02
+    stash: 5DwJqeX5sz3RmqiYfj6KP7EbQHkTMRpraNQEAo5tCF1U4sHv
