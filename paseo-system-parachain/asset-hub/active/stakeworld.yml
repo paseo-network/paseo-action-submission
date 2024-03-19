@@ -1,0 +1,16 @@
+identity:
+  display: Stakeworld.io
+  email: info@stakeworld.io
+  website: https://stakeworld.io
+  twitter: na
+  discord: na
+  riot: '@stakeworld:matrix.org'
+
+system_chain: AssetHub
+
+accounts:
+  0:
+    identity:
+      display: Stakeworld.io
+    stash: 5ENXgjWyXkG6zdanViiF4xJcfZ1DS6SYPyg8vdenKVub6tXG
+    aura_id: 
