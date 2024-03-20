@@ -1,0 +1,18 @@
+# Identity to be set up for all validators running by Example
+identity:
+  display: Amforc
+  email: staking@amforc.com
+  website: https://amforc.com
+  twitter: @amforcag
+  discord:
+  riot: @tugytur:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: Amforc/1
+    stash: 5DDVAkXRMSkkmrB2yqrbFvPCZt8xaPawcy2bEvBsCJRRiUtm
+  1:
+    identity:
+      display: Amforc/2
+    stash: 5DcD6We4htNwjE97MhKvn1HDxKBB2fZK3C69C7ET6FxmWtrJ
