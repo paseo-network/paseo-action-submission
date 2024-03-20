@@ -10,11 +10,9 @@ The individuals involved in creating a PAS are:
 2. the Paseo Governance Team (PGT) which are the signers on the sudo multisig
 
 When creating a PAS, please use the following statuses in the title of your PAS - this allows the community to see which proposals have been implemented and which are still in discussion. Please update the status with a PR. 
-* Draft -- This PAS is a work in progress
-* Proposed -- This PAS has been submitted to the Paseo Governance Team for review
-* Approved -- This PAS has been approved, but hasn't yet been implemented
-* Rejected -- This PAS has been rejected by the Paseo Governance Team
-* Implemented -- This PAS has been implemented
+* Open: Proposed and under discussion PAS
+* Merged: Approved and merged PAS
+* Closed: Dissaproved PAS
 
 ## How to Contribute
 - Submitting a PAS: To propose a new feature or change, start by creating a PAS document.
