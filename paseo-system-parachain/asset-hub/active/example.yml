@@ -1,0 +1,23 @@
+# Identity to be set up for all system chain collators running by Example
+identity:
+  display: Example
+  email: hi@example.io
+  website: https://example.io
+  twitter: @example
+  discord: example
+  matrix: @example:matrix.org
+
+system_chain: AssetHub
+
+accounts:
+  # Here example is running two collators, 0 and 1
+  0:
+    identity:
+      display: Example-01
+    account_id: 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY
+    aura_id: 0x78a70e070479190982e8d28ff0c038c1f20690619576525d48312c2cbdb1f3ed
+  1:
+    identity:
+      display: Example-02
+    account_id: 5FHneW46xGXgs5mUiveU4sbTyGBzmstUspZC92UhjJM694ty
+    aura_id: 0xc74979afe16f7c78bca0a339e0c7f072e8668954a558cb431c7d9207d70954a0

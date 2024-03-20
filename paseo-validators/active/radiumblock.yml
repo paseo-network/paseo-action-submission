@@ -1,0 +1,15 @@
+identity:
+  display: RADIUMBLOCK.COM
+  email: info@radiumblock.com
+  website: https://radiumblock.com
+  twitter: @radiumblock
+
+accounts:
+  0:
+    identity:
+      display: RADIUMBLOCK.COM
+    stash: 5GWKuZt5LX3YaeAjaY3tm5HxmG7cx5kuKxbQvcxhVxxrSsRJ
+  1:
+    identity:
+      display: RADIUMBLOCK.COM/02
+    stash: 5CVMYZfczGFhu3huQcE7RDTNgvNGxBvKczA4Nd6XzRnb6ibC

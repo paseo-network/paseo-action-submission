@@ -33,17 +33,16 @@ Each PAS should have the following parts:
 ## Index
 
 ### Support Model
-- [Core Support Model](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/core-support-model.md)
+- [PAS 2 - Core Support Model](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-2-core-support-model.md)
   
 ### PASs
-- [paseo network support wiki](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/paseo-network-support-wiki.md)
-- [paseo support repository](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/paseo-support-repository.md)
-- [Paseo team call schedule](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/team-call-schedule.md)
-- [Indexer Explorer.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/indexer-explorer.md)
-- [Hardware Specs](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Hardware_specs.md)
-- [Deactivated Paseo Validators.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Deactivated_Paseo_Validators.md)
-- [Active Paseo Validators](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/Active_Paseo_Validators.md)
 
-## Copyright
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
+- [PAS 0 - Template](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-0-template.md)
+- [PAS 1 - Onboarding Infraestructure Providers](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-1-onboard_infrastructure_providers.md)
+- [PAS 3 - Indexer Explorer.md](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-3-indexer-explorer.md)
+- [PAS 4 - Paseo Network Support Wiki](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-4-paseo-network-support-wiki.md)
+- [PAS 44 - Onboard Paras Slots](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-44-Onboard-paras-slots.md)
+- [PAS 5 - Paseo Support Repository](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-5-paseo-support-repository.md)
+- [PAS 6 - Paseo Team call Schedule](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-6-team-call-schedule.md)
+- [PAS 7 - Hardware Specs](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-7-Hardware_specs.md)
+- [PAS 8 - Payouts](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-8-Payouts.md)

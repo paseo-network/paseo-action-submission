@@ -1,0 +1,17 @@
+identity:
+  display: Sik | crifferent.de
+  email: simon.kraus@crifferent.de
+  website: https://crifferent.de
+  twitter: @dev0_sik
+  discord: dev0_sik
+  riot: @dev0_sik:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: Sik | crifferent.de
+    stash: 5H1MgERwsj7NWejMibokz8wPrc2N5obU1G7v9MUWz5hmSydS
+  1:
+    identity:
+      display: Sik 2 | crifferent.de
+    stash: 5Fpq4Rxhu6UbAs52wHMzHmjxSVBNz2eJMiQ9n6gcj1UxQMmy
