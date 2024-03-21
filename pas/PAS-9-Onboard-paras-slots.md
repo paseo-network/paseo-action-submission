@@ -1,5 +1,5 @@
 ---
-PAS: 44
+PAS: 9
 title: Onboarding Parachains - Slots
 status: Proposed
 author: Alejandro (@al3mart)
