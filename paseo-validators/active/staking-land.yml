@@ -1,0 +1,17 @@
+identity:
+  display: Staking Land
+  email: stakingland@telutions.com
+  website: https://stakingland.de
+  twitter: @erco773
+  discord:
+  riot: @erk773:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: Staking Land
+    stash: 5DaVS2qqHgZEkZVam6JvFEPu9AhVmUaDPjtT9vibCR1kQ3oa
+  1:
+    identity:
+      display: Staking Land 2
+    stash: 5HpC6p5y3MyNZWbjE9vhYRafVR56tFqgkLFWLAcWcWUWd6cF
