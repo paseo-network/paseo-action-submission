@@ -4,3 +4,12 @@ whitelist:
   #   maxBalance: 1000000.5 # optional, if not set, maxBalance is infinity
   - name: Root
     address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
+  - name: Nominator#0
+    address: 5DCbjf8MwtnkyWDEbTY7JNM2QbtQXeYdYgQ4nAG5YY8fnaCC
+    maxBalance: 17000000
+  - name: Nominator#1
+    address: 5EU2WqnjsQSep54U8EhJ2tfy28rd4jfjjnntCcwh9b4sSnrf
+    maxBalance: 17000000
+  - name: Nominator#2
+    address: 5GVjoEAozFPhw7m2t3fUzoX5RS8Pz5ZiZF7WCezx1s1L89Cz
+    maxBalance: 17000000
