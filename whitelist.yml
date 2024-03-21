@@ -1,0 +1,6 @@
+whitelist:
+  # - name: Example
+  #   address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
+  #   maxBalance: 1000000.5 # optional, if not set, maxBalance is infinity
+  - name: Root
+    address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
