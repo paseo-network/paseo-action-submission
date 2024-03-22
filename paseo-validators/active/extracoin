@@ -1,0 +1,17 @@
+identity:
+  display: ExtraCoin
+  email: yaronski@protonmail.com
+  website: na
+  twitter: @yaronski
+  discord: _yrn_
+  riot: @yrn:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: ExtraCoin/01
+    stash: 5EXtrLLidiQGKFMCekvH2B7E8ge3kugG7ZJugSiR7gASZBQ1
+  1:
+    identity:
+      display: ExtraCoin/02
+    stash: 5EXTRcEY1dwESChjYjDkB6N4D86UiE14YkqrQX7t2gwM7XMa
