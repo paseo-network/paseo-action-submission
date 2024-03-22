@@ -1,0 +1,17 @@
+identity:
+  display: Curu
+  email: curufire@@gmail.com
+  website: 
+  twitter: @Curu1337
+  discord: curu24
+  riot: @curu:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: Curu
+    stash: 5DPzoTT2NsPb2u5YNkvCmrW55Hv49qzczqD8D78scqsWk6x8
+  1:
+    identity:
+      display: Curu/2
+    stash: 5H9FZVZQw8nDajrj1Fsge2u4avbiYMiWgme9sKvc9Fpf1xfv
