@@ -1,0 +1,13 @@
+identity:
+  display: ParaNodes.io
+  email: support@paranodes.io
+  website: paranodes.io
+  twitter: @ParaNodes
+  discord: paranodes.io
+  riot: @paradoxxx:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: 01
+    stash: 5CADNSaxg4RVe8n45SDsE8hCcVvZV3StcVYi5yjEreRF9APt
