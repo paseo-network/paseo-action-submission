@@ -11,3 +11,7 @@ accounts:
     identity:
       display: 01
     stash: 5CADNSaxg4RVe8n45SDsE8hCcVvZV3StcVYi5yjEreRF9APt
+  1:
+    identity:
+      display: 02
+    stash: 5DHjgPdNR1YFywWMTKxsabmUMPtYPEjnDALaSXcu8cNPPM8M
