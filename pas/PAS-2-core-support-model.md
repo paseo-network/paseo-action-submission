@@ -79,7 +79,7 @@ Support tasks that are within the scope:
 - Force lifecycle upgrades
 - Top up balances for sovereign accounts
 - XCM HRMP Channels Management for System Chains: Handling cross-consensus message passing channels for any Paseo System chain.
-- XCM Debugging for Parachain Support : Troubleshooting and supporting parachain-related issues.
+- XCM Debugging for Parachain Support: Troubleshooting and supporting parachain-related issues from the relay chain or system chain perspective.
 - Parachain Slot Assignment: Managing the allocation of slots to parachains.
 - Benchmarking : Recalculate weights for every Runtime upgrade, taking into account different hardware configurations from Polkadot.
 - Building Deterministic Runtime Artifacts: Ensuring the runtime is predictable and repeatable.
