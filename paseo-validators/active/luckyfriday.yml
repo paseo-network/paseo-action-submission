@@ -1,0 +1,17 @@
+identity:
+  display: Lucky Friday Labs
+  email: info@luckyfriday.io
+  website: https://luckyfriday.io
+  twitter: @LuckyFridayLabs
+  discord: luckyfridaymark
+  riot: @luckyfriday:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: LuckyFriday.io/01
+    stash: 5FRmC9wUZjr2VRh1q5z1Beksh62nfPzpLuhyCkHRKWXjWv9u
+  1:
+    identity:
+      display: LuckyFriday.io/02
+    stash: 5HftqEy3ZGv4JswhW9J5dP8h8wGghJNApAdFbpic3vB2joXJ
