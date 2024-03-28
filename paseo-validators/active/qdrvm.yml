@@ -1,0 +1,12 @@
+identity:
+  display: QDRVM KAGOME
+  email: k@qdrvm.io
+  website: https://qdrvm.io
+  twitter: @qdrvm_io
+  riot: @kamilsa:matrix.org
+
+accounts:
+  0:
+    identity:
+      display: QDRVM-KAGOME-1
+    stash: 5EJVaLnqNVX3jdr5RHjrWRv6YPTpU97CnwP881rswdjYsbJN
