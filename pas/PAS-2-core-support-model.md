@@ -78,17 +78,17 @@ Support tasks that are within the scope:
 - Dmp queues that usually come from forcing wasm changes force the parachains
 - Force lifecycle upgrades
 - Top up balances for sovereign accounts
+- XCM HRMP Channels Management for System Chains: Handling cross-consensus message passing channels for any Paseo System chain.
+- XCM Debugging for Parachain Support: Troubleshooting and supporting parachain-related issues from the relay chain or system chain perspective.
+- Parachain Slot Assignment: Managing the allocation of slots to parachains.
+- Benchmarking : Recalculate weights for every Runtime upgrade, taking into account different hardware configurations from Polkadot.
+- Building Deterministic Runtime Artifacts: Ensuring the runtime is predictable and repeatable.
+- Coretime: Lead migration from parachain slots into coretime sales. Also once we have more details about coretime, a proper process for handling core assigments will be put in place.
 
 Support tasks that are **not** in the scope:
 - Analyze parachain failed storage migrations.
 - Check parachain configuration.
 - Check parachain node logs.
-- **XCM HRMP Channels Management for System Chains** : Handling cross-consensus message passing channels for any Paseo System chain.
-- **XCM Debugging for Parachain Support** : Troubleshooting and supporting parachain-related issues.
-- **Parachain Slot Assignment:** Managing the allocation of slots to parachains.
-- **Benchmarking** : Recalculate weights for every Runtime upgrade, taking into account different hardware configurations from Polkadot.
-- **Building Deterministic Runtime Artifacts** : Ensuring the runtime is predictable and repeatable.
-**Coretime:** Lead migration from parachain slots into coretime sales. Also once we have more details about coretime, a proper process for handling core assigments will be put in place.
 
 ## Supported System Chains**
 Ensuring these specific chains are supported and integrated within Paseo.
