@@ -1,0 +1,12 @@
+# Identity to be set up for all validators running by Dwellir
+identity:
+  display: Dwellir
+  email: info@dwellir.com
+  website: https://dwellir.com
+  twitter: '@DwellirOfficial'
+  discord: na
+  riot: '@dwellir:matrix.org'
+
+accounts:
+  0:
+    stash: 5FRWXfgHjZVXs7BSP4yBB2b8fgczRof5zynJjbgud6ptRrUA
