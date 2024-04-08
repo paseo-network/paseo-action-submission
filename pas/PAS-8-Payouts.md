@@ -37,12 +37,12 @@ Given the nature of the bounty where many individuals or groups will require fun
 2 weeks before the quarter end, any individuals / groups / companies are to create a new issue in the /payouts folder of the repo and use the following template to document their payment request:
 
 Name: 
-Contact details (tg/email/element):
-Proponent: 
-Requested DOT: 
-Proactive / Retroactive payment: 
-Description: 
-Evidence: 
+Contact details (tg/email/element):  
+Proponent:  
+Requested DOT:   
+Proactive / Retroactive payment:  
+Description:  
+Evidence:  
 
 There should be one Issue created per payment request using the label `payout`.
 This will be used by the curators to validate the work and individuals requesting funding. Rather than using a google form or a model centralised to one indiviudal, this way any of the curators can monitor and propose payments. 
