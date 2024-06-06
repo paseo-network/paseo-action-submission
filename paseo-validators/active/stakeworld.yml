@@ -15,3 +15,11 @@ accounts:
     identity:
       display: STAKEWORLD.IO/01
     stash: 5FcLU3AFBdr1yLmq8Egpy2ZwxgECL1deM1bUsgQw5g7MoibY
+  2:
+    identity:
+      display: STAKEWORLD.IO/02
+    stash: 5HVUs7BYTpD8jq1HhqVuFqyhmpM24sPP19NWEqwM8e2TW42E
+  3:
+    identity:
+      display: STAKEWORLD.IO/03
+    stash: 5EkTMUxkniWNoUhcnVG2xidhkQaAHPwKSkPgEUrdSotdkpcA
