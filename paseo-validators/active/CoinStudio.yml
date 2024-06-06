@@ -15,3 +15,11 @@ accounts:
     identity:
       display: CoinStudio/02
     stash: 5HRKPCr1YaRKLGJLMeG41iHs82XiAduBFgVasn8mMBfobneH
+  2:
+    identity:
+      display: CoinStudio/03
+    stash: 5G7NJQJGv9CLwaxVzeuMx8Z1jc2v32pkTEYT7EcbzdvSVNS3
+  3:
+    identity:
+      display: CoinStudio/04
+    stash: 5H61XpmwqpD6QgfFQxyTPaio28nfJtdhRd5n3gBZGves7M52
