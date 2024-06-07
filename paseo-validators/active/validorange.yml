@@ -15,3 +15,11 @@ accounts:
     identity:
       display: ValidOrange-PAS2
     stash: 5CVS4Vf5atVu3DefmcydzjkEX6njtnqMgtwSqdGBkQXBHWQp
+  2:
+    identity:
+      display: ValidOrange-PAS3
+    stash: 5CLmt2CgNBNyR9NPQhCHAVLdoFJfMmFCxAdPQFvQBmFsRi7v
+  3:
+    identity:
+      display: ValidOrange-PAS4
+    stash: 5DZTc2EduBzbykWnn3FZG7avkAavj7GvQN37VDGyKSK8n7D3
