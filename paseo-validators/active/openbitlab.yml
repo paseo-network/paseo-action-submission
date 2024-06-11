@@ -15,3 +15,11 @@ accounts:
     identity:
       display: openbitlab/02
     stash: 5Gxe767ZRTo55DGncvFSAF32XhiaVC3ys41tKWcTF95JfPxF
+  2:
+    identity:
+      display: openbitlab/03
+    stash: 5E4LgKCiarYWcBKtgwfG8sGmc4NHZFTmvuP77yCLhVgS24Q2
+  3:
+    identity:
+      display: openbitlab/04
+    stash: 5CoYXLyv5Nuk8hMn6XwuM5xYsuGkMskwkMAhdEEXoe8aZJv6
