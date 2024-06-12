@@ -13,5 +13,13 @@ accounts:
     stash: 5H1MgERwsj7NWejMibokz8wPrc2N5obU1G7v9MUWz5hmSydS
   1:
     identity:
-      display: Sik 2 | crifferent.de
+      display: SIK | CRIFFERENT.DE/2
     stash: 5Fpq4Rxhu6UbAs52wHMzHmjxSVBNz2eJMiQ9n6gcj1UxQMmy
+  2:
+    identity:
+      display: SIK | CRIFFERENT.DE/3
+    stash: 5GwvXDwf9rbrGikMbtodYKewmiecPKkaLQPKqecxLMUNLEck
+  3:
+    identity:
+      display: SIK | CRIFFERENT.DE/4
+    stash: 5CB3hteqociFUMxkZN6cxK6gC5MG26vLotFVDUDGZkWfKH4Q
