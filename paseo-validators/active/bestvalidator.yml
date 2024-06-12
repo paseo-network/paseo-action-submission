@@ -15,3 +15,11 @@ accounts:
     identity:
       display: BESTVALIDATOR/PAS2
     stash: 5GKZxQUUmm3XkiUwU9JtLYGSw7KfkLPuRzrEfDf9NAUXznSW
+  2:
+    identity:
+      display: BESTVALIDATOR/PAS3
+    stash: 5DJb44caCLAgfgxBDcP3Q5GQ4SGpMHAGyrXPyMnz6FrYSXED
+  3:
+    identity:
+      display: BESTVALIDATOR/PAS4
+    stash: 5Cf7QK3jhYhX2iWdvFmQZnL2TDKkRjiNQ1DsnWfMX9SfHyJy
