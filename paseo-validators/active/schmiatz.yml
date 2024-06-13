@@ -1,0 +1,21 @@
+identity:
+  display: schmiatz
+  email: schmitz@dc-schmitz.de
+  riot: @matthias91:matrix.org
+accounts:
+  0:
+    identity:
+      display: schmiatz
+    stash: 5HQbcDGBGasKGMuYGDhLW1CJ59qaiMW4LBaDyY8QDx55He4w
+  1:
+    identity:
+      display: schmiatz/02
+    stash: 5D75mBdRx5YKuFfNvSbF95o9DRxBYmbKXjQ1EgHqtJwzfPmE
+  2:
+    identity:
+      display: schmiatz/03
+    stash: 5EZcf5oxeAJHYT7mbGCJMpAsrk3vAgJui45bSXQ438t7y8xZ
+  3:
+    identity:
+      display: schmiatz/04
+    stash: 5CFq7pygu385DEoS55UEyG9jvHPd9TaE4AdQrjMdcT1iTsZo
