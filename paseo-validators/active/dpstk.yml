@@ -15,3 +15,11 @@ accounts:
     identity:
       display: DPSTK - VAL02
     stash: 5DwJqeX5sz3RmqiYfj6KP7EbQHkTMRpraNQEAo5tCF1U4sHv
+  2:
+    identity:
+      display: DPSTK - PASEO 3
+    stash: 5CoNyETmeUm1ymfgLzYMLcX1DWpLGYFQfqbGyrcsSMZ9T1kB
+  3:
+    identity:
+      display: DPSTK - PASEO 4
+    stash: 5DZRQSuTFhzESzsCfViaGZeDPhyWCFa9fF5HfZMQCkvNAtF5
