@@ -15,3 +15,11 @@ accounts:
     identity:
       display: Polkadotters/SHRIMP
     stash: 5Dsed6sNwpaVER5oMWsk1VFxQDnd8G5dshWiFxqYSUcMdUGR
+  2:
+    identity:
+      display: Polkadotters/SHARK
+    stash: 5FbUhUGX531L9Uz953EGDG1MmFRTUhNa5TaXHGMKJD76iLup
+  3:
+    identity:
+      display: Polkadotters/OCTOPUS
+    stash: 5CJCvWP2T54ZSgXWB6tDTYxbKkX28AA9dDWRpeC6K42gBZV1
