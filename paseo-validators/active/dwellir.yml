@@ -16,3 +16,11 @@ accounts:
     identity:
       display: DWELLIR PASEO 2
     stash: 5EceVbpmrw2nP72QzXRvkqRTz2Wq5zuZ3pMeok49Hk2KgdeV
+  2:
+    identity:
+      display: DWELLIR PASEO 3
+    stash: 5FESKnoNzzhXesGA9XR9R23wt3Rzfo4Ydsvbg5EgACt8A1au
+  3:
+    identity:
+      display: DWELLIR PASEO 4
+    stash: 5DqBTkVeqJf7iKWJLUxNuj9E8reDwVMfPqdkutJw5DnGftY8
