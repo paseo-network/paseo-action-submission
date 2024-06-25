@@ -16,3 +16,11 @@ accounts:
     identity:
       display: METASPAN/2
     stash: 5GjQw9YE8dd9pobndLDoEc1CQQzTZY8d9kiyTzPQU6arWcRh
+  2:
+    identity:
+      display: METASPAN/3
+    stash: 5FsreMewz5vnEDnbfk9wk5GUc5YuXqu8psgHY1f7nSPnAGur
+  3:
+    identity:
+      display: METASPAN/4
+    stash: 5Gq339WsBjq9cQet63Ww5huHZW6XFUcB2ccJRevpVixrhDak
