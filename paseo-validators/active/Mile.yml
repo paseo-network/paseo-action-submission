@@ -15,3 +15,11 @@ accounts:
     identity:
       display: Mile/Bravo
     stash: 5C7MHerZDXGsKbJP3i5EEJ71GjX3bdJGhdKNrjEED9znjSw7
+  2:
+    identity:
+      display: Mile/Charlie
+    stash: 5Gjo7xaoQJVyPpa9zWGy8Qt8VaLpPWH3sRKJK6R6c85v4zeL
+  3:
+    identity:
+      display: Mile/Delta
+    stash: 5FsRLEAeuSHcrQ8SqLK2uc1GA6ap1m1x4NL99k8gVTJG9wnb
