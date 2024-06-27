@@ -16,3 +16,11 @@ accounts:
     identity:
       display: Amforc/2
     stash: 5DcD6We4htNwjE97MhKvn1HDxKBB2fZK3C69C7ET6FxmWtrJ
+  3:
+    identity:
+      display: Amforc/3
+    stash: 5HdxB6kQRvk1xMSc4RYE7yGXLVBih6uYFANtKfeKTmh1q3wv
+  4:
+    identity:
+      display: Amforc/4
+    stash: 5GTyU9BSt5vRSFKxAS2qH5Yj86JbgbrNVGtnxDJDLyzUKJbd
