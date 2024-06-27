@@ -16,3 +16,11 @@ accounts:
     identity:
       display: Staker Space/02
     stash: 5ECNsUYwvcc5cEKaUzAu1AVECPpvFsCxiyRevs7orRJeDkze
+  2:
+    identity:
+      display: Staker Space/03
+    stash: 5DRkYbc2aaewDsMdtToqryfLEsVb7oZspvEXjzPQth7kGnk8
+  3:
+    identity:
+      display: Staker Space/04
+    stash: 5EEhzemj9FZpfvrwosu8gAJcYu7uTUWyh241zCJeKPMzVXff
