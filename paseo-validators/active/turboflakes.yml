@@ -12,5 +12,13 @@ accounts:
     stash: 5CQN2L4soC8G6L3nngT42oTEc28BCmNvDEt5RwtpYV7QBScp
   1:
     identity:
-      display: turboflakes.io/v1
-    stash: 5HpwUjPDgg4YUzVcSjUaLXipVc4tSKofMvwiLLVbSFkjTQdu
+      display: turboflakes.io/01
+    stash: 5EnRo353vDURzXKSZbEPt43oH3Ep2a9PRqGAUufvedeaYarA
+  2:
+    identity:
+      display: turboflakes.io/02
+    stash: 5EnN7kUSZ6Dq6phQitHvVctPGxHgGQ29mCouHMMseEq7nEe8
+  3:
+    identity:
+      display: turboflakes.io/03
+    stash: 5E7xAxqDjrb9XmpKoZ7d8m2vzSVdKZqt7GVQvh6ucWRzx6R9
