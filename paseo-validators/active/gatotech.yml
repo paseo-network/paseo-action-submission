@@ -16,4 +16,11 @@ accounts:
     identity:
       display: GATOTECH/UK2
     stash: 5Ggatomsdkh6ByjPUfrHvEhdGpGNFh8rai1cdzokJz3KvgD1
-    
+  2:
+    identity:
+      display: GATOTECH/CR1
+    stash: 5HgatojfV5x7Hkgx9d5WZMmKvS7fBds8r5ErfJEuJCsUHe2w
+  3:
+    identity:
+      display: GATOTECH/CR2
+    stash: 5HgatoAHMHZUEyUgbchcXexuGYs5EWehBymvg8vQpRZFdY8E
