@@ -9,3 +9,15 @@ accounts:
     identity:
       display: PARITY-VALIDATOR-0
     stash: 5Ea38N1YzxnfDEkGRNixPE4oXALAuMK4XDoYpH4fyZahdrLL
+  1:
+    identity:
+      display: PARITY-VALIDATOR-1
+    stash: 5Ekiz65F512P4c7CymJnkCKbLRKyysTaPw9uF9vrXErEL9U7
+  2:
+    identity:
+      display: PARITY-VALIDATOR-2
+    stash: 5FToUnX7P1WT2ADZqVpFVNUT6iAfJHbnKSJSucuGxrNLLWQN
+  3:
+    identity:
+      display: PARITY-VALIDATOR-3
+    stash: 5EesTcZ3Cv9QLbnBzFawBdkhtuwhJ6RGieKbKrPQHH1uaYaY
