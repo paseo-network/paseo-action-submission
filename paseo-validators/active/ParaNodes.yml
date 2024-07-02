@@ -13,5 +13,13 @@ accounts:
     stash: 5CADNSaxg4RVe8n45SDsE8hCcVvZV3StcVYi5yjEreRF9APt
   1:
     identity:
-      display: Paseo
+      display: ParaNodes.io/02
     stash: 5DHjgPdNR1YFywWMTKxsabmUMPtYPEjnDALaSXcu8cNPPM8M
+  2:
+    identity:
+      display: ParaNodes.io/03
+    stash: 5DJZB1TbiEtEw9jNLBYhJdZHEC7s3FYjeoXaF6irWvfbsZty
+  3:
+    identity:
+      display: ParaNodes.io/04
+    stash: 5Gb8fxEgRg6xfdSsYGLDk2JEPSfs9uCu1NKsfSrrfRKMsQzP
