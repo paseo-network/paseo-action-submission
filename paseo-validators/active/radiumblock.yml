@@ -13,3 +13,11 @@ accounts:
     identity:
       display: RADIUMBLOCK.COM/02
     stash: 5CVMYZfczGFhu3huQcE7RDTNgvNGxBvKczA4Nd6XzRnb6ibC
+  2:
+    identity:
+      display: RADIUMBLOCK.COM/03
+    stash: 5CYDCaxqkLNf3qoL4pikn7KCGvHKGn2vtojjdiCrES2KSVgQ
+  3:
+    identity:
+      display: RADIUMBLOCK.COM/04
+    stash: 5CLpwEKGrhYDYHQLUVZzBWsgzqSFd7Uxy5SKie5MECrRTEiV
