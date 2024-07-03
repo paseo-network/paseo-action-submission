@@ -15,3 +15,11 @@ accounts:
     identity:
       display: LuckyFriday.io/02
     stash: 5HftqEy3ZGv4JswhW9J5dP8h8wGghJNApAdFbpic3vB2joXJ
+  2:
+    identity:
+      display: LuckyFriday.io/03
+    stash: 5CUj1nJ4yJsoFPHA27znEAW9gdUcUB7nzPQxrLdYPxZWzD1T
+  3:
+    identity:
+      display: LuckyFriday.io/04
+    stash: 5GNdFvnsMMvL9pmJ6m9Q24EwLb8W3pQrAkKuWj2iw6Mb9s7c
