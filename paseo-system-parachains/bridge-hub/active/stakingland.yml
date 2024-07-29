@@ -1,0 +1,16 @@
+identity:
+  display: Staking Land
+  email: stakingland@telutions.com
+  website: https://stakingland.de
+  twitter: @erco773
+  discord:
+  riot: @erk773:matrix.org
+
+system_chain: BridgeHub
+
+accounts:
+  0:
+    identity:
+      display: Staking Land 1
+    stash: 1394Xs3BAvf7WtAXWSRSjpQLS3ssPmBh4Fo5qjiB9bA47s28
+    aura_id: 0x80dd9431e0a2754df6652613cf03732aa0c5edabe4b3d58e200bd00c6ca1cb52
