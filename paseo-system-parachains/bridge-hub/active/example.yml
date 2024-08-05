@@ -7,7 +7,7 @@ identity:
   discord: example
   matrix: @example:matrix.org
 
-system_chain: AssetHub
+system_chain: BridgeHub
 
 accounts:
   # Here example is running two collators, 0 and 1
