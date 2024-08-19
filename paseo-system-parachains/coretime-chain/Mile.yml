@@ -1,0 +1,14 @@
+identity:
+  display: Mile
+  email: mherceg@protonmail.com
+  discord: mherceg
+  riot: @@matherceg:matrix.org
+
+system_chain: Coretime
+
+accounts:
+  0:
+    identity:
+      display: Mile
+    stash: 1HznmFfzmCa7XbJ6kTddy239jvYiw3xtGipQDkrwbksyHf9
+    aura_id: 0x7e126fa970a75ae2cd371d01ee32e9387f0b256832e408ca8ea7b254e6bcde7d
