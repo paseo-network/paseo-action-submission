@@ -1,0 +1,16 @@
+identity:
+  display: ParaNodes.io
+  email: support@paranodes.io
+  website: paranodes.io
+  twitter: @ParaNodes
+  discord: paranodes.io
+  riot: @paradoxxx:matrix.org
+
+system_chain: Coretime
+
+accounts:
+  0:
+    identity:
+      display: ParaNodes.io
+    stash: 5CADNSaxg4RVe8n45SDsE8hCcVvZV3StcVYi5yjEreRF9APt
+    aura_id: 0x0a2cee67864d1d4c9433bfd45324b8f72425f096e01041546be48c5d3bc9a746
