@@ -1,0 +1,17 @@
+# Identity to be set up for all system chain collators running by Example
+identity:
+  display: Amforc
+  email: staking@amforc.com
+  website: https://amforc.com
+  twitter: "@amforcag"
+  discord: example
+  matrix: "@tugytur:matrix.org"
+
+system_chain: people
+
+accounts:
+  0:
+    identity:
+      display: Amforc/1
+    account_id: 13R4RzMu23PzK5o2BBhD19t5xV6PCpfoLjHjRUBrpdSJ4AAz
+    aura_id: 0x9cd774e5f1a124e75b5973f767c88fff510a21c20eed72c8b592923561662e35
