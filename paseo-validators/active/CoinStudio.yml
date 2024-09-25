@@ -23,3 +23,7 @@ accounts:
     identity:
       display: CoinStudio/04
     stash: 5H61XpmwqpD6QgfFQxyTPaio28nfJtdhRd5n3gBZGves7M52
+  4:
+    identity:
+      display: CoinStudio/05
+    stash: 5EoHHQzSW7NLZfdY8TiU7spJe1zvfuvHrWzTFDEC6Z1fUxLW
