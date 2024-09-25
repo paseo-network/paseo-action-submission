@@ -10,8 +10,16 @@ accounts:
   0:
     identity:
       display: Stake Plus
-    stash: 5F2A2bL6WopW8NEmxQmABY8cLtYmdDjNzsiwnCDLtPn44orx
+    stash: 13xTAvbANb5yZuFHv3pAKgxmCWYRKXHX5NTRwVChSUoaF7iz
   1:
     identity:
       display: Stake Plus/02
-    stash: 5Ehji52QzDFBgFVeE1r4KiorXhKykUhMTkJ5w1L95H67Js1D
+    stash: 13e2rQHUqzWf7nWABeu4Tse1PKKdSnFVYF2a6JKVdN7dVJbo
+  2:
+    identity:
+      display: Stake Plus/03
+    stash: 15oarqCWHp2odVetR7qdDi3KQNMvbgcYqwLAruehARwfCJcg
+  3:
+    identity:
+      display: Stake Plus/04
+    stash: 15tVviWswB7XRwUEdCiRCDnzV7pEy3iLy2R6TGot9YkhdEWU
