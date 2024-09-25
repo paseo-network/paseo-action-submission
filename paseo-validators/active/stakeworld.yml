@@ -23,3 +23,7 @@ accounts:
     identity:
       display: STAKEWORLD.IO/03
     stash: 5EkTMUxkniWNoUhcnVG2xidhkQaAHPwKSkPgEUrdSotdkpcA
+  4:
+    identity:
+      display: STAKEWORLD.IO/04
+    stash: 1eaKp1U1wE2QhL29c5Yf23bkG1UvnBJoZCAakjHtbwwYybP  
