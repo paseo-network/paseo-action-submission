@@ -23,3 +23,7 @@ accounts:
     identity:
       display: Mile/Delta
     stash: 5FsRLEAeuSHcrQ8SqLK2uc1GA6ap1m1x4NL99k8gVTJG9wnb
+  4:
+    identity:
+      display: Mile/Echo
+    stash: 1HmagcqorPBKUmKkPs4Kf2Ad4uL9DvU3uZ9euk5i2btRQNt
