@@ -10,11 +10,11 @@ accounts:
   0:
     identity:
       display: STKD.io/01
-    stash: 5GnMSvfjUpRSwyQyzbrFfGqAS6vhBnLGtQCmPDikshemP4Jh
+    stash: 15iebFvoLbgvPWRVxEuFoRfKHivLt5tQxtwFYWi7RngHZntC
   1:
     identity:
       display: STKD.io/02
-    stash: 5HbS4tbvbvwtLXDQNeM2hw8WbHFbaTtPskYEQhLASMFNYYLX
+    stash: 16XjDDrzTiDMn4DvLHQ2r5xfSuFFGmSXxFGiZzKWzSGtj1hB
   2:
     identity:
       display: STKD.io/03
@@ -23,3 +23,7 @@ accounts:
     identity:
       display: STKD.io/04
     stash: 5HEVdf5TkqWyZjATGLy5M997skbJWnBUiPeakMx391KXCXaL
+  4:
+    identity:
+      display: STKD.io/05
+    stash: 15fyTZiYUa5xrEmgCBVYnqgpUGcmn3V521ti12bRsxTsgKAh
