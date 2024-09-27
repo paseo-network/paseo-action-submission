@@ -23,3 +23,7 @@ accounts:
     identity:
       display: Staking Land 4
     stash: 5FX24hveRSmaAxU42rjfBR9Z32AkNh2kQNNSLyN6ccDpqxmQ
+  4:
+    identity:
+      display: Staking Land 5
+    stash: 5DUJkM4sUcwHyP13KPTwu7eNhSk2GiXnm6vNUpHeDvDhZAuh
