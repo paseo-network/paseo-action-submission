@@ -23,3 +23,7 @@ accounts:
     identity:
       display: openbitlab/04
     stash: 5CoYXLyv5Nuk8hMn6XwuM5xYsuGkMskwkMAhdEEXoe8aZJv6
+  4:
+    identity:
+      display: openbitlab/05
+    stash: 5H6YoXPNa9qXXovj2q8wSAdraQLyKFEcg9bmHR7kvEgnaV48
