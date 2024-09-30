@@ -23,3 +23,7 @@ accounts:
     identity:
       display: STKD.io/04
     stash: 5HEVdf5TkqWyZjATGLy5M997skbJWnBUiPeakMx391KXCXaL
+  4:
+    identity:
+      display: STKD.io/05
+    stash: 15fyTZiYUa5xrEmgCBVYnqgpUGcmn3V521ti12bRsxTsgKAh
