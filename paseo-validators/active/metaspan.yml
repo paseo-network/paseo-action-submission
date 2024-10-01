@@ -24,3 +24,7 @@ accounts:
     identity:
       display: METASPAN/4
     stash: 5Gq339WsBjq9cQet63Ww5huHZW6XFUcB2ccJRevpVixrhDak
+  4:
+    identity:
+      display: METASPAN/5
+    stash: 13VopNL9R3DZMiMXbRyyB3HaWbYdDdMZrst2hK68pzoQipEw
