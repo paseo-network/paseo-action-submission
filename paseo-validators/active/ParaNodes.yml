@@ -23,3 +23,7 @@ accounts:
     identity:
       display: ParaNodes.io/04
     stash: 5Gb8fxEgRg6xfdSsYGLDk2JEPSfs9uCu1NKsfSrrfRKMsQzP
+  4:
+    identity:
+      display: ParaNodes.io/05
+    stash: 13pcKvGLEidLZenv8ojyjVAaQNLjfCgVDEbQqqN5iNyn5cSx
