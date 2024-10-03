@@ -23,3 +23,7 @@ accounts:
     identity:
       display: LuckyFriday.io/04
     stash: 5GNdFvnsMMvL9pmJ6m9Q24EwLb8W3pQrAkKuWj2iw6Mb9s7c
+  4:
+    identity:
+      display: LuckyFriday.io/05
+    stash: 5Eyp4ZFFW8E5c9VNA8UUCPCci4tZdf9y3zzpKK5SAvkfsi8s
