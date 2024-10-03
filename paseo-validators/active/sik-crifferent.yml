@@ -23,3 +23,7 @@ accounts:
     identity:
       display: SIK | CRIFFERENT.DE/4
     stash: 5CB3hteqociFUMxkZN6cxK6gC5MG26vLotFVDUDGZkWfKH4Q
+  4:
+    identity:
+      display: SIK | CRIFFERENT.DE/5
+    stash: 1BrSeSKiCJofuv2czTTQphMucGJNDjUny1JQoFbe9zbdrcc
