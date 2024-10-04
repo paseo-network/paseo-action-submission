@@ -23,3 +23,7 @@ accounts:
     identity:
       display: ValidOrange-PAS4
     stash: 5DZTc2EduBzbykWnn3FZG7avkAavj7GvQN37VDGyKSK8n7D3
+  4:
+    identity:
+      display: ValidOrange-PAS5
+    stash: 1hWFtc7cPznyNXVUgNaKx3zzFTFoKXj5A22Ksr66RhWgWyj
