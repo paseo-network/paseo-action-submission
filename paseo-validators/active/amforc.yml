@@ -24,3 +24,7 @@ accounts:
     identity:
       display: Amforc/4
     stash: 5GTyU9BSt5vRSFKxAS2qH5Yj86JbgbrNVGtnxDJDLyzUKJbd
+  5:
+    identity:
+      display: Amforc/5
+    stash: 16FbDvXPY5zpcaeHDh2Sh4p9fVB2vqjJYE2GEKfbB7XR8CdM
