@@ -23,3 +23,7 @@ accounts:
     identity:
       display: Stake Plus/04
     stash: 15tVviWswB7XRwUEdCiRCDnzV7pEy3iLy2R6TGot9YkhdEWU
+  4:
+    identity:
+      display: Stake Plus/05
+    stash: 15YLgGBKMSdc7ANemggnHb6EaBhmzmUiuxJUeQAW544Qg2D5
