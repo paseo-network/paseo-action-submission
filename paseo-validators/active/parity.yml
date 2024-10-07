@@ -21,3 +21,9 @@ accounts:
     identity:
       display: PARITY-VALIDATOR-3
     stash: 5EesTcZ3Cv9QLbnBzFawBdkhtuwhJ6RGieKbKrPQHH1uaYaY
+
+  4:
+    identity:
+      display: PARITY-VALIDATOR-4
+    stash: 5FLcxQni1Q8C49jA4nZVEY3aAE6zanvyjzo2dUkGgUSLpZHt
+  
