@@ -20,6 +20,8 @@ Means to onboard a parachain to Paseo via **coretime** assignment.
 
 [- Rationale section details the expected onboarding flow](#rationale)
 
+[- Fast forward a onboarding as detailed in the support section](#support)
+
 ## Abstract
 In this document users can find the steps to follow to register their parachain in Paseo.
 
@@ -56,6 +58,8 @@ The expected flow for teams to onboard is the following:
 - Obtain some coretime: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains
 
 If a chain is being migrated from a different testing environment or it is running in production and needs to use Paseo, contact the team, who can help you with the registration process.
+
+### Support
 
 Users might find that both the deposists needed to register a chain and the price of bulk coretime are higher than what [the faucet](https://faucet.polkadot.io/) can provide in a regular way to its users.
 If that is a blocker for your onboarding, please, contact the team at:
