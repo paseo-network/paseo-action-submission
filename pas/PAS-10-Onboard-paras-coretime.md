@@ -20,7 +20,7 @@ Means to onboard a parachain to Paseo via **coretime** assignment.
 
 [- Rationale section details the expected onboarding flow](#rationale)
 
-[- Fast forward a onboarding as detailed in the support section](#support)
+[- Fast forward an onboarding as detailed in the support section](#support)
 
 ## Abstract
 In this document users can find the steps to follow to register their parachain in Paseo.
