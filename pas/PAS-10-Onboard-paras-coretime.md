@@ -10,7 +10,7 @@ created: 24-10-2024
 
 | Version | Description                      | Author    | Date       |
 |---------|----------------------------------|-----------|------------|
-| 1.0     | Initial version                  | Alejandro  | 24-10-2024 |
+| 1.0     | Initial version                  | Alejandro/Hector  | 24-10-2024 |
 
 
 ## Summary
@@ -53,22 +53,19 @@ maintain a healthy ratio of teams that just need sporadic resources from Paseo.
 
 The expected flow for teams to onboard is the following:
 
-> The faucet might not be able to cover the onboarding cost (registration cost + coretime cost). If this affects you, please refer to [support section](#support).
+- Open a parachain onboarding issue in the Paseo support repository:
+https://github.com/paseo-network/support/issues/new?assignees=al3mart%2Chbulgarini%2Ceduclerici-zondax&labels=onboard-para&projects=&template=onboard-parachain.yaml&title=%5BParachain+Onboarding+%7C+Slot+Request%5D+ParaId%3A+%3Cyour_paraId%3E
 
-- Obtain some PAS tokens via its faucet: https://faucet.polkadot.io/
-- Reserve a ParaId and register your chain in Paseo: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains#reserve-paraid
-- Obtain some coretime: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains
+- Once the core team has proceed with the parachain registration and enough balance was transfer to the parachain manager account, a core could be acquired following this documentation: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains
 
-If a chain is being migrated from a different testing environment or it is running in production and needs to use Paseo, contact the team, who can help you with the registration process.
+
+Note: If a chain is being migrated from a different testing environment or it is running in production and needs to use Paseo, contact the team, who can help you with the registration process.
 
 ### Support
 
-Users might find that both the deposists needed to register a chain and the price of bulk coretime are higher than what [the faucet](https://faucet.polkadot.io/) can provide in a regular way to its users.
-If that is a blocker for your onboarding, please, contact the team at:
+- If there are no cores available or any other issue is faced, please escalate the issue on the same parachain onboarding, please contact the team at:
 
 - https://matrix.to/#/#paseo-testnet-support:parity.io
-- https://github.com/paseo-network/support/issues
-
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
