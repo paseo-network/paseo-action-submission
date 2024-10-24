@@ -1,0 +1,65 @@
+---
+PAS ID: 10
+title: Onboarding Parachains - Coretime
+status: Proposed
+author: Alejandro (@al3mart)
+created: 24-10-2024
+---
+
+## Changelog
+
+| Version | Description                      | Author    | Date       |
+|---------|----------------------------------|-----------|------------|
+| 1.0     | Initial version                  | Alejandro  | 24-10-2024 |
+
+
+## Summary
+Means to onboard a parachain to Paseo via **coretime** assignment.
+
+[- Overview section details how to obtain coretime](#overview)
+
+[- Rationale section details the expected onboarding flow](#rationale)
+
+## Abstract
+In this document users can find the steps to follow to register their parachain in Paseo.
+
+## Motivation
+Allocation of resources that imply a cost and can be accessed by obtaining tokens that are freely available to everyone and have no intrinsic value.
+
+## Specification
+### Overview
+While the registration process stays the same. A combination of `registrar.reserve` and `registrar.register` calls.
+Agile Coretime introduces new methods for users to have the relay chain finalize blocks produced by connected chains.
+
+- On demand Coretime: Allows users to place a bid to have the next produced block finalized, and only one block.
+- Bulk Coretime: Allows users to acquire a fixed duration of continuous relay chain coretime.
+
+Users can place a bid to obtain on demand coretime directly in the relay chain.
+While for obtaining bulk coretime users will need to interface with the broker, hosted in the coretime chain. The broker will offer a certain number of cores available for sale periodically. Which users can obtain and assign to their chains if they so choose, if now assigned these are also transferable.
+
+The following resources contain details on how to interact with these features:
+- Polkadot Wiki: https://wiki.polkadot.network/docs/learn-agile-coretime-index
+- W3F Educhain: https://web3educhain.xyz/
+
+
+### Rationale
+The onboarding process is bounded by the resources available in the network. Meaning that parachains that are already live and need a testbed for their users will be the priority, while trying to
+maintain a healthy ratio of teams that just need sporadic resources from Paseo.
+
+The expected flow for teams to onboard is the following:
+
+- Obtain some PAS tokens via its faucet: https://faucet.polkadot.io/
+- Reserve a ParaId and register your chain in Paseo: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains#reserve-paraid
+- Obtain some coretime: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains
+
+If a chain is being migrated from a different testing environment or it is running in production and needs to use Paseo, contact the team, who can help you with the registration process.
+
+Users might find that both the deposists needed to register a chain and the price of bulk coretime are higher than what [the faucet](https://faucet.polkadot.io/) can provide in a regular way to its users.
+If that is a blocker for your onboarding, please, contact the team at:
+
+- https://matrix.to/#/#paseo-testnet-support:parity.io
+- https://github.com/paseo-network/support/issues
+
+
+## Copyright
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
