@@ -41,6 +41,9 @@ The following resources contain details on how to interact with these features:
 - Polkadot Wiki: https://wiki.polkadot.network/docs/learn-agile-coretime-index
 - W3F Educhain: https://web3educhain.xyz/
 
+Ecosystem applications featuring coretime management:
+- RegionX: https://app.regionx.tech/?network=paseo
+
 
 ### Rationale
 The onboarding process is bounded by the resources available in the network. Meaning that parachains that are already live and need a testbed for their users will be the priority, while trying to
