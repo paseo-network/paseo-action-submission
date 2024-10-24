@@ -11,7 +11,7 @@ created: 23-02-2024
 | Version | Description                      | Author    | Date       |
 |---------|----------------------------------|-----------|------------|
 | 1.0     | Initial version                  | Edu Clerici  | 23-02-2024 |
-| 1.1     | ...                              |              |            |
+| 1.1     | Coretime update                  |  @al3mart   | 24-10-2024  |
 
 
 
@@ -23,9 +23,9 @@ The purpose of operating and maintaining the Paseo testnet is to cater to the ne
 - API Builders
 - Validators
 - Custodians
-  
+
 ## Abstract
-A short description of the proposed change, this should clearly describe the proposed change that will happen if this PAS is passed rather than why it should be done or the detail behind how to complete the changes. 
+A short description of the proposed change, this should clearly describe the proposed change that will happen if this PAS is passed rather than why it should be done or the detail behind how to complete the changes.
 
 
 ## Documentation
@@ -80,10 +80,10 @@ Support tasks that are within the scope:
 - Top up balances for sovereign accounts
 - XCM HRMP Channels Management for System Chains: Handling cross-consensus message passing channels for any Paseo System chain.
 - XCM Debugging for Parachain Support: Troubleshooting and supporting parachain-related issues from the relay chain or system chain perspective.
-- Parachain Slot Assignment: Managing the allocation of slots to parachains.
+- Parachain Slot Assignment: Managing the allocation of slots to parachains, if applicable.
 - Benchmarking : Recalculate weights for every Runtime upgrade, taking into account different hardware configurations from Polkadot.
 - Building Deterministic Runtime Artifacts: Ensuring the runtime is predictable and repeatable.
-- Coretime: Lead migration from parachain slots into coretime sales. Also once we have more details about coretime, a proper process for handling core assigments will be put in place.
+- Coretime: Lead migration from parachain slots into coretime sales. Assign tasks to cores if needed to maintain the finalization of the chains connected to Paseo.
 
 Support tasks that are **not** in the scope:
 - Analyze parachain failed storage migrations.
@@ -106,7 +106,7 @@ The workflow to acknowledge and resolve support tickets within specified time fr
 - Support Ticket Handling
   - **Acknowledgment** : Within 24 hours.
   - **Resolution** : Mean time of 72 hours (_varies based on complexity and triage_)
- 
+
 Support tickets that are **not** in the scope for the SLA:
 - every ticket that has the "Core" label on it.
 

@@ -9,7 +9,7 @@ The individuals involved in creating a PAS are:
 1. The author of the PAS
 2. the Paseo Governance Team (PGT) which are the signers on the sudo multisig
 
-When creating a PAS, please use the following statuses in the title of your PAS - this allows the community to see which proposals have been implemented and which are still in discussion. Please update the status with a PR. 
+When creating a PAS, please use the following statuses in the title of your PAS - this allows the community to see which proposals have been implemented and which are still in discussion. Please update the status with a PR.
 * Open: Proposed and under discussion PAS
 * Merged: Approved and merged PAS
 * Closed: Dissaproved PAS
@@ -18,7 +18,7 @@ When creating a PAS, please use the following statuses in the title of your PAS 
 - Submitting a PAS: To propose a new feature or change, start by creating a PAS document.
 - Discussion and Review: Once submitted, the community will review and discuss the proposal. Feedback and constructive criticism are encouraged to refine and improve the proposal.
 - Decision Making: Proposals will be evaluated by the Paseo governance team. Decisions will be made based on community feedback, the proposal's merit, and alignment with Paseo's objectives.
-- All PAS proposals must be public domain. See in the bottom of this document for an example copyright waiver. 
+- All PAS proposals must be public domain. See in the bottom of this document for an example copyright waiver.
 
 ## What belongs in a successful PAS?
 Each PAS should have the following parts:
@@ -34,7 +34,7 @@ Each PAS should have the following parts:
 
 ### Support Model
 - [PAS 2 - Core Support Model](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-2-core-support-model.md)
-  
+
 ### PASs
 
 - [PAS 0 - Template](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-0-template.md)
@@ -46,3 +46,4 @@ Each PAS should have the following parts:
 - [PAS 7 - Hardware Specs](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-7-Hardware_specs.md)
 - [PAS 8 - Payouts](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-8-Payouts.md)
 - [PAS 9 - Onboard Paras Slots](https://github.com/paseo-network/paseo-action-submission/blob/fix-44-pas/pas/PAS-9-Onboard-paras-slots.md)
+- [PAS 10 - Onboard Paras Coretime](./pas/PAS-10-Onboard-paras-coretime.md)

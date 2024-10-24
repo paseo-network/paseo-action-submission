@@ -11,8 +11,15 @@ created: 27-02-2024
 | Version | Description                      | Author    | Date       |
 |---------|----------------------------------|-----------|------------|
 | 1.0     | Initial version                  | @al3mart  | 12-03-2024 |
+| 2.0     | Deprecation                  | @al3mart  | 24-10-2024 |
+
+## Deprecation
+
+**With the migration to coretime, the way cores can be obtained changes. Effectively deprecating the process in this document.
+Please, refer to [PAS#10](./PAS-10-Onboard-paras-coretime.md) for the up to date information.**
 
 ## Summary
+
 Means to onboard a parachain to Paseo via **leases and slot assignment**.
 This PAS is to be deprecated once parachain scheduling via coretime is deployed in Paseo.
 
@@ -27,7 +34,7 @@ At the moment of writing there is no way a user without access to root origin ca
 ## Specification
 ### Overview
 
-Users can do a regular registration via dispatching the extrinsics `registrar.reserve` to reserve a `ParaId` and `registrar.register` to submit their code and state. 
+Users can do a regular registration via dispatching the extrinsics `registrar.reserve` to reserve a `ParaId` and `registrar.register` to submit their code and state.
 To obtain a slot for your parachain, aka upgrading your parathread to a parachain, users can log an issue in [Paseo's support repository](https://github.com/paseo-network/support) for that, they can use the custom issue template in https://github.com/paseo-network/support/issues/new/choose.
 This might be handy in case the root action is needed in the relay chain, for instance.
 Users can always open an issue in case their desired `ParaId` is < `4000`.
