@@ -56,7 +56,7 @@ The expected flow for teams to onboard is the following:
 - Open a parachain onboarding issue in the Paseo support repository:
 https://github.com/paseo-network/support/issues/new?assignees=al3mart%2Chbulgarini%2Ceduclerici-zondax&labels=onboard-para&projects=&template=onboard-parachain.yaml&title=%5BParachain+Onboarding+%7C+Slot+Request%5D+ParaId%3A+%3Cyour_paraId%3E
 
-- Once the core team has proceed with the parachain registration and enough balance was transfer to the parachain manager account, a core could be acquired following this documentation: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains
+- Once the core team has proceed with the parachain registration and enough balance was transferred to the parachain manager account, a core could be acquired following this documentation: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains
 
 
 Note: If a chain is being migrated from a different testing environment or it is running in production and needs to use Paseo, contact the team, who can help you with the registration process.
