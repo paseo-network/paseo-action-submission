@@ -53,6 +53,8 @@ maintain a healthy ratio of teams that just need sporadic resources from Paseo.
 
 The expected flow for teams to onboard is the following:
 
+> The faucet might not be able to cover the onboarding cost (registration cost + coretime cost). If this affects you, please refer to [support section](#support).
+
 - Obtain some PAS tokens via its faucet: https://faucet.polkadot.io/
 - Reserve a ParaId and register your chain in Paseo: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains#reserve-paraid
 - Obtain some coretime: https://wiki.polkadot.network/docs/learn-guides-coretime-parachains
