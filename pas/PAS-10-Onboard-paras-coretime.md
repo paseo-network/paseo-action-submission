@@ -63,7 +63,7 @@ Note: If a chain is being migrated from a different testing environment or it is
 
 ### Support
 
-- If there are no cores available or any other issue is faced, please escalate the issue on the same parachain onboarding, please contact the team at:
+- If there are no cores available or any other issue is faced, please escalate the issue on the same parachain onboarding or/and contact the team at:
 
 - https://matrix.to/#/#paseo-testnet-support:parity.io
 
