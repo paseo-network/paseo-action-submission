@@ -27,3 +27,7 @@ accounts:
     identity:
       display: CoinStudio/05
     stash: 5EoHHQzSW7NLZfdY8TiU7spJe1zvfuvHrWzTFDEC6Z1fUxLW
+  5:
+    identity:
+      display: CoinStudio/06
+    stash: 5EjuQGHhvm6PHhJW2x3H1BhngskjxSRXCZfDAt2QLR39ASQq
