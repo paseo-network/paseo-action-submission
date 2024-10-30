@@ -26,3 +26,7 @@ accounts:
     identity:
       display: turboflakes.io/04
     stash: 5CAL9JGERu6Tsjd57bekmmdbFC4aKYfW3krxBkvTNcJjLTkR
+  5:
+    identity:
+      display: turboflakes.io/05
+    stash: 5GbYpUfUVW72YivDf451EEeVceHvTH7a4DR3mu2KJnbYZAxs
