@@ -27,3 +27,7 @@ accounts:
     identity:
       display: BESTVALIDATOR/PAS5
     stash: 16DCWz6gpC4UQnGDDrdDAnRDTW6cowGcrgwjkLWSDZgi7qCw
+  5:
+    identity:
+      display: BESTVALIDATOR/PAS6
+    stash: 15XaoCMRWCZv9fgeUCh5Gm6DRTbWeHJCmKZ3C4F9TgBRBoaV
