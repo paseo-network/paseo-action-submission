@@ -1,310 +1,310 @@
-- name: address
+- name: "AMFORC"
   address: 5DDVAkXRMSkkmrB2yqrbFvPCZt8xaPawcy2bEvBsCJRRiUtm
-- name: address
+- name: "AMFORC 2"
   address: 5DcD6We4htNwjE97MhKvn1HDxKBB2fZK3C69C7ET6FxmWtrJ
-- name: address
+- name: "AMFORC 3"
   address: 5HdxB6kQRvk1xMSc4RYE7yGXLVBih6uYFANtKfeKTmh1q3wv
-- name: address
+- name: "AMFORC 4"
   address: 5GTyU9BSt5vRSFKxAS2qH5Yj86JbgbrNVGtnxDJDLyzUKJbd
-- name: address
+- name: "AMFORC 5"
   address: 5HKJ5bGKgJjMB3dmG3ySYuyzosBPEYBATjHn52gEd2VtwmyD
-- name: address
+- name: "BESTVALIDATOR / PAS1"
   address: 5HQmaKFE96LL1XVnsNSzxKuPpfKdvqDigTvQpB3kTXQguZ2B
-- name: address
+- name: "BESTVALIDATOR / PAS2"
   address: 5GKZxQUUmm3XkiUwU9JtLYGSw7KfkLPuRzrEfDf9NAUXznSW
-- name: address
+- name: "BESTVALIDATOR/PAS3"
   address: 5DJb44caCLAgfgxBDcP3Q5GQ4SGpMHAGyrXPyMnz6FrYSXED
-- name: address
+- name: "BESTVALIDATOR/PAS4"
   address: 5Cf7QK3jhYhX2iWdvFmQZnL2TDKkRjiNQ1DsnWfMX9SfHyJy
-- name: address
+- name: "BESTOVALIDATOR/PAS5"
   address: 5HGuNeqcxQnzyFFhGDaD2db4bt6y7diUnCDFb3X5fUfBwSgh
-- name: address
+- name: "COINSTUDIO"
   address: 5FJ7mri5qMgoAA1u6GptebqbPT1QXpPggoABrpgs2NJprKwz
-- name: address
+- name: "COINSTUDIO/02"
   address: 5HRKPCr1YaRKLGJLMeG41iHs82XiAduBFgVasn8mMBfobneH
-- name: address
+- name: "COINSTUDIO/03"
   address: 5G7NJQJGv9CLwaxVzeuMx8Z1jc2v32pkTEYT7EcbzdvSVNS3
-- name: address
+- name: "COINSTUDIO/04"
   address: 5H61XpmwqpD6QgfFQxyTPaio28nfJtdhRd5n3gBZGves7M52
-- name: address
+- name: "COINSTUDIO/05"
   address: 5EoHHQzSW7NLZfdY8TiU7spJe1zvfuvHrWzTFDEC6Z1fUxLW
-- name: address
+- name: "DPSTK - VAL 01"
   address: 5DykdhyMLNa6qPgcGimqfgm9JHTiZMwqzzQdHPjPFjZ7Do9P
-- name: address
+- name: "DPSTK - VAL 02"
   address: 5DwJqeX5sz3RmqiYfj6KP7EbQHkTMRpraNQEAo5tCF1U4sHv
-- name: address
+- name: "DPSTK - PASEO 3"
   address: 5CoNyETmeUm1ymfgLzYMLcX1DWpLGYFQfqbGyrcsSMZ9T1kB
-- name: address
+- name: "DPSTK - PASEO 4"
   address: 5DZRQSuTFhzESzsCfViaGZeDPhyWCFa9fF5HfZMQCkvNAtF5
-- name: address
+- name: "DPSTK - PASEO 5"
   address: 5EjuFJG7w2Quo6sqdWtUvyVA6SWQLk5fHvNNgpgk5ZhQHTcj
-- name: address
+- name: "DWELLIR"
   address: 5FRWXfgHjZVXs7BSP4yBB2b8fgczRof5zynJjbgud6ptRrUA
-- name: address
+- name: "DWELLIR PASEO 2"
   address: 5EceVbpmrw2nP72QzXRvkqRTz2Wq5zuZ3pMeok49Hk2KgdeV
-- name: address
+- name: "DWELLIR PASEO 3"
   address: 5FESKnoNzzhXesGA9XR9R23wt3Rzfo4Ydsvbg5EgACt8A1au
-- name: address
+- name: "DWELLIR PASEO 4"
   address: 5DqBTkVeqJf7iKWJLUxNuj9E8reDwVMfPqdkutJw5DnGftY8
-- name: address
+- name: "DWELLIR PASEO"
   address: 5FbfhUu6pQWZWy6AXoXCcZVEkoCe4TgFaTAKhSeuCMpt4aYY
-- name: address
+- name: "EXTRACOIN /01"
   address: 5EXtrLLidiQGKFMCekvH2B7E8ge3kugG7ZJugSiR7gASZBQ1
-- name: address
+- name: "EXTRACOIN /02"
   address: 5EXTRcEY1dwESChjYjDkB6N4D86UiE14YkqrQX7t2gwM7XMa
-- name: address
+- name: "EXTRACOIN/03"
   address: 5EXT1XpA6o2iwGFwGuv3wH7Rj11rvyRCdJkyCU5ySfBZ3rgP
-- name: address
+- name: "EXTRACOIN/04"
   address: 5EXT28fXNW9xshEScYRkshWajZeKRCG8ipi3VXekfR2TUctQ
-- name: address
+- name: "EXTRACOIN/05"
   address: 5CJEk6V8aVki1aGv757Pb7WoEQLznuCYBYVveuNRNJZEhxAA
-- name: address
+- name: "GATOTECH/1"
   address: 5Fgato4wJxwZicavjaKQ9oG5e2M1S5wUfy7mMxsw1HTw95ub
-- name: address
+- name: "GATOTECH/2"
   address: 5Ggatomsdkh6ByjPUfrHvEhdGpGNFh8rai1cdzokJz3KvgD1
-- name: address
+- name: "GATOTECH/3"
   address: 5HgatojfV5x7Hkgx9d5WZMmKvS7fBds8r5ErfJEuJCsUHe2w
-- name: address
+- name: "GATOTECH/4"
   address: 5HgatoAHMHZUEyUgbchcXexuGYs5EWehBymvg8vQpRZFdY8E
-- name: address
+- name: "GATOTECH/5"
   address: 5Fgato5erAiBuxGDf6jWGuewyHUNYNCqVvnkmPujcMtQ7yUb
-- name: address
+- name: "LUCKYFRIDAY.IO/01"
   address: 5FRmC9wUZjr2VRh1q5z1Beksh62nfPzpLuhyCkHRKWXjWv9u
-- name: address
+- name: "LUCKYFRIDAY.IO/02"
   address: 5HftqEy3ZGv4JswhW9J5dP8h8wGghJNApAdFbpic3vB2joXJ
-- name: address
+- name: "LUCKYFRIDAY.IO/03"
   address: 5CUj1nJ4yJsoFPHA27znEAW9gdUcUB7nzPQxrLdYPxZWzD1T
-- name: address
+- name: "LUCKYFRIDAY.IO/04"
   address: 5GNdFvnsMMvL9pmJ6m9Q24EwLb8W3pQrAkKuWj2iw6Mb9s7c
-- name: address
+- name: "METASPAN"
   address: 5EResBHk8rwXfd1fxrhUqR5b8fFHxkzCtLLk9GSopgAnmP5v
-- name: address
+- name: "METASPAN/2"
   address: 5GjQw9YE8dd9pobndLDoEc1CQQzTZY8d9kiyTzPQU6arWcRh
-- name: address
+- name: "METASPAN/3"
   address: 5FsreMewz5vnEDnbfk9wk5GUc5YuXqu8psgHY1f7nSPnAGur
-- name: address
+- name: "METASPAN/4"
   address: 5Gq339WsBjq9cQet63Ww5huHZW6XFUcB2ccJRevpVixrhDak
-- name: address
+- name: "METASPAN/5"
   address: 5EZWg355ZFx5vBM1dnvy2tTReyYyXKoRnP9YY26nGumtY7oY
-- name: address
+- name: "MILE"
   address: 5CMheRzc8yw6fzan97QdVpBtJ7vu2dVpomzLEvmWPWjMnjCs
-- name: address
+- name: "MILE/BRAVO"
   address: 5C7MHerZDXGsKbJP3i5EEJ71GjX3bdJGhdKNrjEED9znjSw7
-- name: address
+- name: "MILE 3"
   address: 5Gjo7xaoQJVyPpa9zWGy8Qt8VaLpPWH3sRKJK6R6c85v4zeL
-- name: address
+- name: "MILE 4"
   address: 5FsRLEAeuSHcrQ8SqLK2uc1GA6ap1m1x4NL99k8gVTJG9wnb
-- name: address
+- name: "MILE 5 ECHO"
   address: 5CMUSMMmx57hswkonkp4BWC1mSugSvNKyQpfVckj9waNEx4k
-- name: address
+- name: "OPENBITLAB"
   address: 5DXCQijJbVRr7XzKzgzkZnPgxN2FHKWNCjUkbDZkiUKYJ3Pp
-- name: address
+- name: "OPENBITLAB/02"
   address: 5Gxe767ZRTo55DGncvFSAF32XhiaVC3ys41tKWcTF95JfPxF
-- name: address
+- name: "OPENBITLAB/03"
   address: 5E4LgKCiarYWcBKtgwfG8sGmc4NHZFTmvuP77yCLhVgS24Q2
-- name: address
+- name: "OPENBITLAB/04"
   address: 5CoYXLyv5Nuk8hMn6XwuM5xYsuGkMskwkMAhdEEXoe8aZJv6
-- name: address
+- name: "OPENBITLAB/'5"
   address: 5H6YoXPNa9qXXovj2q8wSAdraQLyKFEcg9bmHR7kvEgnaV48
-- name: address
+- name: "PARANODES.IO"
   address: 5CADNSaxg4RVe8n45SDsE8hCcVvZV3StcVYi5yjEreRF9APt
-- name: address
+- name: "PARANODES.IO/02"
   address: 5DHjgPdNR1YFywWMTKxsabmUMPtYPEjnDALaSXcu8cNPPM8M
-- name: address
+- name: "PARANODES.IO/03"
   address: 5DJZB1TbiEtEw9jNLBYhJdZHEC7s3FYjeoXaF6irWvfbsZty
-- name: address
+- name: "PARANODES.IO/04"
   address: 5Gb8fxEgRg6xfdSsYGLDk2JEPSfs9uCu1NKsfSrrfRKMsQzP
-- name: address
+- name: "PARANODES.IO/05"
   address: 5EtKBb1GNwMs87nQBAgybLLRYkM5xu8M8jrvgYNjAHxFuEAM
-- name: address
+- name: "PARITY-VALIDATOR-0"
   address: 5Ea38N1YzxnfDEkGRNixPE4oXALAuMK4XDoYpH4fyZahdrLL
-- name: address
+- name: "PARITY-VALIDATOR-1"
   address: 5Ekiz65F512P4c7CymJnkCKbLRKyysTaPw9uF9vrXErEL9U7
-- name: address
+- name: "PARITY-VALIDATOR-2"
   address: 5FToUnX7P1WT2ADZqVpFVNUT6iAfJHbnKSJSucuGxrNLLWQN
-- name: address
+- name: "PARITY-VALIDATOR-3"
   address: 5EesTcZ3Cv9QLbnBzFawBdkhtuwhJ6RGieKbKrPQHH1uaYaY
-- name: address
+- name: "PARITY-VALIDATOR-4"
   address: 5FLcxQni1Q8C49jA4nZVEY3aAE6zanvyjzo2dUkGgUSLpZHt
-- name: address
+- name: "POLKADOTTERS"
   address: 5DvoL2BNoSm7wRt2tfZ6WW5QFrxm68GLv5SCrPQ4JBLjbvpL
-- name: address
+- name: "POLKADOTTERS/ SHRIMP"
   address: 5Dsed6sNwpaVER5oMWsk1VFxQDnd8G5dshWiFxqYSUcMdUGR
-- name: address
+- name: "POLKADOTTERS/🐙 OCTOPUS"
   address: 5CJCvWP2T54ZSgXWB6tDTYxbKkX28AA9dDWRpeC6K42gBZV1
-- name: address
+- name: "POLKADOTTERS/🦈 SHARK"
   address: 5FbUhUGX531L9Uz953EGDG1MmFRTUhNa5TaXHGMKJD76iLup
-- name: address
+- name: "POLKADOTTERRS"
   address: 5FsKSxifQZrK83gZEK5ncsXakEnSszahsz9Cr2vPiTcNRHxN
-- name: address
+- name: "RADIUMBLOCK.COM / 01"
   address: 5GWKuZt5LX3YaeAjaY3tm5HxmG7cx5kuKxbQvcxhVxxrSsRJ
-- name: address
+- name: "RADIUMBLOCK.COM / 02"
   address: 5CVMYZfczGFhu3huQcE7RDTNgvNGxBvKczA4Nd6XzRnb6ibC
-- name: address
+- name: "RADIUMBLOCK.COM / 03"
   address: 5CYDCaxqkLNf3qoL4pikn7KCGvHKGn2vtojjdiCrES2KSVgQ
-- name: address
+- name: "RADIUMBLOCK.COM / 04"
   address: 5CLpwEKGrhYDYHQLUVZzBWsgzqSFd7Uxy5SKie5MECrRTEiV
-- name: address
+- name: "SIK CRIFFERENTE.DE"
   address: 5H1MgERwsj7NWejMibokz8wPrc2N5obU1G7v9MUWz5hmSydS
-- name: address
+- name: "SIK 2 CRIFFERENTE.DE"
   address: 5Fpq4Rxhu6UbAs52wHMzHmjxSVBNz2eJMiQ9n6gcj1UxQMmy
-- name: address
+- name: "SIK | CRIFFERENT.DE/3"
   address: 5GwvXDwf9rbrGikMbtodYKewmiecPKkaLQPKqecxLMUNLEck
-- name: address
+- name: "SIK | CRIFFERENT.DE/4"
   address: 5CB3hteqociFUMxkZN6cxK6gC5MG26vLotFVDUDGZkWfKH4Q
-- name: address
+- name: "SIK | CRIFFERENT.DE/5"
   address: 5CFZJKBFrR3LENuWfMQTGfsD3zGefvBLiUGpFWGF64y5TX9e
-- name: address
+- name: "SIMPLY STAKING"
   address: 5GqHPKXy9wCBTZ2LLxkiyuNS9BNCHMV67GtXkvg31i9fgJRN
-- name: address
+- name: "STAKE PLUS"
   address: 5F2A2bL6WopW8NEmxQmABY8cLtYmdDjNzsiwnCDLtPn44orx
-- name: address
+- name: "STAKE PLUS/02"
   address: 5Ehji52QzDFBgFVeE1r4KiorXhKykUhMTkJ5w1L95H67Js1D
-- name: address
+- name: "STAKE PLUS/03"
   address: 5GsHiVwSS2mLBxeNTUnd5ZDAYkNGuP4QmSbghcfLcLv91njc
-- name: address
+- name: "STAKE PLUS/04"
   address: 5GxCnPFp5Pr3zQTifZfR44xqdVpbGkACtXgcHypXbTjBT32p
-- name: address
+- name: "STAKE PLUS"
   address: 5Gc3XvvFVfN8fdN8p3dn9SG5iZi8JTvaqTZzV7B9Wy2tVSrq
-- name: address
+- name: "STAKER SPACE/01"
   address: 5C5qC2fWTm7ZeakAMM2XvSKwGngpcdnDuWLJM3f5V1SLt9wN
-- name: address
+- name: "STAKER SPACE/02"
   address: 5ECNsUYwvcc5cEKaUzAu1AVECPpvFsCxiyRevs7orRJeDkze
-- name: address
+- name: "STAKER SPACE/03"
   address: 5DRkYbc2aaewDsMdtToqryfLEsVb7oZspvEXjzPQth7kGnk8
-- name: address
+- name: "STAKER SPACE/04"
   address: 5EEhzemj9FZpfvrwosu8gAJcYu7uTUWyh241zCJeKPMzVXff
-- name: address
+- name: "STAKER SPACE/05"
   address: 5F9WETVt9uugXqyBVLamhj7BvWWJ3nL1SEtvYDssjA8ify1o
-- name: address
+- name: "STAKEWORLD.IO"
   address: 5ENXgjWyXkG6zdanViiF4xJcfZ1DS6SYPyg8vdenKVub6tXG
-- name: address
+- name: "STAKEWORLD.IO/1"
   address: 5FcLU3AFBdr1yLmq8Egpy2ZwxgECL1deM1bUsgQw5g7MoibY
-- name: address
+- name: "STAKEWORLD.IO/02"
   address: 5HVUs7BYTpD8jq1HhqVuFqyhmpM24sPP19NWEqwM8e2TW42E
-- name: address
+- name: "STAKEWORLD.IO/03"
   address: 5EkTMUxkniWNoUhcnVG2xidhkQaAHPwKSkPgEUrdSotdkpcA
-- name: address
+- name: "STAKEWORLD.IO/04"
   address: 5CiHBUkQA9xYyAKWBy2YWsDSte1qEUdAj4TgRTjwLWvRNXCR
-- name: address
+- name: "STAKING LAND 1"
   address: 5DaVS2qqHgZEkZVam6JvFEPu9AhVmUaDPjtT9vibCR1kQ3oa
-- name: address
+- name: "STAKING LAND 2"
   address: 5HpC6p5y3MyNZWbjE9vhYRafVR56tFqgkLFWLAcWcWUWd6cF
-- name: address
+- name: "STAKING LAND 3"
   address: 5Gb3qD61CGkWKJegNv4yMPxGSxAVunWgoQpYVeH9wD1Rjp9U
-- name: address
+- name: "STAKING LAND 4"
   address: 5FX24hveRSmaAxU42rjfBR9Z32AkNh2kQNNSLyN6ccDpqxmQ
-- name: address
+- name: "STAKING LAND"
   address: 5DUJkM4sUcwHyP13KPTwu7eNhSk2GiXnm6vNUpHeDvDhZAuh
-- name: address
+- name: "STKD.IO/01"
   address: 5GnMSvfjUpRSwyQyzbrFfGqAS6vhBnLGtQCmPDikshemP4Jh
-- name: address
+- name: "STKD.IO/02"
   address: 5HbS4tbvbvwtLXDQNeM2hw8WbHFbaTtPskYEQhLASMFNYYLX
-- name: address
+- name: "STKD.IO/03"
   address: 5DxyArrCFzZ3M25hAENo6VDbPFYe6UuJCQZ3XEPqAGd19Nqp
-- name: address
+- name: "STKD.IO/04"
   address: 5HEVdf5TkqWyZjATGLy5M997skbJWnBUiPeakMx391KXCXaL
-- name: address
+- name: "STKD.IO"
   address: 5GjgKETUcnpVQhmAEYSYegrfced85jvvwXADqjc5KsSMVnsM
-- name: address
+- name: "TURBOFLAKES.IO"
   address: 5CQN2L4soC8G6L3nngT42oTEc28BCmNvDEt5RwtpYV7QBScp
-- name: address
+- name: "TURBOFLAKES.IO/01"
+  address: 5EnRo353vDURzXKSZbEPt43oH3Ep2a9PRqGAUufvedeaYarA
+- name: "TURBOFLAKES.IO/02"
   address: 5EnN7kUSZ6Dq6phQitHvVctPGxHgGQ29mCouHMMseEq7nEe8
-- name: address
+- name: "TURBOFLAKES.IO/03"
   address: 5E7xAxqDjrb9XmpKoZ7d8m2vzSVdKZqt7GVQvh6ucWRzx6R9
-- name: address
-  address: 5E7xAxqDjrb9XmpKoZ7d8m2vzSVdKZqt7GVQvh6ucWRzx6R9
-- name: address
+- name: "TURBOFLAKES.IO/04"
   address: 5CAL9JGERu6Tsjd57bekmmdbFC4aKYfW3krxBkvTNcJjLTkR
-- name: address
-  address: 5G9M1Y4GLtEesD97uYjamzuG473WXfCWjfCJzx14nrFpexeV
-- name: address
+- name: "TURBOFLAKES.IO/05"
+  address: 5GbYpUfUVW72YivDf451EEeVceHvTH7a4DR3mu2KJnbYZAxs
+- name: "VALIDORANGE PAS2"
   address: 5CVS4Vf5atVu3DefmcydzjkEX6njtnqMgtwSqdGBkQXBHWQp
-- name: address
+- name: "VALIDORANGE PAS3"
   address: 5CLmt2CgNBNyR9NPQhCHAVLdoFJfMmFCxAdPQFvQBmFsRi7v
-- name: address
+- name: "VALIDORANGE PAS4"
   address: 5DZTc2EduBzbykWnn3FZG7avkAavj7GvQN37VDGyKSK8n7D3
-- name: address
+- name: "VALIDORANGE PAS5"
   address: 5CmD7ZM3kcjKXqWyX3KaBoDr8dTc71yazfHYAarjYLfzW7DG
-- name: address
+- name: "AssetHub"
   address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
-- name: address
+- name: "PhalaPaseo"
   address: 5FNUsoMKdSFpPs7dcgzgqtRmoH2zDbs9eqwAMKLNWD2LkLjc
-- name: address
+- name: "Parachain - NO NAME"
   address: 5DWwL6TBA7tur8Mnh5m74t6RtX6t6FBV1X5EfQ3GSh4SK1KT
-- name: address
+- name: ""Integritee Network (Paseo)"
   address: 5FNasVTkyjX1UsNrjs4mY1sGiiScf7BkFKzNZ2Cih9cXgfDy
-- name: address
+- name: "Bajun Paseo"
   address: 5Hgh334723ay3Zt34woP3wqY9RwFs9556QvY4UWqFTKvy91f
-- name: address
+- name: "Nodle"
   address: 5Chzw3acr3uEpxnX3Qc1sv96gB6AJir7duzaaz5xohXbZVkj
-- name: address
+- name: "Bifrost"
   address: dDWnEWnx3GUgfugXh9mZtgj4CvJdmd8naYkWYCZGxjfb1Cz
-- name: address
+- name: "Hydra"
   address: 5DwBmEFPXRESyEam5SsQF1zbWSCn2kCjyLW51hJHXe9vW4xs
-- name: address
+- name: "Ajuna Network (Paseo)"
   address: 5Hgh334723ay3Zt34woP3wqY9RwFs9556QvY4UWqFTKvy91f
-- name: address
+- name: "AVN_Paseo"
   address: 5EAMoEXiv7ceKPTFQLRNjMxj268LN32J7EQt3AV1R5sfXx6L
-- name: address
+- name: "KILT Peregrine"
   address: 5EUJcZ28VHU2GqQEvt6SzJwciQcGEm6EGddSv74HoRV3yY2M
-- name: address
+- name: "Zeitgeist Battery Stat"
   address: 5HGNBoNqrDayk7WdHX7eM4LApWHhW8xYBn4JnztYSwFbcbaN
-- name: address
+- name: "Darwinia Koi
   address: 5G9z8Ttoo7892VqBHiSWCbnd2aEdH8noJLqZ4HFMzMVNhvgP
-- name: address
+- name: "Bajun Network (Paseo)"
   address: 5Hgh334723ay3Zt34woP3wqY9RwFs9556QvY4UWqFTKvy91f
-- name: address
+- name: ""Amplitude testnet (Foucoco)"
   address: 5FNJjjUnb6WpyXCGB527689Ssvpiu6ZxdcypuoFrJ49XLrWK
-- name: address
+- name: "Kreivo de Paseo"
   address: EvoLanodoqDsgHb98Ymbu41uXXKfCPDKxeM6dXHyJ2JoVus
-- name: address
+- name: "Polimec"
   address: 5GGgn2FDUAKgws38oCNFNC9gC8d5mqRgHRAnWaNSQVkyweo6
-- name: address
+- name: "Energy Web X Paseo"
   address: 5HpSs5x9nvKzcDv1XeiVNmdUL9wWBhhiQN4DruDyA5ueJ155
-- name: address
+- name: "Muse Network"
   address: 5CK5QCWE5DkiCZ2ufodegLFV795vPdMJMHbncMyv6qd4BKbH
-- name: address
+- name: "Frequency"
   address: 5G4ADWnLUEWwDQ5mKQHEB9ASP7JrdXtUdo97RUpuxPeeKWtz
-- name: address
+- name: "Pop Network"
   address: 5CDhuAeazzmDxpEmJKAP1mxXYGg66XEMthz3XFqEANXGxHW8
-- name: address
+- name: "xcavate"
   address: 5EcKtQoUJAJc6Ekz3XNaR9LRsDWrqCMVnZNAa7N21JzuZL7e
-- name: address
+- name: "Myriad Social"
   address: 5D8EZiZDv7u2pT7iDRYNGVUg2LCepKUxsHn7Wj4GkzeLSRLY
-- name: address
+- name: "Laos Omega"
   address: 5C7cTzUE8vhQMzbKrRmsZqhGgk583JFENE7T73faqUVeYMdC
-- name: address
+- name: "Hyperbridge (Gargantua)"
   address: 5E4kXkguH9JAVqymJZGkJHi5se2grgR1ZKhhkNUmxqMTSP7g
-- name: address
+- name: "Niskala"
   address: 5GbvVtuHvN1PG9WdG4FXKCPzVnPtUKRQMEy3Aye1VYEYsKB3
-- name: address
+- name: "LAOS Mercury"
   address: 5C7cTzUE8vhQMzbKrRmsZqhGgk583JFENE7T73faqUVeYMdC
-- name: address
+- name: "Papermoon"
   address: 5CZnWvAx8yRvxeD6xvFL1xPMsCgMDxniH3yK7eGcJNbd9QV2
-- name: address
+- name: "ROOT"
   address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
-- name: address
+- name: "FAUCET"
   address: 5HKH4hh87MtWeJvJAmnCW9xjWZMuYaGuU8erhZzvWqiteHXU
-- name: address
+- name: "FAUCET"
   address: 5HBAuQ4Q5P36ViCoZhXGSUJq88SuBs7xZDQetsWT5x2GwKAz
-- name: address
+- name: "NOMINATOR 1"
   address: 5EU2WqnjsQSep54U8EhJ2tfy28rd4jfjjnntCcwh9b4sSnrf
-- name: address
+- name: "NOMINATOR 3"
   address: 5FCFNiJCvWdB5U8VpwAwdMNua1feyi9KNAJrPDoScd29uVuw
-- name: address
+- name: "NOMINATOR 6"
   address: 5FZB1ZnxDqvkrGRSVzApi8RpgDQB84N7cNErCJZeiEK9kavm
-- name: address
+- name: "NOMINATOR 7"
   address: 5HeXwYHFXQzuFBQQQyTchgqQJmNLbvuzkLM4Y6yaoHPkWrhZ
-- name: address
+- name: "NOMINATOR 0"
   address: 5DCbjf8MwtnkyWDEbTY7JNM2QbtQXeYdYgQ4nAG5YY8fnaCC
-- name: address
+- name: "NOMINATOR 2"
   address: 5GVjoEAozFPhw7m2t3fUzoX5RS8Pz5ZiZF7WCezx1s1L89Cz
-- name: address
+- name: "NOMINATOR 4"
   address: 5EgxEnYHh6do9NDBfTYvv2WbEMtud5hJmNZTM2X75jy2ruxe
-- name: address
+- name: "NOMINATOR 6"
   address: 5HKyFioqPw7UZhGYnz1QXqAsASU2ABMydaNdCDNuJxBGMEQq
-- name: address
+- name: "NOMINATOR 8"
   address: 5Fduun8uHjTj5ndKRLQGDY4NxHj4jvmTdj2aPMgL28dwkneY
 - name: address
   address: 5D9kKJJXWuC6VPQFV7BDQVxGQM2tTzU9K4P5kDLmsCpJFnDD
