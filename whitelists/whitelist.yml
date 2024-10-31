@@ -18,6 +18,8 @@
   address: 5Cf7QK3jhYhX2iWdvFmQZnL2TDKkRjiNQ1DsnWfMX9SfHyJy
 - name: "BESTOVALIDATOR/PAS5"
   address: 5HGuNeqcxQnzyFFhGDaD2db4bt6y7diUnCDFb3X5fUfBwSgh
+ - name: "BESTOVALIDATOR/PAS6"
+  address: 5GbHes6MeRJSi8g8WZe58cG4Zqbrwyk4gppZ2mFnub9u1HH6
 - name: "COINSTUDIO"
   address: 5FJ7mri5qMgoAA1u6GptebqbPT1QXpPggoABrpgs2NJprKwz
 - name: "COINSTUDIO/02"
@@ -28,6 +30,8 @@
   address: 5H61XpmwqpD6QgfFQxyTPaio28nfJtdhRd5n3gBZGves7M52
 - name: "COINSTUDIO/05"
   address: 5EoHHQzSW7NLZfdY8TiU7spJe1zvfuvHrWzTFDEC6Z1fUxLW
+- name: "CoinStudio/06"
+  address: 5EjuQGHhvm6PHhJW2x3H1BhngskjxSRXCZfDAt2QLR39ASQq
 - name: "DPSTK - VAL 01"
   address: 5DykdhyMLNa6qPgcGimqfgm9JHTiZMwqzzQdHPjPFjZ7Do9P
 - name: "DPSTK - VAL 02"
@@ -76,6 +80,10 @@
   address: 5CUj1nJ4yJsoFPHA27znEAW9gdUcUB7nzPQxrLdYPxZWzD1T
 - name: "LUCKYFRIDAY.IO/04"
   address: 5GNdFvnsMMvL9pmJ6m9Q24EwLb8W3pQrAkKuWj2iw6Mb9s7c
+- name: "LUCKYFRIDAY.io/05"
+  address: 5Eyp4ZFFW8E5c9VNA8UUCPCci4tZdf9y3zzpKK5SAvkfsi8s
+- name: "LUCKYFRIDAY.IO/06"
+  address: 5Fpfj8y2ZsaVzyStdVAB7T4G3hbir9d7dcCxNPgSWoS1JvvR
 - name: "METASPAN"
   address: 5EResBHk8rwXfd1fxrhUqR5b8fFHxkzCtLLk9GSopgAnmP5v
 - name: "METASPAN/2"
@@ -104,8 +112,10 @@
   address: 5E4LgKCiarYWcBKtgwfG8sGmc4NHZFTmvuP77yCLhVgS24Q2
 - name: "OPENBITLAB/04"
   address: 5CoYXLyv5Nuk8hMn6XwuM5xYsuGkMskwkMAhdEEXoe8aZJv6
-- name: "OPENBITLAB/'5"
+- name: "OPENBITLAB/65"
   address: 5H6YoXPNa9qXXovj2q8wSAdraQLyKFEcg9bmHR7kvEgnaV48
+- name: "OPENBITLAB/6"
+  address: 5DaLaT5mv4hBLYSMbAvDWfLobM4WMiiDH5iqGfEGniMnaAs7
 - name: "PARANODES.IO"
   address: 5CADNSaxg4RVe8n45SDsE8hCcVvZV3StcVYi5yjEreRF9APt
 - name: "PARANODES.IO/02"
@@ -134,8 +144,10 @@
   address: 5CJCvWP2T54ZSgXWB6tDTYxbKkX28AA9dDWRpeC6K42gBZV1
 - name: "POLKADOTTERS/🦈 SHARK"
   address: 5FbUhUGX531L9Uz953EGDG1MmFRTUhNa5TaXHGMKJD76iLup
-- name: "POLKADOTTERRS"
+- name: "POLKADOTTERS/SQUID"
   address: 5FsKSxifQZrK83gZEK5ncsXakEnSszahsz9Cr2vPiTcNRHxN
+- name: "POLKADOTTERS/DOLPHIN"
+  address: 5G4exNBWKkB8BBsTH218UKQ9ad2NB6nVXJ3htHTdkA5QaqkB
 - name: "RADIUMBLOCK.COM / 01"
   address: 5GWKuZt5LX3YaeAjaY3tm5HxmG7cx5kuKxbQvcxhVxxrSsRJ
 - name: "RADIUMBLOCK.COM / 02"
@@ -186,6 +198,8 @@
   address: 5EkTMUxkniWNoUhcnVG2xidhkQaAHPwKSkPgEUrdSotdkpcA
 - name: "STAKEWORLD.IO/04"
   address: 5CiHBUkQA9xYyAKWBy2YWsDSte1qEUdAj4TgRTjwLWvRNXCR
+- name: "STAKEWORLD.IO/05"
+  address: 5GxdZ1fKqExMtC8mrjcuY8YsrLNNKpynQHBXTckeHwWFyGim
 - name: "STAKING LAND 1"
   address: 5DaVS2qqHgZEkZVam6JvFEPu9AhVmUaDPjtT9vibCR1kQ3oa
 - name: "STAKING LAND 2"
@@ -318,8 +332,6 @@
   address: 5HNajagzKGvxxi8btKBEZWs8iUZEM9qBxzaCuhsn4mkSj6Ex
 - name: "turboflakes.io/01"
   address: 5EnRo353vDURzXKSZbEPt43oH3Ep2a9PRqGAUufvedeaYarA
-- name: "LuckyFriday.io/05"
-  address: 5Eyp4ZFFW8E5c9VNA8UUCPCci4tZdf9y3zzpKK5SAvkfsi8s
 - name: "gatotech"
   address: 5CkHkUKgay1bA77oFWBkaw83fjdX1yQaaBHtWAghTmzxAv1U
 - name: address
@@ -348,10 +360,6 @@
   address: 5CVRfcJbz1oGtVvLa2CYV4yn3uHUjWXg12jbuZtakgNz2LR6
 - name: address
   address: 5EWWPBNjcmmzjTBcYc39pzZhGn6kMPf6xvGPwJo9p2cMCrjV
-- name: address
-  address: 5GxdZ1fKqExMtC8mrjcuY8YsrLNNKpynQHBXTckeHwWFyGim
-- name: address
-  address: 5EjuQGHhvm6PHhJW2x3H1BhngskjxSRXCZfDAt2QLR39ASQq
 - name: "turboflakes.io/05"
   address: 5GbYpUfUVW72YivDf451EEeVceHvTH7a4DR3mu2KJnbYZAxs
 - name: address
