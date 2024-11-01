@@ -324,9 +324,9 @@
   address: 5D9kKJJXWuC6VPQFV7BDQVxGQM2tTzU9K4P5kDLmsCpJFnDD
 - name: address
   address: 5EsqnXGHzDeMmDCNYchoMh67xM3S7uRdhwMsUtwd5dJsksew
-- name: address
+- name: "PARITY"
   address: 5EJTgX1bdHyUui7dNAfX2WNUme2gmC5Yhbt2Q8AxyRoW75Ps
-- name: address
+- name: "R0GUE"
   address: 5Fjmh8QuPkLAcErd6oAGTACvy99ifEA5W3QeCnKVfUxH3uC6
 - name: address
   address: 5HNajagzKGvxxi8btKBEZWs8iUZEM9qBxzaCuhsn4mkSj6Ex
@@ -334,11 +334,11 @@
   address: 5EnRo353vDURzXKSZbEPt43oH3Ep2a9PRqGAUufvedeaYarA
 - name: "gatotech"
   address: 5CkHkUKgay1bA77oFWBkaw83fjdX1yQaaBHtWAghTmzxAv1U
-- name: address
+- name: "R0gue"
   address: 5Ec4AhPKXY9B4ayGshkz2wFMh7N8gP7XKfAvtt1cigpG9FkJ
 - name: address
   address: 5EWWPBNjcmmzjTBcYc39pzZhGn6kMPf6xvGPwJo9p2cMCrjV
-- name: address
+- name: "Clawbird"
   address: 5FJ4aGWwFcto8uz2h7nuex4SPvGAwTUnoSZ6WtdA8nRYFadg
 - name: address
   address: 5ECC2USyVaU3t7KpYdy2mU8DgcN36J9ymGPjLZtuZubNzg6c
