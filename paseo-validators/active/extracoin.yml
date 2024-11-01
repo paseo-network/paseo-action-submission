@@ -27,3 +27,7 @@ accounts:
     identity:
       display: ExtraCoin/05
     stash: 1EXtRkCSH2BT7HS4iAPjGLx62LeVCkgG3EQpCMmvPaktC9p
+  5:
+    identity:
+      display: ExtraCoin/06
+    stash: 1ExtDsHgxecE4kFfQnRSH1CBxF9cuxDvNz99UJJ21qBjENM
