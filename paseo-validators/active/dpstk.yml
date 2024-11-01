@@ -27,3 +27,7 @@ accounts:
     identity:
       display: DPSTK - PASEO 5
     stash: 5EjuFJG7w2Quo6sqdWtUvyVA6SWQLk5fHvNNgpgk5ZhQHTcj  
+  5:
+    identity:
+      display: DPSTK - PASEO 6
+    stash: 5ERpjeTzUMXmcgbpEkq2EmPaCFQXjJUQnXjQ93W6T8iABqph
