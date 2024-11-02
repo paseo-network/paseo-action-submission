@@ -42,6 +42,8 @@
   address: 5DZRQSuTFhzESzsCfViaGZeDPhyWCFa9fF5HfZMQCkvNAtF5
 - name: "DPSTK - PASEO 5"
   address: 5EjuFJG7w2Quo6sqdWtUvyVA6SWQLk5fHvNNgpgk5ZhQHTcj
+- name: "DPSTK - PASEO 6"
+  address: 5ERpjeTzUMXmcgbpEkq2EmPaCFQXjJUQnXjQ93W6T8iABqph
 - name: "DWELLIR"
   address: 5FRWXfgHjZVXs7BSP4yBB2b8fgczRof5zynJjbgud6ptRrUA
 - name: "DWELLIR PASEO 2"
@@ -62,6 +64,8 @@
   address: 5EXT28fXNW9xshEScYRkshWajZeKRCG8ipi3VXekfR2TUctQ
 - name: "EXTRACOIN/05"
   address: 5CJEk6V8aVki1aGv757Pb7WoEQLznuCYBYVveuNRNJZEhxAA
+- name: "EXTRACOIN/06"
+  address: 5CJfjtcDqBP8nXjjhmjRJ8B3LLFVvcQ5qtFezBJwTvofYfMz
 - name: "GATOTECH/1"
   address: 5Fgato4wJxwZicavjaKQ9oG5e2M1S5wUfy7mMxsw1HTw95ub
 - name: "GATOTECH/2"
@@ -104,6 +108,8 @@
   address: 5FsRLEAeuSHcrQ8SqLK2uc1GA6ap1m1x4NL99k8gVTJG9wnb
 - name: "MILE 5 ECHO"
   address: 5CMUSMMmx57hswkonkp4BWC1mSugSvNKyQpfVckj9waNEx4k
+- name: "Mile/Foxtrot 6"
+  address: 5CQsRfCT3hY91HKqmtmDhJK9qSibunRafrWuBze4KqFAqvhN
 - name: "OPENBITLAB"
   address: 5DXCQijJbVRr7XzKzgzkZnPgxN2FHKWNCjUkbDZkiUKYJ3Pp
 - name: "OPENBITLAB/02"
@@ -166,6 +172,8 @@
   address: 5CB3hteqociFUMxkZN6cxK6gC5MG26vLotFVDUDGZkWfKH4Q
 - name: "SIK | CRIFFERENT.DE/5"
   address: 5CFZJKBFrR3LENuWfMQTGfsD3zGefvBLiUGpFWGF64y5TX9e
+- name: "SIK | CRIFFERENT.DE/6"
+  address: 5CJbucUTbLKiD1vXbCoDnkoioHgeug369CT6cyX126as8scx
 - name: "SIMPLY STAKING"
   address: 5GqHPKXy9wCBTZ2LLxkiyuNS9BNCHMV67GtXkvg31i9fgJRN
 - name: "STAKE PLUS"
@@ -240,6 +248,8 @@
   address: 5DZTc2EduBzbykWnn3FZG7avkAavj7GvQN37VDGyKSK8n7D3
 - name: "VALIDORANGE PAS5"
   address: 5CmD7ZM3kcjKXqWyX3KaBoDr8dTc71yazfHYAarjYLfzW7DG
+- name: "VALIDORANGE PAS6"
+  address: 5Fv3duNpVJHtSaK4cczPjRhGByxW1PnKDQPPm5m2V9NwAws8
 - name: "AssetHub"
   address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
 - name: "PhalaPaseo"
