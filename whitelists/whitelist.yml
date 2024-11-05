@@ -1,4 +1,4 @@
-disableBot: false
+disableBot: true
 disableWhitelist: false
 whitelist:
   - name: AMFORC
