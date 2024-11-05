@@ -27,3 +27,7 @@ accounts:
     identity:
       display: Mile/Echo
     stash: 1HmagcqorPBKUmKkPs4Kf2Ad4uL9DvU3uZ9euk5i2btRQNt
+  5:
+    identity:
+      display: Mile/Foxtrot
+    stash: 1MAZzTWuUocSpLMjXpDqT9Jh4iFc5yikMFPMHdQsvGh2YtE  
