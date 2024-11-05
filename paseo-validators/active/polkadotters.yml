@@ -23,3 +23,11 @@ accounts:
     identity:
       display: Polkadotters/OCTOPUS
     stash: 5CJCvWP2T54ZSgXWB6tDTYxbKkX28AA9dDWRpeC6K42gBZV1
+  4:
+    identity:
+      display: Polkadotters/SQUID
+    stash: 5FsKSxifQZrK83gZEK5ncsXakEnSszahsz9Cr2vPiTcNRHxN
+  5:
+    identity:
+      display: Polkadotters/DOLPHIN
+    stash: 14zx6hSaBXSbcisyEf48cUEJSF21sQLdbnnC3aSzJF6vmPLX
