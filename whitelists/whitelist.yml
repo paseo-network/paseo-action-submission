@@ -343,7 +343,7 @@ whitelist:
     address: 5EsqnXGHzDeMmDCNYchoMh67xM3S7uRdhwMsUtwd5dJsksew
   - name: PARITY
     address: 5EJTgX1bdHyUui7dNAfX2WNUme2gmC5Yhbt2Q8AxyRoW75Ps
-  - name: R0GUE
+  - name: R0GUE#0
     address: 5Fjmh8QuPkLAcErd6oAGTACvy99ifEA5W3QeCnKVfUxH3uC6
   - name: address
     address: 5HNajagzKGvxxi8btKBEZWs8iUZEM9qBxzaCuhsn4mkSj6Ex
@@ -351,8 +351,12 @@ whitelist:
     address: 5EnRo353vDURzXKSZbEPt43oH3Ep2a9PRqGAUufvedeaYarA
   - name: gatotech
     address: 5CkHkUKgay1bA77oFWBkaw83fjdX1yQaaBHtWAghTmzxAv1U
-  - name: R0gue
+  - name: R0GUE#1
     address: 5Ec4AhPKXY9B4ayGshkz2wFMh7N8gP7XKfAvtt1cigpG9FkJ
+  - name: R0GUE#2
+    address: 5HGvdza6eskzvXPAefgzqzuRRgF1vTB3bBQGoUjgmZsNY1LE
+  - name: R0GUE#3
+    address: 5DG92hsg6BetpA8fLCoDoXQhPeQKuxr3boZpUk7TVszk76Ak
   - name: address
     address: 5EWWPBNjcmmzjTBcYc39pzZhGn6kMPf6xvGPwJo9p2cMCrjV
   - name: Clawbird
@@ -385,3 +389,5 @@ whitelist:
     address: 5Fg7V7JuCUMs632ag3Scx2gjCPFyKRYggAQDEEGWxfz8yRU4
   - name: Virto Team
     address: 13MUpbhzsE5mZZUfL4nir6XAcZEjYq8Ax5Y5sGEh3aqLEvne
+  - name: EduChain
+    address: 5HgvB3pdQ2G2HasTzrb98Wa6ENSfozaGDcqzkAkSWbwcp9gp
