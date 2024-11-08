@@ -55,8 +55,10 @@ whitelist:
     address: 5FESKnoNzzhXesGA9XR9R23wt3Rzfo4Ydsvbg5EgACt8A1au
   - name: DWELLIR PASEO 4
     address: 5DqBTkVeqJf7iKWJLUxNuj9E8reDwVMfPqdkutJw5DnGftY8
-  - name: DWELLIR PASEO
+  - name: DWELLIR PASEO 5
     address: 5FbfhUu6pQWZWy6AXoXCcZVEkoCe4TgFaTAKhSeuCMpt4aYY
+  - name: DWELLIR PASEO 6
+    address: 5EbiZKWABPeKgWEnwU2pFHRg8b1EFLqNrdK4Tm1kVQ3dHeXB
   - name: EXTRACOIN /01
     address: 5EXtrLLidiQGKFMCekvH2B7E8ge3kugG7ZJugSiR7gASZBQ1
   - name: EXTRACOIN /02
@@ -383,5 +385,9 @@ whitelist:
     address: 5GbYpUfUVW72YivDf451EEeVceHvTH7a4DR3mu2KJnbYZAxs
   - name: address
     address: 5GbHes6MeRJSi8g8WZe58cG4Zqbrwyk4gppZ2mFnub9u1HH6
+  - name: address
+    address: 5Fg7V7JuCUMs632ag3Scx2gjCPFyKRYggAQDEEGWxfz8yRU4
+  - name: Virto Team
+    address: 13MUpbhzsE5mZZUfL4nir6XAcZEjYq8Ax5Y5sGEh3aqLEvne
   - name: EduChain
     address: 5HgvB3pdQ2G2HasTzrb98Wa6ENSfozaGDcqzkAkSWbwcp9gp
