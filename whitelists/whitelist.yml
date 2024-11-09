@@ -137,6 +137,8 @@ whitelist:
     address: 5Gb8fxEgRg6xfdSsYGLDk2JEPSfs9uCu1NKsfSrrfRKMsQzP
   - name: PARANODES.IO/05
     address: 5EtKBb1GNwMs87nQBAgybLLRYkM5xu8M8jrvgYNjAHxFuEAM
+  - name: PARANODES.IO/06
+    address: 5GgGs9T4iFHG86D8nautoU1jEUZyWe2EVYNd1fYq9QVkJnLe
   - name: PARITY-VALIDATOR-0
     address: 5Ea38N1YzxnfDEkGRNixPE4oXALAuMK4XDoYpH4fyZahdrLL
   - name: PARITY-VALIDATOR-1
