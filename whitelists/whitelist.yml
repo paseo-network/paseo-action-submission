@@ -1,4 +1,4 @@
-disableBot: true
+disableBot: false
 disableWhitelist: false
 whitelist:
   - name: AMFORC
@@ -388,6 +388,8 @@ whitelist:
   - name: address
     address: 5Fg7V7JuCUMs632ag3Scx2gjCPFyKRYggAQDEEGWxfz8yRU4
   - name: Virto Team
-    address: 13MUpbhzsE5mZZUfL4nir6XAcZEjYq8Ax5Y5sGEh3aqLEvne
+    address: 5ERBgGSw1SpJ82U9NRjihwh1kwF5rXa2saobhyFLVVop4XJs
   - name: EduChain
     address: 5HgvB3pdQ2G2HasTzrb98Wa6ENSfozaGDcqzkAkSWbwcp9gp
+  - name: Tugy
+    address: 5ChyjqCv7HKWLa77vDedMyXteF2L3YBrE7zJjTt2DMbKncgM
