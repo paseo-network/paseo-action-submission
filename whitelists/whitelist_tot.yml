@@ -2,20 +2,20 @@ disableBot: false
 disableWhitelist: false
 whitelist:
   - name: root
-    address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
+    address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
   - name: validator_1
-    address: 5CiPPseXPECbkjWCa6MnjNokrgYjMqmKndv2rSnekmSK2DjL
+    address: 1egYCubF1U5CGWiXjQnsXduiJYP49KTs8eX1jn1JrTqCYyQ
   - name: validator_2
-    address: 5HGjWAeFDfFCWPsjFQdVV2Msvz2XtMktvgocEZcCj68kUMaw
+    address: 16D2eVuK5SWfwvtFD3gVdBC2nc2BafK31BY6PrbZHBAGew7L
   - name: validator_3
-    address: 5HpG9w8EBLe5XCrbczpwq5TSXvedjrBGCwqxK1iQ7qUsSWFc
+    address: 16kZJGPJ37uYxjs7adswyEHbPYeHS9jQHSaSUJhkfvWPcoeF
   - name: validator_4
-    address: 5Ck5SLSHYac6WFt5UZRSsdJjwmpSZq85fd5TRNAdZQVzEAPT
+    address: 1gNafhMQMsZwntbSCUT1n8toPp6G8gDk7owaf9z7VXWQQM7
   - name: validator_5
-    address: 5HKPmK9GYtE1PSLsS1qiYU9xQ9Si1NcEhdeCq9sw5bqu4ns8
+    address: 16FgueQLQfVUpyMPPetigcz7FmSMhgANn8NgzSsHdgsRFDbh
   - name: validator_6
-    address: 5GNJqTPyNqANBkUVMN1LPPrxXnFouWXoe2wNSmmEoLctxiZY
+    address: 15Jbynf3EcRqdHV1K14LXYh7PQFTbp5wiXfrc4kbMReR9KxA
   - name: a
-    address: 5FLSigC9HGRKVhB9FiEo4Y3koPsNmBmLJbpXg2mp1hXcS59Y
+    address: 14Gjs1TD93gnwEBfDMHoCgsuf1s2TVKUP6Z1qKmAZnZ8cW5q
   - name: b
-    address: 5GrwvaEF5zXb26Fz9rcQpDWS57CtERHpNehXCPcNoHGKutQY
+    address: 15oF4uVJwmo4TdGW7VfQxNLavjCXviqxT9S1MgbjMNHr6Sp5
