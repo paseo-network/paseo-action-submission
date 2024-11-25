@@ -2,398 +2,398 @@ disableBot: false
 disableWhitelist: false
 whitelist:
   - name: AMFORC
-    address: 5DDVAkXRMSkkmrB2yqrbFvPCZt8xaPawcy2bEvBsCJRRiUtm
+    address: 129nK5nVDE2EDPBYwUubQ5DMRW8cGh95hTm5QDBDkPSwtxeZ
   - name: AMFORC 2
-    address: 5DcD6We4htNwjE97MhKvn1HDxKBB2fZK3C69C7ET6FxmWtrJ
+    address: 12YWEqu8ZfeRAm9dKLNvvA7NowApiy7T7gpdMQDoeLzHhbeK
   - name: AMFORC 3
-    address: 5HdxB6kQRvk1xMSc4RYE7yGXLVBih6uYFANtKfeKTmh1q3wv
+    address: 16aFKS1UHi1VPtT824bEG86gC7BNPQTgKf7NUxdg1riY1RnG
   - name: AMFORC 4
-    address: 5GTyU9BSt5vRSFKxAS2qH5Yj86JbgbrNVGtnxDJDLyzUKJbd
+    address: 15QGcUSWjsBtsnLU855qRENsyiJFNuQWZmdH7WHZu51zVqKu
   - name: AMFORC 5
-    address: 5HKJ5bGKgJjMB3dmG3ySYuyzosBPEYBATjHn52gEd2VtwmyD
+    address: 16FbDvXPY5zpcaeHDh2Sh4p9fVB2vqjJYE2GEKfbB7XR8CdM
   - name: BESTVALIDATOR / PAS1
-    address: 5HQmaKFE96LL1XVnsNSzxKuPpfKdvqDigTvQpB3kTXQguZ2B
+    address: 16M4ieWHzsboT4WJq1W16UjYgHKHd8mrkxetyU371cSD5tvV
   - name: BESTVALIDATOR / PAS2
-    address: 5GKZxQUUmm3XkiUwU9JtLYGSw7KfkLPuRzrEfDf9NAUXznSW
+    address: 15Fs6jjYdYK1CFVTRnMtUh6bnjKKSdx3WVaipWeVvFW4B6Xa
   - name: BESTVALIDATOR/PAS3
-    address: 5DJb44caCLAgfgxBDcP3Q5GQ4SGpMHAGyrXPyMnz6FrYSXED
+    address: 12EtCPse47SA7DxhBFS3YE6Yv4GU3aiR4MFt8enLeLt4cqar
   - name: BESTVALIDATOR/PAS4
-    address: 5Cf7QK3jhYhX2iWdvFmQZnL2TDKkRjiNQ1DsnWfMX9SfHyJy
+    address: 1bQYeJoZKxzUFX9stpQhwABJqKQ83GWUVxMwoei5EUBUVJE
   - name: BESTOVALIDATOR/PAS5
-    address: 5HGuNeqcxQnzyFFhGDaD2db4bt6y7diUnCDFb3X5fUfBwSgh
+    address: 16DCWz6gpC4UQnGDDrdDAnRDTW6cowGcrgwjkLWSDZgi7qCw
   - name: BESTOVALIDATOR/PAS6
-    address: 5GbHes6MeRJSi8g8WZe58cG4Zqbrwyk4gppZ2mFnub9u1HH6
+    address: 15XaoCMRWCZv9fgeUCh5Gm6DRTbWeHJCmKZ3C4F9TgBRBoaV
   - name: COINSTUDIO
-    address: 5FJ7mri5qMgoAA1u6GptebqbPT1QXpPggoABrpgs2NJprKwz
+    address: 14EQvBy9h8xGbh2R3ustnkfkF514E7wpmHtg27gDaTLM2str
   - name: COINSTUDIO/02
-    address: 5HRKPCr1YaRKLGJLMeG41iHs82XiAduBFgVasn8mMBfobneH
+    address: 16McXY75QMgnmoJrKHK49s81yeXMrwTKLBE53587uGhKnLBY
   - name: COINSTUDIO/03
-    address: 5G7NJQJGv9CLwaxVzeuMx8Z1jc2v32pkTEYT7EcbzdvSVNS3
+    address: 153fSjZLmvTpP7y1xHxN6HPAbE2ZjLNtXjGwGXbxYiwxfnLN
   - name: COINSTUDIO/04
-    address: 5H61XpmwqpD6QgfFQxyTPaio28nfJtdhRd5n3gBZGves7M52
+    address: 162JgA31hbUZrDfmNc2TXjYwsknK1CBqW7pGCyAuq1gPHXHA
   - name: COINSTUDIO/05
-    address: 5EoHHQzSW7NLZfdY8TiU7spJe1zvfuvHrWzTFDEC6Z1fUxLW
+    address: 13jaRkFWMtdp1Ce466mUG2eTVdzaNDURw1iwQWDYee3BfXYf
   - name: CoinStudio/06
-    address: 5EjuQGHhvm6PHhJW2x3H1BhngskjxSRXCZfDAt2QLR39ASQq
+    address: 13gCYbYmnYMrjEK1zb6H9LXwYVkPejyfH4PhLB1ktW4fLt1q
   - name: DPSTK - VAL 01
-    address: 5DykdhyMLNa6qPgcGimqfgm9JHTiZMwqzzQdHPjPFjZ7Do9P
+    address: 12v3n3ERC9qaGvh8EMpqoqbJ9uTNFfVz5V97SgijopadQQNz
   - name: DPSTK - VAL 02
-    address: 5DwJqeX5sz3RmqiYfj6KP7EbQHkTMRpraNQEAo5tCF1U4sHv
+    address: 12sbyyn9jmJuDNj4dN9KXG4kFuk73jNzes8iL65EkL2zF2YZ
   - name: DPSTK - PASEO 3
-    address: 5CoNyETmeUm1ymfgLzYMLcX1DWpLGYFQfqbGyrcsSMZ9T1kB
+    address: 1jg7ZiqWG2VRJgCJdbMUmMA58oyxqoYkLKm99cDzSafdL9k
   - name: DPSTK - PASEO 4
-    address: 5DZRQSuTFhzESzsCfViaGZeDPhyWCFa9fF5HfZMQCkvNAtF5
+    address: 12ViYnAX7VFhtXsid8maQiUNFKy9tZ8HjjomprLkkqwtM7pj
   - name: DPSTK - PASEO 5
-    address: 5EjuFJG7w2Quo6sqdWtUvyVA6SWQLk5fHvNNgpgk5ZhQHTcj
+    address: 13gCPdXBnogPEdtMb9wV58KJx4W433doNR6rr7g6deivTekd
   - name: DPSTK - PASEO 6
-    address: 5ERpjeTzUMXmcgbpEkq2EmPaCFQXjJUQnXjQ93W6T8iABqph
+    address: 13N7syj4L8oF4DcLCPt2NvDj3sQBRc2Ys2TtJLVT1DjgNRS8
   - name: DWELLIR
-    address: 5FRWXfgHjZVXs7BSP4yBB2b8fgczRof5zynJjbgud6ptRrUA
+    address: 14MofzwMbLm1JeBxLi2BKBRHXJce87DE5UWnttgGBBrQcEy9
   - name: DWELLIR PASEO 2
-    address: 5EceVbpmrw2nP72QzXRvkqRTz2Wq5zuZ3pMeok49Hk2KgdeV
+    address: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
   - name: DWELLIR PASEO 3
-    address: 5FESKnoNzzhXesGA9XR9R23wt3Rzfo4Ydsvbg5EgACt8A1au
+    address: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
   - name: DWELLIR PASEO 4
-    address: 5DqBTkVeqJf7iKWJLUxNuj9E8reDwVMfPqdkutJw5DnGftY8
+    address: 12mUc5kih5vb9rWpJ81P3syNzUdsdnuoULNF5BJHdJonr7ie
   - name: DWELLIR PASEO 5
-    address: 5FbfhUu6pQWZWy6AXoXCcZVEkoCe4TgFaTAKhSeuCMpt4aYY
+    address: 14XxqpAAgBn2xW6gVSaCkiKPcRCHkmEPewtorjeFkSrQExhF
   - name: DWELLIR PASEO 6
-    address: 5EbiZKWABPeKgWEnwU2pFHRg8b1EFLqNrdK4Tm1kVQ3dHeXB
+    address: 13Y1hemE3Auo83FJu75pPSFpzCzswePWw83Yd4173V59UCQf
   - name: EXTRACOIN /01
-    address: 5EXtrLLidiQGKFMCekvH2B7E8ge3kugG7ZJugSiR7gASZBQ1
+    address: 13UBzfbnVVfjknMicPyHAKwNzJdhTDEQC43PqjhmfmBxjguu
   - name: EXTRACOIN /02
-    address: 5EXTRcEY1dwESChjYjDkB6N4D86UiE14YkqrQX7t2gwM7XMa
+    address: 13TkZwVbsRChsjiFWNGkKFCD4k68QXZCdFaLZp7EamxsHjbc
   - name: EXTRACOIN/03
-    address: 5EXT1XpA6o2iwGFwGuv3wH7Rj11rvyRCdJkyCU5ySfBZ3rgP
+    address: 13Tk9s5DxaJCNoGTEYy45Rwaad1WdGyLhoVTMm5KzkD5EE81
   - name: EXTRACOIN/04
-    address: 5EXT28fXNW9xshEScYRkshWajZeKRCG8ipi3VXekfR2TUctQ
+    address: 13TkATvbEHRSKEExaBUm1rLjbBdy7VpGoKSXepe7DW3yfGjx
   - name: EXTRACOIN/05
-    address: 5CJEk6V8aVki1aGv757Pb7WoEQLznuCYBYVveuNRNJZEhxAA
+    address: 1EXtRkCSH2BT7HS4iAPjGLx62LeVCkgG3EQpCMmvPaktC9p
   - name: EXTRACOIN/06
-    address: 5CJfjtcDqBP8nXjjhmjRJ8B3LLFVvcQ5qtFezBJwTvofYfMz
+    address: 1ExtDsHgxecE4kFfQnRSH1CBxF9cuxDvNz99UJJ21qBjENM
   - name: GATOTECH/1
-    address: 5Fgato4wJxwZicavjaKQ9oG5e2M1S5wUfy7mMxsw1HTw95ub
+    address: 14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X
   - name: GATOTECH/2
-    address: 5Ggatomsdkh6ByjPUfrHvEhdGpGNFh8rai1cdzokJz3KvgD1
+    address: 15ct392wVXxZdWjuSJuJ4PXn8SG1wzgzfCk6oHo6s54r75hB
   - name: GATOTECH/3
-    address: 5HgatojfV5x7Hkgx9d5WZMmKvS7fBds8r5ErfJEuJCsUHe2w
+    address: 16ct38zjLsDajHhU7G8WhWbUn47JswRGvZyLpbEFrHtzTuuK
   - name: GATOTECH/4
-    address: 5HgatoAHMHZUEyUgbchcXexuGYs5EWehBymvg8vQpRZFdY8E
+    address: 16ct38RMD4pwgWVCZFkcfoo48ArivpCqGUWQqRumNWamotvM
   - name: GATOTECH/5
-    address: 5Fgato5erAiBuxGDf6jWGuewyHUNYNCqVvnkmPujcMtQ7yUb
+    address: 14ct38LihwyfMVGjcjnWR4V6puU2EfkyaRXEvgu6ASuvJF8n
   - name: LUCKYFRIDAY.IO/01
-    address: 5FRmC9wUZjr2VRh1q5z1Beksh62nfPzpLuhyCkHRKWXjWv9u
+    address: 14N4LVCYRX7VvxhXnj31Kob2Yi2SMhYxRQSTN3GmsbZFhP5k
   - name: LUCKYFRIDAY.IO/02
-    address: 5HftqEy3ZGv4JswhW9J5dP8h8wGghJNApAdFbpic3vB2joXJ
+    address: 16cByaE7R4BXkQxDTnM5mXxqzZGLPbvJtfMjm7hxc1CYv9jg
   - name: LUCKYFRIDAY.IO/03
-    address: 5CUj1nJ4yJsoFPHA27znEAW9gdUcUB7nzPQxrLdYPxZWzD1T
+    address: 1R2A7Z8q69GgvHfym3nNKLJYFUGAUfw4t9T1dctx3b3AgSP
   - name: LUCKYFRIDAY.IO/04
-    address: 5GNdFvnsMMvL9pmJ6m9Q24EwLb8W3pQrAkKuWj2iw6Mb9s7c
+    address: 15JvQG3wD9BobMmp4QCQAD56CD89k7xzFF4Pg225VBP7LA2n
   - name: LUCKYFRIDAY.io/05
-    address: 5Eyp4ZFFW8E5c9VNA8UUCPCci4tZdf9y3zzpKK5SAvkfsi8s
+    address: 13v7CtWKMuVZ3gVt7mXULY2mZgtDKxi78VjJUc4nj1nC4H7s
   - name: LUCKYFRIDAY.IO/06
-    address: 5Fpfj8y2ZsaVzyStdVAB7T4G3hbir9d7dcCxNPgSWoS1JvvR
+    address: 14kxsUE6ReqySWTQb8DBFbtQuKbNYTBFi6wSXgfo4tTXVJwz
   - name: METASPAN
-    address: 5EResBHk8rwXfd1fxrhUqR5b8fFHxkzCtLLk9GSopgAnmP5v
+    address: 13Mx1WYozeD17A2BvVkUyZujzHEwf4YLxq5EJZSANmCJwwne
   - name: METASPAN/2
-    address: 5GjQw9YE8dd9pobndLDoEc1CQQzTZY8d9kiyTzPQU6arWcRh
+    address: 15fi5UoHzQtdGLcJayGoNkqMG2z7FqgmEFTTdHNm2BcNhFqK
   - name: METASPAN/3
-    address: 5FsreMewz5vnEDnbfk9wk5GUc5YuXqu8psgHY1f7nSPnAGur
+    address: 14p9ngv1qsCFfko7dPCwtE6dThYZE9TGuNQmhJeULXRJLjcv
   - name: METASPAN/4
-    address: 5Gq339WsBjq9cQet63Ww5huHZW6XFUcB2ccJRevpVixrhDak
+    address: 15mLBUmw3X6d3wfQ3gZwDrjSR86AwnAK77LnawvB3ozNsjED
   - name: METASPAN/5
-    address: 5EZWg355ZFx5vBM1dnvy2tTReyYyXKoRnP9YY26nGumtY7oY
+    address: 13VopNL9R3DZMiMXbRyyB3HaWbYdDdMZrst2hK68pzoQipEw
   - name: MILE
-    address: 5CMheRzc8yw6fzan97QdVpBtJ7vu2dVpomzLEvmWPWjMnjCs
+    address: 1HznmFfzmCa7XbJ6kTddy239jvYiw3xtGipQDkrwbksyHf9
   - name: MILE/BRAVO
-    address: 5C7MHerZDXGsKbJP3i5EEJ71GjX3bdJGhdKNrjEED9znjSw7
+    address: 13eRz7d5JYLm8Ju1M8ENSwA8MWhHvrQn83s22DamF2Jv12v
   - name: MILE 3
-    address: 5Gjo7xaoQJVyPpa9zWGy8Qt8VaLpPWH3sRKJK6R6c85v4zeL
+    address: 15g6GHqsG5mSqMafx9KyGZiHMCLU5oqBwv3nUPQTAD7SFUic
   - name: MILE 4
-    address: 5FsRLEAeuSHcrQ8SqLK2uc1GA6ap1m1x4NL99k8gVTJG9wnb
+    address: 14oiUZRimDZ6Hw8xnyN33kqR1iaTi4a68s4dK3833YKnLRbG
   - name: MILE 5 ECHO
-    address: 5CMUSMMmx57hswkonkp4BWC1mSugSvNKyQpfVckj9waNEx4k
+    address: 1HmagcqorPBKUmKkPs4Kf2Ad4uL9DvU3uZ9euk5i2btRQNt
   - name: Mile/Foxtrot 6
-    address: 5CQsRfCT3hY91HKqmtmDhJK9qSibunRafrWuBze4KqFAqvhN
+    address: 1MAZzTWuUocSpLMjXpDqT9Jh4iFc5yikMFPMHdQsvGh2YtE
   - name: OPENBITLAB
-    address: 5DXCQijJbVRr7XzKzgzkZnPgxN2FHKWNCjUkbDZkiUKYJ3Pp
+    address: 12TVZ3zNTGhKZ4zqxL3khwDqoz1tyd4WHEDEkWZ7GZM4UH7x
   - name: OPENBITLAB/02
-    address: 5Gxe767ZRTo55DGncvFSAF32XhiaVC3ys41tKWcTF95JfPxF
+    address: 15twFRNdHF4YWkHJaZJSJPsBPKiEBVc7wYkNUobooE6pqrRB
   - name: OPENBITLAB/03
-    address: 5E4LgKCiarYWcBKtgwfG8sGmc4NHZFTmvuP77yCLhVgS24Q2
+    address: 12zdpeTnSdoz3iLQeaiGH26vTgMwFZ1v1Q7bHGBhFahxCPuK
   - name: OPENBITLAB/04
-    address: 5CoYXLyv5Nuk8hMn6XwuM5xYsuGkMskwkMAhdEEXoe8aZJv6
+    address: 1jqfgEywABDaENJ4AzuVEnhjXGQ4BK5pquBnXDtMjA6jcNg
   - name: OPENBITLAB/65
-    address: 5H6YoXPNa9qXXovj2q8wSAdraQLyKFEcg9bmHR7kvEgnaV48
+    address: 162qwreSRw6zyLwEzUBwaKU1S2Ld1YnkkeLFSi77UKiJkpxM
   - name: OPENBITLAB/6
-    address: 5DaLaT5mv4hBLYSMbAvDWfLobM4WMiiDH5iqGfEGniMnaAs7
+    address: 12WdinLqmqxen5SsYoyDepAxSy4A42GMMaTKRxDdLoPJkWbm
   - name: PARANODES.IO
-    address: 5CADNSaxg4RVe8n45SDsE8hCcVvZV3StcVYi5yjEreRF9APt
+    address: 16WWmr2Xqgy5fna35GsNHXMU7vDBM12gzHCFGibQjSmKpAN
   - name: PARANODES.IO/02
-    address: 5DHjgPdNR1YFywWMTKxsabmUMPtYPEjnDALaSXcu8cNPPM8M
+    address: 12E2pitSGnojRUWsQy1sikbdD1tC5YHvHf54bpcFghPuZfiA
   - name: PARANODES.IO/03
-    address: 5DJZB1TbiEtEw9jNLBYhJdZHEC7s3FYjeoXaF6irWvfbsZty
+    address: 12ErKLifa29iNgjtHpbhSnPS5p7WjZ6sjJG4QPiD51h843kx
   - name: PARANODES.IO/04
-    address: 5Gb8fxEgRg6xfdSsYGLDk2JEPSfs9uCu1NKsfSrrfRKMsQzP
+    address: 15XRpHVkHTNS7ATPVuPDtB8PF4fWrCm35s4MpjrDDWLt3zQ1
   - name: PARANODES.IO/05
-    address: 5EtKBb1GNwMs87nQBAgybLLRYkM5xu8M8jrvgYNjAHxFuEAM
+    address: 13pcKvGLEidLZenv8ojyjVAaQNLjfCgVDEbQqqN5iNyn5cSx
   - name: PARANODES.IO/06
-    address: 5GgGs9T4iFHG86D8nautoU1jEUZyWe2EVYNd1fYq9QVkJnLe
+    address: 15ca1Ui8a2YjZdDekDxtwcqt66ZdCwaNa377AxYBhVXGVUgP
   - name: PARITY-VALIDATOR-0
-    address: 5Ea38N1YzxnfDEkGRNixPE4oXALAuMK4XDoYpH4fyZahdrLL
+    address: 13WLGhGcrk48emknP1mxXNtxNnKpbesCbiY2ya42XecDpEJh
   - name: PARITY-VALIDATOR-1
-    address: 5Ekiz65F512P4c7CymJnkCKbLRKyysTaPw9uF9vrXErEL9U7
+    address: 13h28RLJvnHrW97iwQMntM9kC3KdgB1iURtPQSvD5KskWgPs
   - name: PARITY-VALIDATOR-2
-    address: 5FToUnX7P1WT2ADZqVpFVNUT6iAfJHbnKSJSucuGxrNLLWQN
+    address: 14Q6d7nBEnmvThE5o8sFdXJbxLAJzb9vPw2w4utdWwPrWosa
   - name: PARITY-VALIDATOR-3
-    address: 5EesTcZ3Cv9QLbnBzFawBdkhtuwhJ6RGieKbKrPQHH1uaYaY
+    address: 14Q6d7nBEnmvThE5o8sFdXJbxLAJzb9vPw2w4utdWwPrWosa
   - name: PARITY-VALIDATOR-4
-    address: 5FLcxQni1Q8C49jA4nZVEY3aAE6zanvyjzo2dUkGgUSLpZHt
+    address: 14Gv6k3msBPfVgjg2RcVNgsj1r6eH6V7pVXWnmjdEZTrzzxs
   - name: POLKADOTTERS
-    address: 5DvoL2BNoSm7wRt2tfZ6WW5QFrxm68GLv5SCrPQ4JBLjbvpL
+    address: 12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h
   - name: POLKADOTTERS/ SHRIMP
-    address: 5Dsed6sNwpaVER5oMWsk1VFxQDnd8G5dshWiFxqYSUcMdUGR
+    address: 12owmS8Sobqxfx6KK9vk9e67FqnGpZdmxCFCRFptzZdsoujC
   - name: POLKADOTTERS/🐙 OCTOPUS
-    address: 5CJCvWP2T54ZSgXWB6tDTYxbKkX28AA9dDWRpeC6K42gBZV1
+    address: 1EW4qe6JrL2tDY28jwDbhnkBNWfpTiHhiEuywBSs94CMr9D
   - name: POLKADOTTERS/🦈 SHARK
-    address: 5FbUhUGX531L9Uz953EGDG1MmFRTUhNa5TaXHGMKJD76iLup
+    address: 14XmqoXavpGob1zf2gHGMQqWcsR7Azvi9xK1SZLfrJ8ctfqE
   - name: POLKADOTTERS/SQUID
-    address: 5FsKSxifQZrK83gZEK5ncsXakEnSszahsz9Cr2vPiTcNRHxN
+    address: 14ocbHyjGM7nZah5Bx8nm2Mjbrn6aJ8qxUsh1KukGYdtbiXc
   - name: POLKADOTTERS/DOLPHIN
-    address: 5G4exNBWKkB8BBsTH218UKQ9ad2NB6nVXJ3htHTdkA5QaqkB
+    address: 14zx6hSaBXSbcisyEf48cUEJSF21sQLdbnnC3aSzJF6vmPLX
   - name: RADIUMBLOCK.COM / 01
-    address: 5GWKuZt5LX3YaeAjaY3tm5HxmG7cx5kuKxbQvcxhVxxrSsRJ
+    address: 15Sd3u99CJK22BBFYB6tuE87ct7GePK3QTKu5ux443zNdaqp
   - name: RADIUMBLOCK.COM / 02
-    address: 5CVMYZfczGFhu3huQcE7RDTNgvNGxBvKczA4Nd6XzRnb6ibC
+    address: 1Regtvgr3XBLaiRNFH7ZNHXYYMveVUThUtYXv5tYWp7HJAU
   - name: RADIUMBLOCK.COM / 03
-    address: 5CYDCaxqkLNf3qoL4pikn7KCGvHKGn2vtojjdiCrES2KSVgQ
+    address: 1UWLvDuc7e8VNor2TmkvG9M8YGxy5b4yJUDo1CCnX3qcr7m
   - name: RADIUMBLOCK.COM / 04
-    address: 5CLpwEKGrhYDYHQLUVZzBWsgzqSFd7Uxy5SKie5MECrRTEiV
+    address: 1H85ZaLiUogypQrS8czKfhqrTRuKR373aAosw4hnHswdmH6
   - name: SIK CRIFFERENTE.DE
-    address: 5H1MgERwsj7NWejMibokz8wPrc2N5obU1G7v9MUWz5hmSydS
+    address: 15wepZh1jWNqxBjsgErm8HmYiE21n79c5krQJeTsYAjHddeM
   - name: SIK 2 CRIFFERENTE.DE
-    address: 5Fpq4Rxhu6UbAs52wHMzHmjxSVBNz2eJMiQ9n6gcj1UxQMmy
+    address: 14m8CmDmksk4cQ5YtvQzRva7J7B2gLCSSD8dwPfyH6WUahrG
   - name: SIK | CRIFFERENT.DE/3
-    address: 5GwvXDwf9rbrGikMbtodYKewmiecPKkaLQPKqecxLMUNLEck
+    address: 15tDfZCj1dsKiFksZXrdgUV6dLeG5dJiQu7ozwcJtSVtWoYX
   - name: SIK | CRIFFERENT.DE/4
-    address: 5CB3hteqociFUMxkZN6cxK6gC5MG26vLotFVDUDGZkWfKH4Q
+    address: 17LrDuufPyiutyGX19d6Tvq3hLuiQUUtNyyNmCd7qYBVmNc
   - name: SIK | CRIFFERENT.DE/5
-    address: 5CFZJKBFrR3LENuWfMQTGfsD3zGefvBLiUGpFWGF64y5TX9e
+    address: 1BrSeSKiCJofuv2czTTQphMucGJNDjUny1JQoFbe9zbdrcc
   - name: SIK | CRIFFERENT.DE/6
-    address: 5CJbucUTbLKiD1vXbCoDnkoioHgeug369CT6cyX126as8scx
+    address: 1Eu3wjXT7bBeYw3YqrDvudseugJbybEDhBanGWMaBcPKSqF
   - name: SIMPLY STAKING
-    address: 5GqHPKXy9wCBTZ2LLxkiyuNS9BNCHMV67GtXkvg31i9fgJRN
+    address: 15maXeo31iTeu62rJboj84CazoMqyf3EBmd1vDfPZoBBroqm
   - name: STAKE PLUS
-    address: 5F2A2bL6WopW8NEmxQmABY8cLtYmdDjNzsiwnCDLtPn44orx
+    address: 13xTAvbANb5yZuFHv3pAKgxmCWYRKXHX5NTRwVChSUoaF7iz
   - name: STAKE PLUS/02
-    address: 5Ehji52QzDFBgFVeE1r4KiorXhKykUhMTkJ5w1L95H67Js1D
+    address: 13e2rQHUqzWf7nWABeu4Tse1PKKdSnFVYF2a6JKVdN7dVJbo
   - name: STAKE PLUS/03
-    address: 5GsHiVwSS2mLBxeNTUnd5ZDAYkNGuP4QmSbghcfLcLv91njc
+    address: 15oarqCWHp2odVetR7qdDi3KQNMvbgcYqwLAruehARwfCJcg
   - name: STAKE PLUS/04
-    address: 5GxCnPFp5Pr3zQTifZfR44xqdVpbGkACtXgcHypXbTjBT32p
+    address: 15tVviWswB7XRwUEdCiRCDnzV7pEy3iLy2R6TGot9YkhdEWU
   - name: STAKE PLUS
-    address: 5Gc3XvvFVfN8fdN8p3dn9SG5iZi8JTvaqTZzV7B9Wy2tVSrq
+    address: 15YLgGBKMSdc7ANemggnHb6EaBhmzmUiuxJUeQAW544Qg2D5
   - name: STAKER SPACE/01
-    address: 5C5qC2fWTm7ZeakAMM2XvSKwGngpcdnDuWLJM3f5V1SLt9wN
+    address: 1128LMvaKYP367kgJz5Y4bA68QgUJwLMz14nWLeS36Ts4WZU
   - name: STAKER SPACE/02
-    address: 5ECNsUYwvcc5cEKaUzAu1AVECPpvFsCxiyRevs7orRJeDkze
+    address: 138g1op1nPsZ3mL6SdDu9KKP41pZxAm6oUA96A7AQWLAQ5gu
   - name: STAKER SPACE/03
-    address: 5DRkYbc2aaewDsMdtToqryfLEsVb7oZspvEXjzPQth7kGnk8
+    address: 12N3gvs6SMvQfQN9r6rr18VV6VVEp781uQy1uHNmSn9GTNts
   - name: STAKER SPACE/04
-    address: 5EEhzemj9FZpfvrwosu8gAJcYu7uTUWyh241zCJeKPMzVXff
+    address: 13B18z2o12qJ7TsTmWx8pK8mQX7Z9n57mWnW9VHzsUPWgAFj
   - name: STAKER SPACE/05
-    address: 5F9WETVt9uugXqyBVLamhj7BvWWJ3nL1SEtvYDssjA8ify1o
+    address: 145oNnkx1hB9yNyhSydmqswLn8Vwk5t9WjdQhWsEHFAErQGf
   - name: STAKEWORLD.IO
-    address: 5ENXgjWyXkG6zdanViiF4xJcfZ1DS6SYPyg8vdenKVub6tXG
+    address: 13Jpq4n3PXXaSAbJTMmFD78mXAzs8PzgUUQd5ve8saw7HQS5
   - name: STAKEWORLD.IO/1
-    address: 5FcLU3AFBdr1yLmq8Egpy2ZwxgECL1deM1bUsgQw5g7MoibY
+    address: 14YdcNRK3R7VQsnM5sjq7BQ6pJDr2KBnRWKy2yQHdm8szNZD
   - name: STAKEWORLD.IO/02
-    address: 5HVUs7BYTpD8jq1HhqVuFqyhmpM24sPP19NWEqwM8e2TW42E
+    address: 16Rn1SScKbUcBN1ofUYuPzordSLfmAwX5e6zQ8vhgj3ygLqS
   - name: STAKEWORLD.IO/03
-    address: 5EkTMUxkniWNoUhcnVG2xidhkQaAHPwKSkPgEUrdSotdkpcA
+    address: 13gkVpDpeVmrF1i8k8K36sTrc2ZoyhVTXF8APmqyztv9wKvv
   - name: STAKEWORLD.IO/04
-    address: 5CiHBUkQA9xYyAKWBy2YWsDSte1qEUdAj4TgRTjwLWvRNXCR
+    address: 1eaKp1U1wE2QhL29c5Yf23bkG1UvnBJoZCAakjHtbwwYybP
   - name: STAKEWORLD.IO/05
-    address: 5GxdZ1fKqExMtC8mrjcuY8YsrLNNKpynQHBXTckeHwWFyGim
+    address: 15tvhLvPh2DqKj9HpNfugHP2hxN228XvUmv1cujzr2Xn9c4B
   - name: STAKING LAND 1
-    address: 5DaVS2qqHgZEkZVam6JvFEPu9AhVmUaDPjtT9vibCR1kQ3oa
+    address: 12WnaN6u9TpiC6W6ijMvPPE3znh9Tn8MUEcwKDhwkW3GaLuJ
   - name: STAKING LAND 2
-    address: 5HpC6p5y3MyNZWbjE9vhYRafVR56tFqgkLFWLAcWcWUWd6cF
+    address: 16kVF9M2u9Er13cFBnyhgaQpM34kaZPpppyzVTbsAbW2oPhC
   - name: STAKING LAND 3
-    address: 5Gb3qD61CGkWKJegNv4yMPxGSxAVunWgoQpYVeH9wD1Rjp9U
+    address: 15XLyYM5441ykqfCLZ7yVYnRJaA9c64psuZ2ewGWVJ2wvUgs
   - name: STAKING LAND 4
-    address: 5FX24hveRSmaAxU42rjfBR9Z32AkNh2kQNNSLyN6ccDpqxmQ
+    address: 14TKD3BiHE33cVUZzVnfKZyhteAQ4zatUs6vWGMTAhFM2V5y
   - name: STAKING LAND
-    address: 5DUJkM4sUcwHyP13KPTwu7eNhSk2GiXnm6vNUpHeDvDhZAuh
+    address: 12QbtgKwLQCmQv1ZH2Wx3GUXZ4jfy25vqbere7Gzn1FDjsVr
   - name: STKD.IO/01
-    address: 5GnMSvfjUpRSwyQyzbrFfGqAS6vhBnLGtQCmPDikshemP4Jh
+    address: 15iebFvoLbgvPWRVxEuFoRfKHivLt5tQxtwFYWi7RngHZntC
   - name: STKD.IO/02
-    address: 5HbS4tbvbvwtLXDQNeM2hw8WbHFbaTtPskYEQhLASMFNYYLX
+    address: 16XjDDrzTiDMn4DvLHQ2r5xfSuFFGmSXxFGiZzKWzSGtj1hB
   - name: STKD.IO/03
-    address: 5DxyArrCFzZ3M25hAENo6VDbPFYe6UuJCQZ3XEPqAGd19Nqp
+    address: 12uGKC7G7mpWnZ6D7sRoEe3kEsYHnnTSGuHXgXPBiMeXKjke
   - name: STKD.IO/04
-    address: 5HEVdf5TkqWyZjATGLy5M997skbJWnBUiPeakMx391KXCXaL
+    address: 16AnmzLXccnT1GAyDz25VHyGjNaxD5jcntP4uewPh6M3Nytt
   - name: STKD.IO
-    address: 5GjgKETUcnpVQhmAEYSYegrfced85jvvwXADqjc5KsSMVnsM
+    address: 15fyTZiYUa5xrEmgCBVYnqgpUGcmn3V521ti12bRsxTsgKAh
   - name: TURBOFLAKES.IO
-    address: 5CQN2L4soC8G6L3nngT42oTEc28BCmNvDEt5RwtpYV7QBScp
+    address: 1LfAfKweyPjXs4JkKW4AxHPTe7pu4w4HjcZbEtB6a8vMqkd
   - name: TURBOFLAKES.IO/01
-    address: 5EnRo353vDURzXKSZbEPt43oH3Ep2a9PRqGAUufvedeaYarA
+    address: 13iiwNL7mzjuS4KxXEHQ2Csx8fETishXWKzeeCfHCig6j2dd
   - name: TURBOFLAKES.IO/02
-    address: 5EnN7kUSZ6Dq6phQitHvVctPGxHgGQ29mCouHMMseEq7nEe8
+    address: 13ifG5jWQsVJYMhvgXLvdmiY8aHKxhaHqhYPSeMECKrdxcpy
   - name: TURBOFLAKES.IO/03
-    address: 5E7xAxqDjrb9XmpKoZ7d8m2vzSVdKZqt7GVQvh6ucWRzx6R9
+    address: 134FKJ6HbdrcyJpqmCAdGus5r4VH1sQ2BmDu5z6GAbTX8U2y
   - name: TURBOFLAKES.IO/04
-    address: 5CAL9JGERu6Tsjd57bekmmdbFC4aKYfW3krxBkvTNcJjLTkR
+    address: 16dHdXJHgMwKGdb5EhkuvTk6p4E1rDe8FbSM3uovhLFWn9V
   - name: TURBOFLAKES.IO/05
-    address: 5GbYpUfUVW72YivDf451EEeVceHvTH7a4DR3mu2KJnbYZAxs
+    address: 15XqxovYMHNVzFvjch81NPUeUGHa9afi8i9XwC1frsd4jU76
   - name: VALIDORANGE PAS1
-    address: 5G9M1Y4GLtEesD97uYjamzuG473WXfCWjfCJzx14nrFpexeV
+    address: 155e9sKLCfW8Jk9dsBnav9jQuj3ADxkep9voAEzRLwHLqMZs
   - name: VALIDORANGE PAS2
-    address: 5CVS4Vf5atVu3DefmcydzjkEX6njtnqMgtwSqdGBkQXBHWQp
+    address: 1RjCpv9SfmNUkfBjG2e8taPNinPb6PVmPfvzvFYJVYhTtpY
   - name: VALIDORANGE PAS3
-    address: 5CLmt2CgNBNyR9NPQhCHAVLdoFJfMmFCxAdPQFvQBmFsRi7v
+    address: 1H52MTkDxeSrgNuNLFHJeAnesJK44oM2fMsZYukjrHPc2Gk
   - name: VALIDORANGE PAS4
-    address: 5DZTc2EduBzbykWnn3FZG7avkAavj7GvQN37VDGyKSK8n7D3
+    address: 12VkkMVhkyG5RHXJjgJZQGR5bnaaRQq4UrmbeWGKsXLexZxb
   - name: VALIDORANGE PAS5
-    address: 5CmD7ZM3kcjKXqWyX3KaBoDr8dTc71yazfHYAarjYLfzW7DG
+    address: 1hWFtc7cPznyNXVUgNaKx3zzFTFoKXj5A22Ksr66RhWgWyj
   - name: VALIDORANGE PAS6
-    address: 5Fv3duNpVJHtSaK4cczPjRhGByxW1PnKDQPPm5m2V9NwAws8
+    address: 14rLnEdtM5ZMt7KaaG3PsaXR3bx9hhLTHu7svNkP3EQTMP9g
   - name: AssetHub
-    address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
+    address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
   - name: PhalaPaseo
-    address: 5FNUsoMKdSFpPs7dcgzgqtRmoH2zDbs9eqwAMKLNWD2LkLjc
+    address: 14Jn28cPVDXHqQ89aL3gz3Fveu2duuRHjLfeWcKj4J3rvgDm
   - name: Parachain - NO NAME
-    address: 5DWwL6TBA7tur8Mnh5m74t6RtX6t6FBV1X5EfQ3GSh4SK1KT
+    address: 12TEURiF1uAPHfNJeip7D2vak96XnYjd61oiph2czn5xVERC
   - name: Integritee Network (Paseo)
-    address: 5FNasVTkyjX1UsNrjs4mY1sGiiScf7BkFKzNZ2Cih9cXgfDy
+    address: 14Jt1pipqWnUvQPNhW7mgAhRaLSGMQjtKpiriKC5FEe3rywZ
   - name: Bajun Paseo
-    address: 5Hgh334723ay3Zt34woP3wqY9RwFs9556QvY4UWqFTKvy91f
+    address: 16czBNKAsprSV6tZ2arPC6fh13vuZSdDAuf2DmWBoYMT9deF
   - name: Nodle
-    address: 5Chzw3acr3uEpxnX3Qc1sv96gB6AJir7duzaaz5xohXbZVkj
+    address: 1eJ5NqghqAiGVo313f224yFXo5p12QFiQj4kH5KMnZ7joAc
   - name: Bifrost
-    address: dDWnEWnx3GUgfugXh9mZtgj4CvJdmd8naYkWYCZGxjfb1Cz
+    address: 12VZEHGNeJ27kKUu6VsdJV6BBJ4YJfr1ewDxpSLkVqAju8b6
   - name: Hydra
-    address: 5DwBmEFPXRESyEam5SsQF1zbWSCn2kCjyLW51hJHXe9vW4xs
+    address: 12sUuZWTPCVvQmbH35vQPApkN4CRj3kt3qEZAzHe5jBSgQcd
   - name: Ajuna Network (Paseo)
-    address: 5Hgh334723ay3Zt34woP3wqY9RwFs9556QvY4UWqFTKvy91f
+    address: 16czBNKAsprSV6tZ2arPC6fh13vuZSdDAuf2DmWBoYMT9deF
   - name: AVN_Paseo
-    address: 5EAMoEXiv7ceKPTFQLRNjMxj268LN32J7EQt3AV1R5sfXx6L
+    address: 136ewZnnmtt7kvTmMyUNsWnssi7z4LaSBj9NCTUMyAuBid82
   - name: KILT Peregrine
-    address: 5EUJcZ28VHU2GqQEvt6SzJwciQcGEm6EGddSv74HoRV3yY2M
+    address: 13QbktHCM4jViNQktX9T8Tmma2buw4eNM8Mw5Q3eMWWa9yca
   - name: Zeitgeist Battery Stat
-    address: 5HGNBoNqrDayk7WdHX7eM4LApWHhW8xYBn4JnztYSwFbcbaN
+    address: 16CfL8duhzrTBeX9FAAeVDAKg8HMCSWgGGnnxHsu12H7oEcs
   - name: Darwinia Koi
-    address: 5G9z8Ttoo7892VqBHiSWCbnd2aEdH8noJLqZ4HFMzMVNhvgP
+    address: 156HGo9setPcU2qhFMVWLkcmtCEGySLwNqa3DaEiYSWtte4Y
   - name: Bajun Network (Paseo)
-    address: 5Hgh334723ay3Zt34woP3wqY9RwFs9556QvY4UWqFTKvy91f
+    address: 16czBNKAsprSV6tZ2arPC6fh13vuZSdDAuf2DmWBoYMT9deF
   - name: Amplitude testnet (Foucoco)
-    address: 5FNJjjUnb6WpyXCGB527689Ssvpiu6ZxdcypuoFrJ49XLrWK
+    address: 14Jbt4jrSsnJR4Cn8i57EGybjYpNbQ86i7iK56FCr9B3XL17
   - name: Kreivo de Paseo
-    address: EvoLanodoqDsgHb98Ymbu41uXXKfCPDKxeM6dXHyJ2JoVus
+    address: 13MUpbhzsE5mZZUfL4nir6XAcZEjYq8Ax5Y5sGEh3aqLEvne
   - name: Polimec
-    address: 5GGgn2FDUAKgws38oCNFNC9gC8d5mqRgHRAnWaNSQVkyweo6
+    address: 15CyvMWHKwbAPQ3ekqRFWLyq3kcjU8ypMuuGfsMnxanW85WZ
   - name: Energy Web X Paseo
-    address: 5HpSs5x9nvKzcDv1XeiVNmdUL9wWBhhiQN4DruDyA5ueJ155
+    address: 16kk1RDDehbU3kvXVHmVWvTdBmw9t1FrUrni2CDKiAwAUJyJ
   - name: Muse Network
-    address: 5CK5QCWE5DkiCZ2ufodegLFV795vPdMJMHbncMyv6qd4BKbH
+    address: 1FNYXmHw12Be63RdSgepV5dxm5a5vuSRnLGmeyGeveaMn7S
   - name: Frequency
-    address: 5G4ADWnLUEWwDQ5mKQHEB9ASP7JrdXtUdo97RUpuxPeeKWtz
+    address: 14zTMr3QL1nQew6HH3LEKHzbEjJWKqSciHsbampGWUgAVsvG
   - name: Pop Network
-    address: 5CDhuAeazzmDxpEmJKAP1mxXYGg66XEMthz3XFqEANXGxHW8
+    address: 1A13Vuern2hQMFHFxDP9vngPtfjnpnVyCiXgYpaiTYo8qFb
   - name: xcavate
-    address: 5EcKtQoUJAJc6Ekz3XNaR9LRsDWrqCMVnZNAa7N21JzuZL7e
+    address: 13Yd2k4Y9wa5XmmW1ARaZJAaiqWWXVuds46ejQMNZQ2RjjnL
   - name: Myriad Social
-    address: 5D8EZiZDv7u2pT7iDRYNGVUg2LCepKUxsHn7Wj4GkzeLSRLY
+    address: 124Xi3pHmuAWFz8EB4bNQeJpsxCJWd36wnWbg23dK5frd5s9
   - name: Laos Omega
-    address: 5C7cTzUE8vhQMzbKrRmsZqhGgk583JFENE7T73faqUVeYMdC
+    address: 13ucKjHzhxsoXbqp4pshzXRYN4mjboNSiqwGLewPZXAioc7
   - name: Hyperbridge (Gargantua)
-    address: 5E4kXkguH9JAVqymJZGkJHi5se2grgR1ZKhhkNUmxqMTSP7g
+    address: 1313g5wy8vZdwNzHGCKkSSYEjG2LYyy9dpSBufU8WvNycqsh
   - name: Niskala
-    address: 5GbvVtuHvN1PG9WdG4FXKCPzVnPtUKRQMEy3Aye1VYEYsKB3
+    address: 15YDeEAMn9GrhgX9DhJXTME9MQPYAcyYRjhXLGdN3dG53swY
   - name: LAOS Mercury
-    address: 5C7cTzUE8vhQMzbKrRmsZqhGgk583JFENE7T73faqUVeYMdC
+    address: 13ucKjHzhxsoXbqp4pshzXRYN4mjboNSiqwGLewPZXAioc7
   - name: Papermoon
-    address: 5CZnWvAx8yRvxeD6xvFL1xPMsCgMDxniH3yK7eGcJNbd9QV2
+    address: 1W5fFS1zkhQQBDcvZJLA7DWipfzvGLrMYhoGwFxrTd9Ktz6
   - name: ROOT
-    address: 5Evfk4MMJ1bgvTKoMEg6LW6CZXULaURHjCa1X777YE1SUWtX
+    address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
   - name: FAUCET
-    address: 5HKH4hh87MtWeJvJAmnCW9xjWZMuYaGuU8erhZzvWqiteHXU
+    address: 16FaD2xBy99z5qvp8QqCeJntNBMZEsq3YdPLrrzH4vkQpnqZ
   - name: FAUCET
-    address: 5HBAuQ4Q5P36ViCoZhXGSUJq88SuBs7xZDQetsWT5x2GwKAz
+    address: 167U3jKTwAJZwFDKXLaGad8yykSYtAg6di994AVoe33o7VQF
   - name: NOMINATOR 1
-    address: 5EU2WqnjsQSep54U8EhJ2tfy28rd4jfjjnntCcwh9b4sSnrf
+    address: 13QKfB3ojBi8Fc4z5skJB3W7skrGm3DspHXNMuw3hg6PdFoJ
   - name: NOMINATOR 3
-    address: 5FCFNiJCvWdB5U8VpwAwdMNua1feyi9KNAJrPDoScd29uVuw
+    address: 148YX3ZGnHteX191naDwmWD4RdfJg1hTSf3LYWnoAi3g5vLs
   - name: NOMINATOR 6
-    address: 5FZB1ZnxDqvkrGRSVzApi8RpgDQB84N7cNErCJZeiEK9kavm
+    address: 14VU9u425dCEHoRxTdDprHFyXqPppMvFgryLMbZ1GKLfwEaR
   - name: NOMINATOR 7
-    address: 5HeXwYHFXQzuFBQQQyTchgqQJmNLbvuzkLM4Y6yaoHPkWrhZ
+    address: 16aq5sYKPCGNgiQvNcWcqqfZAPMzJEU8pq5YhPxwMNRGhaYb
   - name: NOMINATOR 0
-    address: 5DCbjf8MwtnkyWDEbTY7JNM2QbtQXeYdYgQ4nAG5YY8fnaCC
+    address: 128tszPRog4ER3DkZ6b7SXBBGDt4Dx6mdB8YwTFS6dABxxDY
   - name: NOMINATOR 2
-    address: 5GVjoEAozFPhw7m2t3fUzoX5RS8Pz5ZiZF7WCezx1s1L89Cz
+    address: 15S2wZRsr2fBNemYqgiV8xMEH483gP7rdjqzMwzJZx2rJUYQ
   - name: NOMINATOR 4
-    address: 5EgxEnYHh6do9NDBfTYvv2WbEMtud5hJmNZTM2X75jy2ruxe
+    address: 13dFP7oMYsuGauDhd6bw4BLk5ytZKPFSqsHwWKWTdpzZ3RwL
   - name: NOMINATOR 6
-    address: 5HKyFioqPw7UZhGYnz1QXqAsASU2ABMydaNdCDNuJxBGMEQq
+    address: 16GGQ44uFiNx1EH4kd4Qfz1224TfrUv7i577MWNFs3CnXhsb
   - name: NOMINATOR 8
-    address: 5Fduun8uHjTj5ndKRLQGDY4NxHj4jvmTdj2aPMgL28dwkneY
+    address: 14aD47Py9WjCXKdqNyTGMgtXouiiSEKbiDm4YefgaDfTwTns
   - name: NeuroWeb
-    address: 5D9kKJJXWuC6VPQFV7BDQVxGQM2tTzU9K4P5kDLmsCpJFnDD
+    address: 1263TdZbNgTZvvQmSkEDYenRFy2YAJ2HPZ7ZuWL8RHqpSD1a
   - name: address
-    address: 5EsqnXGHzDeMmDCNYchoMh67xM3S7uRdhwMsUtwd5dJsksew
+    address: 13p8vrXMqzuqCkCtWFkoVqvGoy35pCymnS6MeBvydiLPwBGZ
   - name: PARITY
-    address: 5EJTgX1bdHyUui7dNAfX2WNUme2gmC5Yhbt2Q8AxyRoW75Ps
+    address: 13EkprGfV5ExMF89KoiXAfCddG2LTVdgn6cWZRAKXWq2HNTs
   - name: R0GUE#0
-    address: 5Fjmh8QuPkLAcErd6oAGTACvy99ifEA5W3QeCnKVfUxH3uC6
+    address: 14g4qTfyFXbe3ms94SDGbK35pm9NMXiDaY98N5JrDZyoELpE
   - name: address
-    address: 5HNajagzKGvxxi8btKBEZWs8iUZEM9qBxzaCuhsn4mkSj6Ex
+    address: 16Jssux4B4CSQF97qxEEhfhHa6Yt3TPL3VJh4zs8crmxuJZB
   - name: turboflakes.io/01
-    address: 5EnRo353vDURzXKSZbEPt43oH3Ep2a9PRqGAUufvedeaYarA
+    address: 13iiwNL7mzjuS4KxXEHQ2Csx8fETishXWKzeeCfHCig6j2dd
   - name: gatotech
-    address: 5CkHkUKgay1bA77oFWBkaw83fjdX1yQaaBHtWAghTmzxAv1U
+    address: 1gatoakSkH4be8KD9Ekj5xCXMdAiGxieg2NfTg41s2UME5J
   - name: R0GUE#1
-    address: 5Ec4AhPKXY9B4ayGshkz2wFMh7N8gP7XKfAvtt1cigpG9FkJ
+    address: 13YMK2ePPKQeW7ynqLozB65WYjMnNgffQ9uR4AzyGmqnKeLq
   - name: R0GUE#2
-    address: 5HGvdza6eskzvXPAefgzqzuRRgF1vTB3bBQGoUjgmZsNY1LE
+    address: 16DDnKqAWf2UN4PgcJjzz9jaHJEfckjBfg8kxmj3KettiCaU
   - name: R0GUE#3
-    address: 5DG92hsg6BetpA8fLCoDoXQhPeQKuxr3boZpUk7TVszk76Ak
+    address: 12CSB38jwxvNFh9BHqrDwgErFGPycGQBgJJJe36p3y2GHafo
   - name: address
-    address: 5EWWPBNjcmmzjTBcYc39pzZhGn6kMPf6xvGPwJo9p2cMCrjV
+    address: 13SoXWdoUZ3UAzC8WF69y9Pr8Q6Q3hDF3Qzt6bnWN7dsPFzT
   - name: Clawbird
-    address: 5FJ4aGWwFcto8uz2h7nuex4SPvGAwTUnoSZ6WtdA8nRYFadg
+    address: 14EMibn17QAGaSzYekquo6tbFYFpdm2vswHagBcWgsT4S6Tp
   - name: address
-    address: 5ECC2USyVaU3t7KpYdy2mU8DgcN36J9ymGPjLZtuZubNzg6c
+    address: 138VAoi3MMjXKeLLWH22ucxNYEMgnbi7qm8DVrtG7zcuAsFs
   - name: address
-    address: 5HB8W2VMZNpMzXKEa9UxeBMwgiNqLzXNjZRdpW3RS2CSdzcV
+    address: 167ReMkRRA5qS4KkXnXxnLC6YLNV3J5Wp4A7yo2mz7DxpKio
   - name: address
-    address: 5DDHZU77jRoZsKGg5wL6PNoN4qLJofrevu1MCKQjb3rHrqQR
+    address: 129ahoNBbD53JrHC3aP6XXdWvTKxVyQo1PjqMcQ698sp3FdM
   - name: address
-    address: 5EYCAe5ijiYfAXEth5DCfmQ9jnv4BFmdonKpbxwrc2nAw5uj
+    address: 13UVJyLnbVp8c4FQeiGCovEJbQuhsZKmtH4JmFwDA7oh7dSD
   - name: address
-    address: 5EYCAe5ijiYgWYWi1fs8Xz1td1djEtJVVnNfzvDRP4VtLL7Y
+    address: 13UVJyLnbVp9x5XDyJv8g8r3UddNwBrdaH7AADCmw9XQWvYW
   - name: address
-    address: 5EYCAe5ijiYfAXEth5DCjLFth6hXBavimEJg7KKm8VhcUGY5
+    address: 13UVJyLnbVp8c4FQeiGCsV63YihAstUrqj3AGcK7gaj8eubS
   - name: address
-    address: 5CtDiVFP7dE49jHCA7UWxtHsWDyw9vcQEcC6aFgRDvdjQQL1
+    address: 1pWrpWSyQVXbGHi7kXX7382MqyarEAYK6vajYfmn1fFadUJ
   - name: address
-    address: 5C8VsVq373u6w7fhg9KgbPFy1JZjN6fDQPoLArXAbh99vW4i
+    address: 14o1q66xqAaNegDdnNgjY67rvZP4QDMUtXpL9WX9nAg6sUT
   - name: address
-    address: 5CVRfcJbz1oGtVvLa2CYV4yn3uHUjWXg12jbuZtakgNz2LR6
+    address: 1RiowZfqo4kL2vrXfFYdDovuXH8Rp5p5XU64rswJmQWCpAd
   - name: address
-    address: 5EWWPBNjcmmzjTBcYc39pzZhGn6kMPf6xvGPwJo9p2cMCrjV
+    address: 13SoXWdoUZ3UAzC8WF69y9Pr8Q6Q3hDF3Qzt6bnWN7dsPFzT
   - name: turboflakes.io/05
-    address: 5GbYpUfUVW72YivDf451EEeVceHvTH7a4DR3mu2KJnbYZAxs
+    address: 15XqxovYMHNVzFvjch81NPUeUGHa9afi8i9XwC1frsd4jU76
   - name: address
-    address: 5GbHes6MeRJSi8g8WZe58cG4Zqbrwyk4gppZ2mFnub9u1HH6
+    address: 15XaoCMRWCZv9fgeUCh5Gm6DRTbWeHJCmKZ3C4F9TgBRBoaV
   - name: address
-    address: 5Fg7V7JuCUMs632ag3Scx2gjCPFyKRYggAQDEEGWxfz8yRU4
+    address: 14cQdSZy4FdLXa36dgVd6BWt41Fd1j6pkf8hPXFsWm1f9orX
   - name: Virto Team
-    address: 5ERBgGSw1SpJ82U9NRjihwh1kwF5rXa2saobhyFLVVop4XJs
+    address: 13MUpbhzsE5mZZUfL4nir6XAcZEjYq8Ax5Y5sGEh3aqLEvne
   - name: EduChain
-    address: 5HgvB3pdQ2G2HasTzrb98Wa6ENSfozaGDcqzkAkSWbwcp9gp
+    address: 16dDKP5hFoXVj7syxVe9GfQF5zSKWJ8QJ7aUuTjo4gy8zbKn
   - name: Tugy
-    address: 5ChyjqCv7HKWLa77vDedMyXteF2L3YBrE7zJjTt2DMbKncgM
+    address: 1eGtATyy4ayn77dsrhdW8N3Vs1yjqjzJcintksNmScqy31j
   - name: Laos Venus Para
-    address: 5C7cTzUE8vhQMzbKrRmsZqhGgk583JFENE7T73faqUVeYMdC
+    address: 13ucKjHzhxsoXbqp4pshzXRYN4mjboNSiqwGLewPZXAioc7
