@@ -50,7 +50,7 @@ whitelist:
   - name: DWELLIR
     address: 14MofzwMbLm1JeBxLi2BKBRHXJce87DE5UWnttgGBBrQcEy9
   - name: DWELLIR PASEO 2
-    address: 5EceVbpmrw2nP72QzXRvkqRTz2Wq5zuZ3pMeok49Hk2KgdeV
+    address: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
   - name: DWELLIR PASEO 3
     address: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
   - name: DWELLIR PASEO 4
@@ -144,7 +144,7 @@ whitelist:
   - name: PARITY-VALIDATOR-1
     address: 13h28RLJvnHrW97iwQMntM9kC3KdgB1iURtPQSvD5KskWgPs
   - name: PARITY-VALIDATOR-2
-    address: 5FToUnX7P1WT2ADZqVpFVNUT6iAfJHbnKSJSucuGxrNLLWQN
+    address: 14Q6d7nBEnmvThE5o8sFdXJbxLAJzb9vPw2w4utdWwPrWosa
   - name: PARITY-VALIDATOR-3
     address: 14Q6d7nBEnmvThE5o8sFdXJbxLAJzb9vPw2w4utdWwPrWosa
   - name: PARITY-VALIDATOR-4
