@@ -193,8 +193,10 @@ whitelist:
     address: 15oarqCWHp2odVetR7qdDi3KQNMvbgcYqwLAruehARwfCJcg
   - name: STAKE PLUS/04
     address: 15tVviWswB7XRwUEdCiRCDnzV7pEy3iLy2R6TGot9YkhdEWU
-  - name: STAKE PLUS
+  - name: STAKE PLUS/05
     address: 15YLgGBKMSdc7ANemggnHb6EaBhmzmUiuxJUeQAW544Qg2D5
+  - name: STAKE PLUS/06
+    address: 13mQ4eDZrxAtQ1eNGxmx6by7UbHs2cpenxuHJ3PT7QfAECJQ
   - name: STAKER SPACE/01
     address: 1128LMvaKYP367kgJz5Y4bA68QgUJwLMz14nWLeS36Ts4WZU
   - name: STAKER SPACE/02
