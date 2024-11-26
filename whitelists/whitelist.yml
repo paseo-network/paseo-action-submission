@@ -103,6 +103,8 @@ whitelist:
     address: 15mLBUmw3X6d3wfQ3gZwDrjSR86AwnAK77LnawvB3ozNsjED
   - name: METASPAN/5
     address: 13VopNL9R3DZMiMXbRyyB3HaWbYdDdMZrst2hK68pzoQipEw
+  - name: METASPAN/6
+    address: 1nks7F8S61VikX6GhMM6dUCRmkaS7BxHfhzWpTMnJB9zydG
   - name: MILE
     address: 1HznmFfzmCa7XbJ6kTddy239jvYiw3xtGipQDkrwbksyHf9
   - name: MILE/BRAVO
