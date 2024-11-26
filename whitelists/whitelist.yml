@@ -71,6 +71,8 @@ whitelist:
     address: 1EXtRkCSH2BT7HS4iAPjGLx62LeVCkgG3EQpCMmvPaktC9p
   - name: EXTRACOIN/06
     address: 1ExtDsHgxecE4kFfQnRSH1CBxF9cuxDvNz99UJJ21qBjENM
+  - name: gatotech
+    address: 1gatoakSkH4be8KD9Ekj5xCXMdAiGxieg2NfTg41s2UME5J
   - name: GATOTECH/1
     address: 14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X
   - name: GATOTECH/2
@@ -81,6 +83,8 @@ whitelist:
     address: 16ct38RMD4pwgWVCZFkcfoo48ArivpCqGUWQqRumNWamotvM
   - name: GATOTECH/5
     address: 14ct38LihwyfMVGjcjnWR4V6puU2EfkyaRXEvgu6ASuvJF8n
+  - name: GATOTECH/6
+    address: 15ct38wCsWX3tcMGPpNv2bjdQ248ogQ7fJyps5Dus82rHr6G
   - name: LUCKYFRIDAY.IO/01
     address: 14N4LVCYRX7VvxhXnj31Kob2Yi2SMhYxRQSTN3GmsbZFhP5k
   - name: LUCKYFRIDAY.IO/02
@@ -227,8 +231,10 @@ whitelist:
     address: 15XLyYM5441ykqfCLZ7yVYnRJaA9c64psuZ2ewGWVJ2wvUgs
   - name: STAKING LAND 4
     address: 14TKD3BiHE33cVUZzVnfKZyhteAQ4zatUs6vWGMTAhFM2V5y
-  - name: STAKING LAND
+  - name: STAKING LAND 5
     address: 12QbtgKwLQCmQv1ZH2Wx3GUXZ4jfy25vqbere7Gzn1FDjsVr
+  - name: STAKING LAND 6
+    address: 16AqqqHYYm5otTyLGN5jcSH6cseVPZFbVDMp3SSVXn9F1cdM
   - name: STKD.IO/01
     address: 15iebFvoLbgvPWRVxEuFoRfKHivLt5tQxtwFYWi7RngHZntC
   - name: STKD.IO/02
@@ -355,8 +361,6 @@ whitelist:
     address: 16Jssux4B4CSQF97qxEEhfhHa6Yt3TPL3VJh4zs8crmxuJZB
   - name: turboflakes.io/01
     address: 13iiwNL7mzjuS4KxXEHQ2Csx8fETishXWKzeeCfHCig6j2dd
-  - name: gatotech
-    address: 1gatoakSkH4be8KD9Ekj5xCXMdAiGxieg2NfTg41s2UME5J
   - name: R0GUE#1
     address: 13YMK2ePPKQeW7ynqLozB65WYjMnNgffQ9uR4AzyGmqnKeLq
   - name: R0GUE#2
