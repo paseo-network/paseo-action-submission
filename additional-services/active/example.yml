@@ -1,0 +1,7 @@
+serviceName: <name of the service>
+description: <short description of the service>
+provider: <name of the provider>
+email: <email>
+matrix: <matrix>
+costPerQuarter: <cost per quarter>
+startDate: <DD/MM/YYYY>
