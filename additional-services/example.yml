@@ -1,5 +1,0 @@
-service_name: <name of the service>
-usage: <short description of the service>
-provider: <name of the provider>
-contact: <contact details>
-cost_per_quarter: <cost per quarter>
