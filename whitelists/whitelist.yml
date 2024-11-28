@@ -211,6 +211,8 @@ whitelist:
     address: 13B18z2o12qJ7TsTmWx8pK8mQX7Z9n57mWnW9VHzsUPWgAFj
   - name: STAKER SPACE/05
     address: 145oNnkx1hB9yNyhSydmqswLn8Vwk5t9WjdQhWsEHFAErQGf
+  - name: STAKER SPACE/06
+    address: 167qDBpNQCSymYKYiRRmtkbVqJCpsZeBchnMFtnbU6PkYLfS
   - name: STAKEWORLD.IO
     address: 13Jpq4n3PXXaSAbJTMmFD78mXAzs8PzgUUQd5ve8saw7HQS5
   - name: STAKEWORLD.IO/1
@@ -243,8 +245,10 @@ whitelist:
     address: 12uGKC7G7mpWnZ6D7sRoEe3kEsYHnnTSGuHXgXPBiMeXKjke
   - name: STKD.IO/04
     address: 16AnmzLXccnT1GAyDz25VHyGjNaxD5jcntP4uewPh6M3Nytt
-  - name: STKD.IO
+  - name: STKD.IO/05
     address: 15fyTZiYUa5xrEmgCBVYnqgpUGcmn3V521ti12bRsxTsgKAh
+  - name: STKD.IO/06
+    address: 15VTVoNHtTKkpSihVaBB7GbzWU989vswm3QxAZ8p7pVHtjzS
   - name: TURBOFLAKES.IO
     address: 1LfAfKweyPjXs4JkKW4AxHPTe7pu4w4HjcZbEtB6a8vMqkd
   - name: TURBOFLAKES.IO/01
