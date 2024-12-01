@@ -27,3 +27,7 @@ accounts:
     identity:
       display: STKD.io/05
     stash: 15fyTZiYUa5xrEmgCBVYnqgpUGcmn3V521ti12bRsxTsgKAh
+  5:
+    identity:
+      display: STKD.io/06
+    stash: 15VTVoNHtTKkpSihVaBB7GbzWU989vswm3QxAZ8p7pVHtjzS
