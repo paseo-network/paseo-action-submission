@@ -11,6 +11,8 @@ whitelist:
     address: 15QGcUSWjsBtsnLU855qRENsyiJFNuQWZmdH7WHZu51zVqKu
   - name: AMFORC 5
     address: 16FbDvXPY5zpcaeHDh2Sh4p9fVB2vqjJYE2GEKfbB7XR8CdM
+  - name: AMFORC 6
+    address: 1h1jb9csXS7dbmW2sh7L8oNdyMXhR2BaHTssMfjGna4U4H8
   - name: BESTVALIDATOR / PAS1
     address: 16M4ieWHzsboT4WJq1W16UjYgHKHd8mrkxetyU371cSD5tvV
   - name: BESTVALIDATOR / PAS2
