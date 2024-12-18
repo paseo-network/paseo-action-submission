@@ -1,5 +1,7 @@
 disableBot: false
 disableWhitelist: false
+balanceTarget: 10000
+balanceThreshold: 10000
 whitelist:
   - name: root
     address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3

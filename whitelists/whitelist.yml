@@ -1,5 +1,7 @@
 disableBot: false
 disableWhitelist: false
+balanceTarget: 5000
+balanceThreshold: 5000
 whitelist:
   - name: AMFORC
     address: 129nK5nVDE2EDPBYwUubQ5DMRW8cGh95hTm5QDBDkPSwtxeZ
