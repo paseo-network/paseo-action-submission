@@ -419,3 +419,7 @@ whitelist:
     address: 12ZHHNraSBqPNGsCgdynXNGi5GfVtZKCVZsV2gkZFwVACRDh
   - name: BlockDeep
     address: 14TVhj8PXhm56ukEZUpBMLZPKxftMQMsqioQRpiJKFMHviTh
+  - name: Polkadot Deployment Portal Proxy stg
+    address: 5CfP97wzNCKkgHsTpD8geoqnKnNv9DydD1y5yfgqtAeVJzMm
+  - name: Polkadot Deployment Portal Proxy prod
+    address: 5GwvfZEstcAdxqj2mawkWAoMKxzqhXW5G8G6htRCMHg3GkbF
