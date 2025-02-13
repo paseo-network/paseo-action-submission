@@ -424,4 +424,16 @@ whitelist:
   - name: Polkadot Deployment Portal Proxy prod
     address: 15tDotVwkPS7QNjYjDzkeKdWBazVPq4DLczasBQYuNhZTDQ6
   - name: Xcavate
-    address: 14pUui6ePCdRs1g7W22BhdNLrpip3W3btYZZPQoGcvrPWW4k
+    address: 1jChkUthZcpNvXxNFPBYKsnZ6gPNTpARo4ATdTgMUHEW41f
+  - name: FARADAY 1
+    address: 1jChkUthZcpNvXxNFPBYKsnZ6gPNTpARo4ATdTgMUHEW41f
+  - name: FARADAY 2
+    address: 14yzXdaM3kHdYo4WtrgSHY7PDBRVBSbW9SkZ8hoM6SRMLfGv
+  - name: FARADAY 3
+    address: 15JyeB3B2XAkPaKPmgPCEdbyrPpx8w3FJDArt7ed8EtMb3ka
+  - name: FARADAY 4
+    address: 13gTyggxCXUW1pR9dnnCsramHhzr17C6SX1Kr92Zqxu2GBLS
+  - name: FARADAY 5
+    address: 15ore2U8Mrnekjy3WSj1rYohkmTSvUPymTEKiRxz7S9RMpLh
+  - name: FARADAY 6
+    address: 1RYQVuTwXp7AC5BrD8L8kreib3CVhZZUrGLGcJbjHbKuP4h
