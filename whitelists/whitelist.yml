@@ -424,4 +424,28 @@ whitelist:
   - name: Polkadot Deployment Portal Proxy prod
     address: 15tDotVwkPS7QNjYjDzkeKdWBazVPq4DLczasBQYuNhZTDQ6
   - name: Xcavate
-    address: 14pUui6ePCdRs1g7W22BhdNLrpip3W3btYZZPQoGcvrPWW4k
+    address: 1jChkUthZcpNvXxNFPBYKsnZ6gPNTpARo4ATdTgMUHEW41f
+  - name: FARADAY 1
+    address: 1jChkUthZcpNvXxNFPBYKsnZ6gPNTpARo4ATdTgMUHEW41f
+  - name: FARADAY 2
+    address: 14yzXdaM3kHdYo4WtrgSHY7PDBRVBSbW9SkZ8hoM6SRMLfGv
+  - name: FARADAY 3
+    address: 15JyeB3B2XAkPaKPmgPCEdbyrPpx8w3FJDArt7ed8EtMb3ka
+  - name: FARADAY 4
+    address: 13gTyggxCXUW1pR9dnnCsramHhzr17C6SX1Kr92Zqxu2GBLS
+  - name: FARADAY 5
+    address: 15ore2U8Mrnekjy3WSj1rYohkmTSvUPymTEKiRxz7S9RMpLh
+  - name: FARADAY 6
+    address: 1RYQVuTwXp7AC5BrD8L8kreib3CVhZZUrGLGcJbjHbKuP4h
+  - name: 🐟Blackfin Tuna🐟	
+    address: 16QCvVK7FQmWLBs2bmz6F8JvgQK5B2chXGTUY88y2YwenDUz
+  - name: 🐟Blackfin Tuna🐟/🌊Adriatic🌊
+    address: 15QCWmhJwSJmunidxERsEFmsL4um3QrhM5ygpaME2giFXXPN
+  - name: 🐟Blackfin Tuna🐟/🌊Mediterranean🌊
+    address: 12TunjAnibmgj63yEB8Mzyn29vkN198mqnLRiS4VfD6a7c4c
+  - name: 🐟Blackfin Tuna🐟/🌊Atlantic🌊
+    address: 1TuNSwZVpDxpDzzMMmFXQmcqmVToMhrN4rcyyjNYmVWJrnj
+  - name: 🐟Blackfin Tuna🐟/🌊Pacific🌊
+    address: 13tuNSQUdEK3Lyy7JL8gCxhevL7fNLTdCxPjncJxWBvo3SPh
+  - name: 🐟Blackfin Tuna🐟/🌊Caribbean🌊
+    address: 1TuNp66PHDK9SgcAe7zPKDHhs9RCXrAJWvAFjZnCbCZWuZ6
