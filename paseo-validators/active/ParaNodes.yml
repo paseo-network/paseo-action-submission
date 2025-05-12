@@ -2,32 +2,26 @@ identity:
   display: ParaNodes.io
   email: support@paranodes.io
   website: paranodes.io
-  twitter: @ParaNodes
+  twitter: "@ParaNodes"
   discord: paranodes.io
-  riot: @paradoxxx:matrix.org
+  riot: "@paradoxxx:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: ParaNodes.io
-    stash: 5CADNSaxg4RVe8n45SDsE8hCcVvZV3StcVYi5yjEreRF9APt
-  1:
-    identity:
-      display: ParaNodes.io/02
-    stash: 5DHjgPdNR1YFywWMTKxsabmUMPtYPEjnDALaSXcu8cNPPM8M
-  2:
-    identity:
-      display: ParaNodes.io/03
-    stash: 5DJZB1TbiEtEw9jNLBYhJdZHEC7s3FYjeoXaF6irWvfbsZty
-  3:
-    identity:
-      display: ParaNodes.io/04
-    stash: 5Gb8fxEgRg6xfdSsYGLDk2JEPSfs9uCu1NKsfSrrfRKMsQzP
-  4:
-    identity:
-      display: ParaNodes.io/05
-    stash: 13pcKvGLEidLZenv8ojyjVAaQNLjfCgVDEbQqqN5iNyn5cSx
-  5:
-    identity:
-      display: ParaNodes.io/06
-    stash: 15ca1Ui8a2YjZdDekDxtwcqt66ZdCwaNa377AxYBhVXGVUgP
+- identity:
+    display: ParaNodes.io
+  stash: 16WWmr2Xqgy5fna35GsNHXMU7vDBM12gzHCFGibQjSmKpAN
+- identity:
+    display: ParaNodes.io/02
+  stash: 12E2pitSGnojRUWsQy1sikbdD1tC5YHvHf54bpcFghPuZfiA
+- identity:
+    display: ParaNodes.io/03
+  stash: 12ErKLifa29iNgjtHpbhSnPS5p7WjZ6sjJG4QPiD51h843kx
+- identity:
+    display: ParaNodes.io/04
+  stash: 15XRpHVkHTNS7ATPVuPDtB8PF4fWrCm35s4MpjrDDWLt3zQ1
+- identity:
+    display: ParaNodes.io/05
+  stash: 13pcKvGLEidLZenv8ojyjVAaQNLjfCgVDEbQqqN5iNyn5cSx
+- identity:
+    display: ParaNodes.io/06
+  stash: 15ca1Ui8a2YjZdDekDxtwcqt66ZdCwaNa377AxYBhVXGVUgP

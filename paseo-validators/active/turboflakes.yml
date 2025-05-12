@@ -2,31 +2,25 @@ identity:
   display: turboflakes.io
   email: support@turboflakes.io
   website: https://turboflakes.io
-  twitter: @turboflakes
-  riot: @turboflakes:matrix.org
+  twitter: "@turboflakes"
+  riot: "@turboflakes:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: turboflakes.io
-    stash: 5CQN2L4soC8G6L3nngT42oTEc28BCmNvDEt5RwtpYV7QBScp
-  1:
-    identity:
-      display: turboflakes.io/01
-    stash: 5EnRo353vDURzXKSZbEPt43oH3Ep2a9PRqGAUufvedeaYarA
-  2:
-    identity:
-      display: turboflakes.io/02
-    stash: 5EnN7kUSZ6Dq6phQitHvVctPGxHgGQ29mCouHMMseEq7nEe8
-  3:
-    identity:
-      display: turboflakes.io/03
-    stash: 5E7xAxqDjrb9XmpKoZ7d8m2vzSVdKZqt7GVQvh6ucWRzx6R9
-  4:
-    identity:
-      display: turboflakes.io/04
-    stash: 5CAL9JGERu6Tsjd57bekmmdbFC4aKYfW3krxBkvTNcJjLTkR
-  5:
-    identity:
-      display: turboflakes.io/05
-    stash: 5GbYpUfUVW72YivDf451EEeVceHvTH7a4DR3mu2KJnbYZAxs
+- identity:
+    display: turboflakes.io
+  stash: 1LfAfKweyPjXs4JkKW4AxHPTe7pu4w4HjcZbEtB6a8vMqkd
+- identity:
+    display: turboflakes.io/01
+  stash: 13iiwNL7mzjuS4KxXEHQ2Csx8fETishXWKzeeCfHCig6j2dd
+- identity:
+    display: turboflakes.io/02
+  stash: 13ifG5jWQsVJYMhvgXLvdmiY8aHKxhaHqhYPSeMECKrdxcpy
+- identity:
+    display: turboflakes.io/03
+  stash: 134FKJ6HbdrcyJpqmCAdGus5r4VH1sQ2BmDu5z6GAbTX8U2y
+- identity:
+    display: turboflakes.io/04
+  stash: 16dHdXJHgMwKGdb5EhkuvTk6p4E1rDe8FbSM3uovhLFWn9V
+- identity:
+    display: turboflakes.io/05
+  stash: 15XqxovYMHNVzFvjch81NPUeUGHa9afi8i9XwC1frsd4jU76

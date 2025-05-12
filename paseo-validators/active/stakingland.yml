@@ -2,32 +2,26 @@ identity:
   display: Staking Land
   email: stakingland@telutions.com
   website: https://stakingland.de
-  twitter: @erco773
+  twitter: "@erco773"
   discord:
-  riot: @erk773:matrix.org
+  riot: "@erk773:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: Staking Land 1
-    stash: 5DaVS2qqHgZEkZVam6JvFEPu9AhVmUaDPjtT9vibCR1kQ3oa
-  1:
-    identity:
-      display: Staking Land 2
-    stash: 5HpC6p5y3MyNZWbjE9vhYRafVR56tFqgkLFWLAcWcWUWd6cF
-  2:
-    identity:
-      display: Staking Land 3
-    stash: 5Gb3qD61CGkWKJegNv4yMPxGSxAVunWgoQpYVeH9wD1Rjp9U
-  3:
-    identity:
-      display: Staking Land 4
-    stash: 5FX24hveRSmaAxU42rjfBR9Z32AkNh2kQNNSLyN6ccDpqxmQ
-  4:
-    identity:
-      display: Staking Land 5
-    stash: 5DUJkM4sUcwHyP13KPTwu7eNhSk2GiXnm6vNUpHeDvDhZAuh
-  5:
-    identity:
-      display: Staking Land 6
-    stash: 5HEYhW2UgypLSvxpJj2jUHSwmFeqhFhTQidKt9T8yh7ipy93
+- identity:
+    display: Staking Land 1
+  stash: 12WnaN6u9TpiC6W6ijMvPPE3znh9Tn8MUEcwKDhwkW3GaLuJ
+- identity:
+    display: Staking Land 2
+  stash: 16kVF9M2u9Er13cFBnyhgaQpM34kaZPpppyzVTbsAbW2oPhC
+- identity:
+    display: Staking Land 3
+  stash: 15XLyYM5441ykqfCLZ7yVYnRJaA9c64psuZ2ewGWVJ2wvUgs
+- identity:
+    display: Staking Land 4
+  stash: 14TKD3BiHE33cVUZzVnfKZyhteAQ4zatUs6vWGMTAhFM2V5y
+- identity:
+    display: Staking Land 5
+  stash: 12QbtgKwLQCmQv1ZH2Wx3GUXZ4jfy25vqbere7Gzn1FDjsVr
+- identity:
+    display: Staking Land 6
+  stash: 16AqqqHYYm5otTyLGN5jcSH6cseVPZFbVDMp3SSVXn9F1cdM

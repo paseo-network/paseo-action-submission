@@ -2,32 +2,26 @@ identity:
   display: ValidOrange
   email: doug@validorange.net
   website: https://www.validorange.net
-  twitter: @ValidOrangeDOT
+  twitter: "@ValidOrangeDOT"
   discord: validorange_17972
-  riot: @validorange:matrix.org
+  riot: "@validorange:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: ValidOrange-PAS1
-    stash: 5G9M1Y4GLtEesD97uYjamzuG473WXfCWjfCJzx14nrFpexeV
-  1:
-    identity:
-      display: ValidOrange-PAS2
-    stash: 5CVS4Vf5atVu3DefmcydzjkEX6njtnqMgtwSqdGBkQXBHWQp
-  2:
-    identity:
-      display: ValidOrange-PAS3
-    stash: 5CLmt2CgNBNyR9NPQhCHAVLdoFJfMmFCxAdPQFvQBmFsRi7v
-  3:
-    identity:
-      display: ValidOrange-PAS4
-    stash: 5DZTc2EduBzbykWnn3FZG7avkAavj7GvQN37VDGyKSK8n7D3
-  4:
-    identity:
-      display: ValidOrange-PAS5
-    stash: 1hWFtc7cPznyNXVUgNaKx3zzFTFoKXj5A22Ksr66RhWgWyj
-  5:
-    identity:
-      display: ValidOrange-PAS6
-    stash: 14rLnEdtM5ZMt7KaaG3PsaXR3bx9hhLTHu7svNkP3EQTMP9g
+- identity:
+    display: ValidOrange-PAS1
+  stash: 155e9sKLCfW8Jk9dsBnav9jQuj3ADxkep9voAEzRLwHLqMZs
+- identity:
+    display: ValidOrange-PAS2
+  stash: 1RjCpv9SfmNUkfBjG2e8taPNinPb6PVmPfvzvFYJVYhTtpY
+- identity:
+    display: ValidOrange-PAS3
+  stash: 1H52MTkDxeSrgNuNLFHJeAnesJK44oM2fMsZYukjrHPc2Gk
+- identity:
+    display: ValidOrange-PAS4
+  stash: 12VkkMVhkyG5RHXJjgJZQGR5bnaaRQq4UrmbeWGKsXLexZxb
+- identity:
+    display: ValidOrange-PAS5
+  stash: 1hWFtc7cPznyNXVUgNaKx3zzFTFoKXj5A22Ksr66RhWgWyj
+- identity:
+    display: ValidOrange-PAS6
+  stash: 14rLnEdtM5ZMt7KaaG3PsaXR3bx9hhLTHu7svNkP3EQTMP9g

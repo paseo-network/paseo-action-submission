@@ -2,33 +2,27 @@ identity:
   display: Stake Plus
   email: contact@stake.plus
   website: https://stake.plus
-  twitter: @StakePlusCrypto
-  discord: 
-  riot: @stakeplus:matrix.org
+  twitter: "@StakePlusCrypto"
+  discord:
+  riot: "@stakeplus:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: Stake Plus
-    stash: 13xTAvbANb5yZuFHv3pAKgxmCWYRKXHX5NTRwVChSUoaF7iz
-  1:
-    identity:
-      display: Stake Plus/02
-    stash: 13e2rQHUqzWf7nWABeu4Tse1PKKdSnFVYF2a6JKVdN7dVJbo
-  2:
-    identity:
-      display: Stake Plus/03
-    stash: 15oarqCWHp2odVetR7qdDi3KQNMvbgcYqwLAruehARwfCJcg
-  3:
-    identity:
-      display: Stake Plus/04
-    stash: 15tVviWswB7XRwUEdCiRCDnzV7pEy3iLy2R6TGot9YkhdEWU
-  4:
-    identity:
-      display: Stake Plus/05
-    stash: 15YLgGBKMSdc7ANemggnHb6EaBhmzmUiuxJUeQAW544Qg2D5
-  5:
-    identity:
-      display: Stake Plus/06
-    stash: 13mQ4eDZrxAtQ1eNGxmx6by7UbHs2cpenxuHJ3PT7QfAECJQ
-    
+- identity:
+    display: Stake Plus
+  stash: 13xTAvbANb5yZuFHv3pAKgxmCWYRKXHX5NTRwVChSUoaF7iz
+- identity:
+    display: Stake Plus/02
+  stash: 13e2rQHUqzWf7nWABeu4Tse1PKKdSnFVYF2a6JKVdN7dVJbo
+- identity:
+    display: Stake Plus/03
+  stash: 15oarqCWHp2odVetR7qdDi3KQNMvbgcYqwLAruehARwfCJcg
+- identity:
+    display: Stake Plus/04
+  stash: 15tVviWswB7XRwUEdCiRCDnzV7pEy3iLy2R6TGot9YkhdEWU
+- identity:
+    display: Stake Plus/05
+  stash: 15YLgGBKMSdc7ANemggnHb6EaBhmzmUiuxJUeQAW544Qg2D5
+- identity:
+    display: Stake Plus/06
+  stash: 13mQ4eDZrxAtQ1eNGxmx6by7UbHs2cpenxuHJ3PT7QfAECJQ
+

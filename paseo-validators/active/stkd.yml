@@ -2,32 +2,26 @@ identity:
   display: STKD.io
   email: hello@STKD.io
   website: https://STKD.io
-  twitter: @frazzled_dazzle
+  twitter: "@frazzled_dazzle"
   discord: na
-  riot: @frazzled:matrix.org
+  riot: "@frazzled:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: STKD.io/01
-    stash: 5GnMSvfjUpRSwyQyzbrFfGqAS6vhBnLGtQCmPDikshemP4Jh
-  1:
-    identity:
-      display: STKD.io/02
-    stash: 5HbS4tbvbvwtLXDQNeM2hw8WbHFbaTtPskYEQhLASMFNYYLX
-  2:
-    identity:
-      display: STKD.io/03
-    stash: 5DxyArrCFzZ3M25hAENo6VDbPFYe6UuJCQZ3XEPqAGd19Nqp
-  3:
-    identity:
-      display: STKD.io/04
-    stash: 5HEVdf5TkqWyZjATGLy5M997skbJWnBUiPeakMx391KXCXaL
-  4:
-    identity:
-      display: STKD.io/05
-    stash: 15fyTZiYUa5xrEmgCBVYnqgpUGcmn3V521ti12bRsxTsgKAh
-  5:
-    identity:
-      display: STKD.io/06
-    stash: 15VTVoNHtTKkpSihVaBB7GbzWU989vswm3QxAZ8p7pVHtjzS
+- identity:
+    display: STKD.io/01
+  stash: 15iebFvoLbgvPWRVxEuFoRfKHivLt5tQxtwFYWi7RngHZntC
+- identity:
+    display: STKD.io/02
+  stash: 16XjDDrzTiDMn4DvLHQ2r5xfSuFFGmSXxFGiZzKWzSGtj1hB
+- identity:
+    display: STKD.io/03
+  stash: 12uGKC7G7mpWnZ6D7sRoEe3kEsYHnnTSGuHXgXPBiMeXKjke
+- identity:
+    display: STKD.io/04
+  stash: 16AnmzLXccnT1GAyDz25VHyGjNaxD5jcntP4uewPh6M3Nytt
+- identity:
+    display: STKD.io/05
+  stash: 15fyTZiYUa5xrEmgCBVYnqgpUGcmn3V521ti12bRsxTsgKAh
+- identity:
+    display: STKD.io/06
+  stash: 15VTVoNHtTKkpSihVaBB7GbzWU989vswm3QxAZ8p7pVHtjzS
