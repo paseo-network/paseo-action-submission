@@ -4,30 +4,24 @@ identity:
   website: NA
   twitter: NA
   discord: mherceg
-  riot: @matherceg:matrix.org
+  riot: "@matherceg:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: Mile
-    stash: 5CMheRzc8yw6fzan97QdVpBtJ7vu2dVpomzLEvmWPWjMnjCs
-  1:
-    identity:
-      display: Mile/Bravo
-    stash: 5C7MHerZDXGsKbJP3i5EEJ71GjX3bdJGhdKNrjEED9znjSw7
-  2:
-    identity:
-      display: Mile/Charlie
-    stash: 5Gjo7xaoQJVyPpa9zWGy8Qt8VaLpPWH3sRKJK6R6c85v4zeL
-  3:
-    identity:
-      display: Mile/Delta
-    stash: 5FsRLEAeuSHcrQ8SqLK2uc1GA6ap1m1x4NL99k8gVTJG9wnb
-  4:
-    identity:
-      display: Mile/Echo
-    stash: 1HmagcqorPBKUmKkPs4Kf2Ad4uL9DvU3uZ9euk5i2btRQNt
-  5:
-    identity:
-      display: Mile/Foxtrot
-    stash: 1MAZzTWuUocSpLMjXpDqT9Jh4iFc5yikMFPMHdQsvGh2YtE  
+- identity:
+    display: Mile
+  stash: 1HznmFfzmCa7XbJ6kTddy239jvYiw3xtGipQDkrwbksyHf9
+- identity:
+    display: Mile/Bravo
+  stash: 13eRz7d5JYLm8Ju1M8ENSwA8MWhHvrQn83s22DamF2Jv12v
+- identity:
+    display: Mile/Charlie
+  stash: 15g6GHqsG5mSqMafx9KyGZiHMCLU5oqBwv3nUPQTAD7SFUic
+- identity:
+    display: Mile/Delta
+  stash: 14oiUZRimDZ6Hw8xnyN33kqR1iaTi4a68s4dK3833YKnLRbG
+- identity:
+    display: Mile/Echo
+  stash: 1HmagcqorPBKUmKkPs4Kf2Ad4uL9DvU3uZ9euk5i2btRQNt
+- identity:
+    display: Mile/Foxtrot
+  stash: 1MAZzTWuUocSpLMjXpDqT9Jh4iFc5yikMFPMHdQsvGh2YtE

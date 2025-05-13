@@ -56,7 +56,7 @@ whitelist:
   - name: DWELLIR PASEO 2
     address: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
   - name: DWELLIR PASEO 3
-    address: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
+    address: 14AjU84Srmy16QGg7AU9ZAt6jfReN6cgiNf5qNE2iHueLisb
   - name: DWELLIR PASEO 4
     address: 12mUc5kih5vb9rWpJ81P3syNzUdsdnuoULNF5BJHdJonr7ie
   - name: DWELLIR PASEO 5
@@ -156,7 +156,7 @@ whitelist:
   - name: PARITY-VALIDATOR-2
     address: 14Q6d7nBEnmvThE5o8sFdXJbxLAJzb9vPw2w4utdWwPrWosa
   - name: PARITY-VALIDATOR-3
-    address: 14Q6d7nBEnmvThE5o8sFdXJbxLAJzb9vPw2w4utdWwPrWosa
+    address: 13bAbwp74hQsn8nhwtdwKnarkXwLzPyQo945V9NkqN3Rm4vE
   - name: PARITY-VALIDATOR-4
     address: 14Gv6k3msBPfVgjg2RcVNgsj1r6eH6V7pVXWnmjdEZTrzzxs
   - name: POLKADOTTERS

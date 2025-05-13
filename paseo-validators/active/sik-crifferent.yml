@@ -2,32 +2,26 @@ identity:
   display: Sik | crifferent.de
   email: simon.kraus@crifferent.de
   website: https://crifferent.de
-  twitter: @dev0_sik
+  twitter: "@dev0_sik"
   discord: dev0_sik
-  riot: @dev0_sik:matrix.org
+  riot: "@dev0_sik:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: Sik | crifferent.de
-    stash: 5H1MgERwsj7NWejMibokz8wPrc2N5obU1G7v9MUWz5hmSydS
-  1:
-    identity:
-      display: SIK | CRIFFERENT.DE/2
-    stash: 5Fpq4Rxhu6UbAs52wHMzHmjxSVBNz2eJMiQ9n6gcj1UxQMmy
-  2:
-    identity:
-      display: SIK | CRIFFERENT.DE/3
-    stash: 5GwvXDwf9rbrGikMbtodYKewmiecPKkaLQPKqecxLMUNLEck
-  3:
-    identity:
-      display: SIK | CRIFFERENT.DE/4
-    stash: 5CB3hteqociFUMxkZN6cxK6gC5MG26vLotFVDUDGZkWfKH4Q
-  4:
-    identity:
-      display: SIK | CRIFFERENT.DE/5
-    stash: 1BrSeSKiCJofuv2czTTQphMucGJNDjUny1JQoFbe9zbdrcc
-  5:
-    identity:
-      display: SIK | CRIFFERENT.DE/6
-    stash: 1Eu3wjXT7bBeYw3YqrDvudseugJbybEDhBanGWMaBcPKSqF
+- identity:
+    display: Sik | crifferent.de
+  stash: 15wepZh1jWNqxBjsgErm8HmYiE21n79c5krQJeTsYAjHddeM
+- identity:
+    display: SIK | CRIFFERENT.DE/2
+  stash: 14m8CmDmksk4cQ5YtvQzRva7J7B2gLCSSD8dwPfyH6WUahrG
+- identity:
+    display: SIK | CRIFFERENT.DE/3
+  stash: 15tDfZCj1dsKiFksZXrdgUV6dLeG5dJiQu7ozwcJtSVtWoYX
+- identity:
+    display: SIK | CRIFFERENT.DE/4
+  stash: 17LrDuufPyiutyGX19d6Tvq3hLuiQUUtNyyNmCd7qYBVmNc
+- identity:
+    display: SIK | CRIFFERENT.DE/5
+  stash: 1BrSeSKiCJofuv2czTTQphMucGJNDjUny1JQoFbe9zbdrcc
+- identity:
+    display: SIK | CRIFFERENT.DE/6
+  stash: 1Eu3wjXT7bBeYw3YqrDvudseugJbybEDhBanGWMaBcPKSqF

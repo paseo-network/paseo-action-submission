@@ -2,33 +2,27 @@ identity:
   display: Lucky Friday Labs
   email: info@luckyfriday.io
   website: https://luckyfriday.io
-  twitter: @LuckyFridayLabs
+  twitter: "@LuckyFridayLabs"
   discord: luckyfridaymark
-  riot: @luckyfriday:matrix.org
+  riot: "@luckyfriday:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: LuckyFriday.io/01
-    stash: 5FRmC9wUZjr2VRh1q5z1Beksh62nfPzpLuhyCkHRKWXjWv9u
-  1:
-    identity:
-      display: LuckyFriday.io/02
-    stash: 5HftqEy3ZGv4JswhW9J5dP8h8wGghJNApAdFbpic3vB2joXJ
-  2:
-    identity:
-      display: LuckyFriday.io/03
-    stash: 5CUj1nJ4yJsoFPHA27znEAW9gdUcUB7nzPQxrLdYPxZWzD1T
-  3:
-    identity:
-      display: LuckyFriday.io/04
-    stash: 5GNdFvnsMMvL9pmJ6m9Q24EwLb8W3pQrAkKuWj2iw6Mb9s7c
-  4:
-    identity:
-      display: LuckyFriday.io/05
-    stash: 5Eyp4ZFFW8E5c9VNA8UUCPCci4tZdf9y3zzpKK5SAvkfsi8s
-  5:
-    identity:
-      display: LuckyFriday.io/06
-    stash: 5Fpfj8y2ZsaVzyStdVAB7T4G3hbir9d7dcCxNPgSWoS1JvvR
-  
+- identity:
+    display: LuckyFriday.io/01
+  stash: 14N4LVCYRX7VvxhXnj31Kob2Yi2SMhYxRQSTN3GmsbZFhP5k
+- identity:
+    display: LuckyFriday.io/02
+  stash: 16cByaE7R4BXkQxDTnM5mXxqzZGLPbvJtfMjm7hxc1CYv9jg
+- identity:
+    display: LuckyFriday.io/03
+  stash: 1R2A7Z8q69GgvHfym3nNKLJYFUGAUfw4t9T1dctx3b3AgSP
+- identity:
+    display: LuckyFriday.io/04
+  stash: 15JvQG3wD9BobMmp4QCQAD56CD89k7xzFF4Pg225VBP7LA2n
+- identity:
+    display: LuckyFriday.io/05
+  stash: 13v7CtWKMuVZ3gVt7mXULY2mZgtDKxi78VjJUc4nj1nC4H7s
+- identity:
+    display: LuckyFriday.io/06
+  stash: 14kxsUE6ReqySWTQb8DBFbtQuKbNYTBFi6wSXgfo4tTXVJwz
+

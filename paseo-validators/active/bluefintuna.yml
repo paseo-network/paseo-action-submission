@@ -4,30 +4,24 @@ identity:
   website: NA
   twitter: NA
   discord: tunkas
-  riot: @bluefin_tuna:matrix.org
+  riot: "@bluefin_tuna:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: 🐟Blackfin Tuna🐟
-    stash: 5HTunA43PdW2terWe8w66yUmpnKRUj4ZSmizNq9cUTv8bhei
-  1:
-    identity:
-      display: 🐟Blackfin Tuna🐟/🌊Adriatic🌊
-    stash: 5GTuNSSF5f3JUFi7zbNs66wiUSv7M7JZGbFCfHMsUbgjMD7b
-  2:
-    identity:
-      display: 🐟Blackfin Tuna🐟/🌊Mediterranean🌊
-    stash: 12TunjAnibmgj63yEB8Mzyn29vkN198mqnLRiS4VfD6a7c4c
-  3:
-    identity:
-      display: 🐟Blackfin Tuna🐟/🌊Atlantic🌊
-    stash: 1TuNSwZVpDxpDzzMMmFXQmcqmVToMhrN4rcyyjNYmVWJrnj
-  4:
-    identity:
-      display: 🐟Blackfin Tuna🐟/🌊Pacific🌊
-    stash: 13tuNSQUdEK3Lyy7JL8gCxhevL7fNLTdCxPjncJxWBvo3SPh
-  5:
-    identity:
-      display: 🐟Blackfin Tuna🐟/🌊Caribbean🌊
-    stash: 1TuNp66PHDK9SgcAe7zPKDHhs9RCXrAJWvAFjZnCbCZWuZ6
+- identity:
+    display: 🐟Blackfin Tuna🐟
+  stash: 16QCvVK7FQmWLBs2bmz6F8JvgQK5B2chXGTUY88y2YwenDUz
+- identity:
+    display: 🐟Blackfin Tuna🐟/🌊Adriatic🌊
+  stash: 15QCWmhJwSJmunidxERsEFmsL4um3QrhM5ygpaME2giFXXPN
+- identity:
+    display: 🐟Blackfin Tuna🐟/🌊Mediterranean🌊
+  stash: 12TunjAnibmgj63yEB8Mzyn29vkN198mqnLRiS4VfD6a7c4c
+- identity:
+    display: 🐟Blackfin Tuna🐟/🌊Atlantic🌊
+  stash: 1TuNSwZVpDxpDzzMMmFXQmcqmVToMhrN4rcyyjNYmVWJrnj
+- identity:
+    display: 🐟Blackfin Tuna🐟/🌊Pacific🌊
+  stash: 13tuNSQUdEK3Lyy7JL8gCxhevL7fNLTdCxPjncJxWBvo3SPh
+- identity:
+    display: 🐟Blackfin Tuna🐟/🌊Caribbean🌊
+  stash: 1TuNp66PHDK9SgcAe7zPKDHhs9RCXrAJWvAFjZnCbCZWuZ6

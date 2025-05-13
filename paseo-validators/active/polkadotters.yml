@@ -2,32 +2,26 @@ identity:
   display: Polkadotters
   email: polkadotters@protonmail.com
   website: https://polkadotters.com
-  twitter: @Polkadotters1
+  twitter: "@Polkadotters1"
   discord: pmensik#3434
-  riot: @pmensik:matrix.org
+  riot: "@pmensik:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: Polkadotters
-    stash: 5DvoL2BNoSm7wRt2tfZ6WW5QFrxm68GLv5SCrPQ4JBLjbvpL
-  1:
-    identity:
-      display: Polkadotters/SHRIMP
-    stash: 5Dsed6sNwpaVER5oMWsk1VFxQDnd8G5dshWiFxqYSUcMdUGR
-  2:
-    identity:
-      display: Polkadotters/SHARK
-    stash: 5FbUhUGX531L9Uz953EGDG1MmFRTUhNa5TaXHGMKJD76iLup
-  3:
-    identity:
-      display: Polkadotters/OCTOPUS
-    stash: 5CJCvWP2T54ZSgXWB6tDTYxbKkX28AA9dDWRpeC6K42gBZV1
-  4:
-    identity:
-      display: Polkadotters/SQUID
-    stash: 5FsKSxifQZrK83gZEK5ncsXakEnSszahsz9Cr2vPiTcNRHxN
-  5:
-    identity:
-      display: Polkadotters/DOLPHIN
-    stash: 14zx6hSaBXSbcisyEf48cUEJSF21sQLdbnnC3aSzJF6vmPLX
+- identity:
+    display: Polkadotters
+  stash: 12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h
+- identity:
+    display: Polkadotters/SHRIMP
+  stash: 12owmS8Sobqxfx6KK9vk9e67FqnGpZdmxCFCRFptzZdsoujC
+- identity:
+    display: Polkadotters/SHARK
+  stash: 14XmqoXavpGob1zf2gHGMQqWcsR7Azvi9xK1SZLfrJ8ctfqE
+- identity:
+    display: Polkadotters/OCTOPUS
+  stash: 1EW4qe6JrL2tDY28jwDbhnkBNWfpTiHhiEuywBSs94CMr9D
+- identity:
+    display: Polkadotters/SQUID
+  stash: 14ocbHyjGM7nZah5Bx8nm2Mjbrn6aJ8qxUsh1KukGYdtbiXc
+- identity:
+    display: Polkadotters/DOLPHIN
+  stash: 14zx6hSaBXSbcisyEf48cUEJSF21sQLdbnnC3aSzJF6vmPLX

@@ -2,32 +2,26 @@ identity:
   display: ExtraCoin
   email: yaronski@protonmail.com
   website: na
-  twitter: @yaronski
+  twitter: "@yaronski"
   discord: _yrn_
-  riot: @yrn:matrix.org
+  riot: "@yrn:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: ExtraCoin/01
-    stash: 5EXtrLLidiQGKFMCekvH2B7E8ge3kugG7ZJugSiR7gASZBQ1
-  1:
-    identity:
-      display: ExtraCoin/02
-    stash: 5EXTRcEY1dwESChjYjDkB6N4D86UiE14YkqrQX7t2gwM7XMa
-  2:
-    identity:
-      display: ExtraCoin/03
-    stash: 5EXT1XpA6o2iwGFwGuv3wH7Rj11rvyRCdJkyCU5ySfBZ3rgP
-  3:
-    identity:
-      display: ExtraCoin/04
-    stash: 5EXT28fXNW9xshEScYRkshWajZeKRCG8ipi3VXekfR2TUctQ
-  4:
-    identity:
-      display: ExtraCoin/05
-    stash: 1EXtRkCSH2BT7HS4iAPjGLx62LeVCkgG3EQpCMmvPaktC9p
-  5:
-    identity:
-      display: ExtraCoin/06
-    stash: 1ExtDsHgxecE4kFfQnRSH1CBxF9cuxDvNz99UJJ21qBjENM
+- identity:
+    display: ExtraCoin/01
+  stash: 13UBzfbnVVfjknMicPyHAKwNzJdhTDEQC43PqjhmfmBxjguu
+- identity:
+    display: ExtraCoin/02
+  stash: 13TkZwVbsRChsjiFWNGkKFCD4k68QXZCdFaLZp7EamxsHjbc
+- identity:
+    display: ExtraCoin/03
+  stash: 13Tk9s5DxaJCNoGTEYy45Rwaad1WdGyLhoVTMm5KzkD5EE81
+- identity:
+    display: ExtraCoin/04
+  stash: 13TkATvbEHRSKEExaBUm1rLjbBdy7VpGoKSXepe7DW3yfGjx
+- identity:
+    display: ExtraCoin/05
+  stash: 1EXtRkCSH2BT7HS4iAPjGLx62LeVCkgG3EQpCMmvPaktC9p
+- identity:
+    display: ExtraCoin/06
+  stash: 1ExtDsHgxecE4kFfQnRSH1CBxF9cuxDvNz99UJJ21qBjENM

@@ -2,32 +2,26 @@ identity:
   display: openbitlab
   email: openbitlab@gmail.com
   website: https://openbitlab.com
-  twitter: '@Openbitlab_node'
+  twitter: "@Openbitlab_node"
   discord: openbitlab
-  riot: '@openbitlab_:matrix.org'
+  riot: "@openbitlab_:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: openbitlab
-    stash: 5DXCQijJbVRr7XzKzgzkZnPgxN2FHKWNCjUkbDZkiUKYJ3Pp
-  1:
-    identity:
-      display: openbitlab/02
-    stash: 5Gxe767ZRTo55DGncvFSAF32XhiaVC3ys41tKWcTF95JfPxF
-  2:
-    identity:
-      display: openbitlab/03
-    stash: 5E4LgKCiarYWcBKtgwfG8sGmc4NHZFTmvuP77yCLhVgS24Q2
-  3:
-    identity:
-      display: openbitlab/04
-    stash: 5CoYXLyv5Nuk8hMn6XwuM5xYsuGkMskwkMAhdEEXoe8aZJv6
-  4:
-    identity:
-      display: openbitlab/05
-    stash: 5H6YoXPNa9qXXovj2q8wSAdraQLyKFEcg9bmHR7kvEgnaV48
-  5:
-    identity:
-      display: openbitlab/06
-    stash: 5DaLaT5mv4hBLYSMbAvDWfLobM4WMiiDH5iqGfEGniMnaAs7
+- identity:
+    display: openbitlab
+  stash: 12TVZ3zNTGhKZ4zqxL3khwDqoz1tyd4WHEDEkWZ7GZM4UH7x
+- identity:
+    display: openbitlab/02
+  stash: 15twFRNdHF4YWkHJaZJSJPsBPKiEBVc7wYkNUobooE6pqrRB
+- identity:
+    display: openbitlab/03
+  stash: 12zdpeTnSdoz3iLQeaiGH26vTgMwFZ1v1Q7bHGBhFahxCPuK
+- identity:
+    display: openbitlab/04
+  stash: 1jqfgEywABDaENJ4AzuVEnhjXGQ4BK5pquBnXDtMjA6jcNg
+- identity:
+    display: openbitlab/05
+  stash: 162qwreSRw6zyLwEzUBwaKU1S2Ld1YnkkeLFSi77UKiJkpxM
+- identity:
+    display: openbitlab/06
+  stash: 12WdinLqmqxen5SsYoyDepAxSy4A42GMMaTKRxDdLoPJkWbm

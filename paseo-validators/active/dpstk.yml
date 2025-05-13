@@ -1,33 +1,27 @@
 identity:
   display: DPSTK
   email: info@dpstk.de
-  website: 
-  twitter: 
-  discord: 
-  riot: @dapestake:matrix.org
+  website:
+  twitter:
+  discord:
+  riot: "@dapestake:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: DPSTK - VAL01
-    stash: 5DykdhyMLNa6qPgcGimqfgm9JHTiZMwqzzQdHPjPFjZ7Do9P
-  1:
-    identity:
-      display: DPSTK - VAL02
-    stash: 5DwJqeX5sz3RmqiYfj6KP7EbQHkTMRpraNQEAo5tCF1U4sHv
-  2:
-    identity:
-      display: DPSTK - PASEO 3
-    stash: 5CoNyETmeUm1ymfgLzYMLcX1DWpLGYFQfqbGyrcsSMZ9T1kB
-  3:
-    identity:
-      display: DPSTK - PASEO 4
-    stash: 5DZRQSuTFhzESzsCfViaGZeDPhyWCFa9fF5HfZMQCkvNAtF5
-  4:
-    identity:
-      display: DPSTK - PASEO 5
-    stash: 5EjuFJG7w2Quo6sqdWtUvyVA6SWQLk5fHvNNgpgk5ZhQHTcj  
-  5:
-    identity:
-      display: DPSTK - PASEO 6
-    stash: 5ERpjeTzUMXmcgbpEkq2EmPaCFQXjJUQnXjQ93W6T8iABqph
+- identity:
+    display: DPSTK - VAL01
+  stash: 12v3n3ERC9qaGvh8EMpqoqbJ9uTNFfVz5V97SgijopadQQNz
+- identity:
+    display: DPSTK - VAL02
+  stash: 12sbyyn9jmJuDNj4dN9KXG4kFuk73jNzes8iL65EkL2zF2YZ
+- identity:
+    display: DPSTK - PASEO 3
+  stash: 1jg7ZiqWG2VRJgCJdbMUmMA58oyxqoYkLKm99cDzSafdL9k
+- identity:
+    display: DPSTK - PASEO 4
+  stash: 12ViYnAX7VFhtXsid8maQiUNFKy9tZ8HjjomprLkkqwtM7pj
+- identity:
+    display: DPSTK - PASEO 5
+  stash: 13gCPdXBnogPEdtMb9wV58KJx4W433doNR6rr7g6deivTekd
+- identity:
+    display: DPSTK - PASEO 6
+  stash: 13N7syj4L8oF4DcLCPt2NvDj3sQBRc2Ys2TtJLVT1DjgNRS8

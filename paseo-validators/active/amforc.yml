@@ -3,32 +3,26 @@ identity:
   display: Amforc
   email: staking@amforc.com
   website: https://amforc.com
-  twitter: @amforcag
+  twitter: "@amforcag"
   discord:
-  riot: @tugytur:matrix.org
+  riot: "@tugytur:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: Amforc/1
-    stash: 5DDVAkXRMSkkmrB2yqrbFvPCZt8xaPawcy2bEvBsCJRRiUtm
-  1:
-    identity:
-      display: Amforc/2
-    stash: 5DcD6We4htNwjE97MhKvn1HDxKBB2fZK3C69C7ET6FxmWtrJ
-  3:
-    identity:
-      display: Amforc/3
-    stash: 5HdxB6kQRvk1xMSc4RYE7yGXLVBih6uYFANtKfeKTmh1q3wv
-  4:
-    identity:
-      display: Amforc/4
-    stash: 5GTyU9BSt5vRSFKxAS2qH5Yj86JbgbrNVGtnxDJDLyzUKJbd
-  5:
-    identity:
-      display: Amforc/5
-    stash: 16FbDvXPY5zpcaeHDh2Sh4p9fVB2vqjJYE2GEKfbB7XR8CdM
-  6:
-    identity:
-      display: Amforc/6
-    stash: 1h1jb9csXS7dbmW2sh7L8oNdyMXhR2BaHTssMfjGna4U4H8
+- identity:
+    display: Amforc/1
+  stash: 129nK5nVDE2EDPBYwUubQ5DMRW8cGh95hTm5QDBDkPSwtxeZ
+- identity:
+    display: Amforc/2
+  stash: 12YWEqu8ZfeRAm9dKLNvvA7NowApiy7T7gpdMQDoeLzHhbeK
+- identity:
+    display: Amforc/3
+  stash: 16aFKS1UHi1VPtT824bEG86gC7BNPQTgKf7NUxdg1riY1RnG
+- identity:
+    display: Amforc/4
+  stash: 15QGcUSWjsBtsnLU855qRENsyiJFNuQWZmdH7WHZu51zVqKu
+- identity:
+    display: Amforc/5
+  stash: 16FbDvXPY5zpcaeHDh2Sh4p9fVB2vqjJYE2GEKfbB7XR8CdM
+- identity:
+    display: Amforc/6
+  stash: 1h1jb9csXS7dbmW2sh7L8oNdyMXhR2BaHTssMfjGna4U4H8
