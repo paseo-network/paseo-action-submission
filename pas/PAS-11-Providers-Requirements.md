@@ -25,7 +25,7 @@ Telemetry: https://telemetry.polkadot.io/#list/0x77afd6190f1554ad45fd0d31aee62aa
 Grafana: http://grafana.paseo.site/
 
 ### Validator Performance Requirement
-The validators should reach at least 80% ( B > ) of validating performance for the whole quarter according to the metrics provided by the Turboflake portal:
+The validators should reach at least 80% of score (B grade) of validating performance for the whole quarter according to the metrics provided by the Turboflake portal:
 
 https://apps.turboflakes.io/?chain=paseo#/insights
 
@@ -33,3 +33,6 @@ https://apps.turboflakes.io/?chain=paseo#/insights
 
 ### Communication Response Time
 The provider should answer to a DM or tag in the Core & Infra channel within 72 hours of the message.
+
+### Node Versions
+Nodes must be upgraded to the latest stable release within one week of its official availability.
