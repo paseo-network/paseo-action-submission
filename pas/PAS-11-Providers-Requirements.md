@@ -32,7 +32,7 @@ https://apps.turboflakes.io/?chain=paseo#/insights
 **Exception Policy for Outages**:In case any provider suffers an outage or any service disruption, the exception could be applied if the issue is communicated proactively by the provider and they maintain active communication with the core group.
 
 ### Communication Response Time
-The provider should answer to a DM or tag in the Core & Infra channel within 72 hours of the message.
+To ensure timely coordination and smooth progress on technical matters, the provider is expected to respond to a direct message or a tag in the Core & Infra channel within 72 hours of being contacted```
 
 ### Node Versions
 Nodes must be upgraded to the latest stable release within one week of its official availability.
