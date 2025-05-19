@@ -25,7 +25,9 @@ Telemetry: https://telemetry.polkadot.io/#list/0x77afd6190f1554ad45fd0d31aee62aa
 Grafana: http://grafana.paseo.site/
 
 ### Validator Performance Requirement
-The validators should reach at least 80% of validating performance for the whole quarter according to the metrics provided by the Turboflake portal.
+The validators should reach at least 80% ( B > ) of validating performance for the whole quarter according to the metrics provided by the Turboflake portal:
+
+https://apps.turboflakes.io/?chain=paseo#/insights
 
 **Exception Policy for Outages**:In case any provider suffers an outage or any service disruption, the exception could be applied if the issue is communicated proactively by the provider and they maintain active communication with the core group.
 
