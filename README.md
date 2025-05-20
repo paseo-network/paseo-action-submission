@@ -47,3 +47,4 @@ Each PAS should have the following parts:
 - [PAS 8 - Payouts](https://github.com/paseo-network/paseo-action-submission/blob/main/pas/PAS-8-Payouts.md)
 - [PAS 9 - Onboard Paras Slots](https://github.com/paseo-network/paseo-action-submission/blob/fix-44-pas/pas/PAS-9-Onboard-paras-slots.md)
 - [PAS 10 - Onboard Paras Coretime](./pas/PAS-10-Onboard-paras-coretime.md)
+- [PAS 11 - Providers Requirements](./pas/PAS-11-Providers-Requirements.md)
