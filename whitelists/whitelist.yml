@@ -451,3 +451,5 @@ whitelist:
     address: 1TuNp66PHDK9SgcAe7zPKDHhs9RCXrAJWvAFjZnCbCZWuZ6
   - name: QF Parachain
     address: 1NouVnGV7Pz3ARz4EHnoDx6hHyY94PxnttpxUvnZJVfkUTf
+  - name: PRMC/4845
+    address: 13QtuXhb8SecJacGUVHgj4fTkcp1dRBxGcXedpdNdVCjQ1qt
