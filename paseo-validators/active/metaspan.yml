@@ -3,32 +3,26 @@ identity:
   display: metaspan
   email: derek@metaspan.com
   website: https://metaspan.com
-  twitter: @metaspan_io
+  twitter: "@metaspan_io"
   discord: metaspan
-  riot: @metaspan:matrix.org
+  riot: "@metaspan:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: METASPAN
-    stash: 5EResBHk8rwXfd1fxrhUqR5b8fFHxkzCtLLk9GSopgAnmP5v
-  1:
-    identity:
-      display: METASPAN/2
-    stash: 5GjQw9YE8dd9pobndLDoEc1CQQzTZY8d9kiyTzPQU6arWcRh
-  2:
-    identity:
-      display: METASPAN/3
-    stash: 5FsreMewz5vnEDnbfk9wk5GUc5YuXqu8psgHY1f7nSPnAGur
-  3:
-    identity:
-      display: METASPAN/4
-    stash: 5Gq339WsBjq9cQet63Ww5huHZW6XFUcB2ccJRevpVixrhDak
-  4:
-    identity:
-      display: METASPAN/5
-    stash: 13VopNL9R3DZMiMXbRyyB3HaWbYdDdMZrst2hK68pzoQipEw
-  5:
-    identity:
-      display: METASPAN/6
-    stash: 5CrTimz4aJk2HDWaK4JLxUe3a9kvjodpDAyWMXU1ED9dpjxh
+- identity:
+    display: METASPAN
+  stash: 13Mx1WYozeD17A2BvVkUyZujzHEwf4YLxq5EJZSANmCJwwne
+- identity:
+    display: METASPAN/2
+  stash: 15fi5UoHzQtdGLcJayGoNkqMG2z7FqgmEFTTdHNm2BcNhFqK
+- identity:
+    display: METASPAN/3
+  stash: 14p9ngv1qsCFfko7dPCwtE6dThYZE9TGuNQmhJeULXRJLjcv
+- identity:
+    display: METASPAN/4
+  stash: 15mLBUmw3X6d3wfQ3gZwDrjSR86AwnAK77LnawvB3ozNsjED
+- identity:
+    display: METASPAN/5
+  stash: 13VopNL9R3DZMiMXbRyyB3HaWbYdDdMZrst2hK68pzoQipEw
+- identity:
+    display: METASPAN/6
+  stash: 1nks7F8S61VikX6GhMM6dUCRmkaS7BxHfhzWpTMnJB9zydG

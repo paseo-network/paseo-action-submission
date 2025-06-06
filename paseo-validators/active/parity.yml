@@ -2,28 +2,22 @@ identity:
   display: Parity Technologies
   email: devops@parity.io
   website: https://parity.io
-  twitter: @paritytech
+  twitter: "@paritytech"
 
 accounts:
-  0:
-    identity:
-      display: PARITY-VALIDATOR-0
-    stash: 5Ea38N1YzxnfDEkGRNixPE4oXALAuMK4XDoYpH4fyZahdrLL
-  1:
-    identity:
-      display: PARITY-VALIDATOR-1
-    stash: 5Ekiz65F512P4c7CymJnkCKbLRKyysTaPw9uF9vrXErEL9U7
-  2:
-    identity:
-      display: PARITY-VALIDATOR-2
-    stash: 5FToUnX7P1WT2ADZqVpFVNUT6iAfJHbnKSJSucuGxrNLLWQN
-  3:
-    identity:
-      display: PARITY-VALIDATOR-3
-    stash: 5EesTcZ3Cv9QLbnBzFawBdkhtuwhJ6RGieKbKrPQHH1uaYaY
+- identity:
+    display: PARITY-VALIDATOR-0
+  stash: 13WLGhGcrk48emknP1mxXNtxNnKpbesCbiY2ya42XecDpEJh
+- identity:
+    display: PARITY-VALIDATOR-1
+  stash: 13h28RLJvnHrW97iwQMntM9kC3KdgB1iURtPQSvD5KskWgPs
+- identity:
+    display: PARITY-VALIDATOR-2
+  stash: 14Q6d7nBEnmvThE5o8sFdXJbxLAJzb9vPw2w4utdWwPrWosa
+- identity:
+    display: PARITY-VALIDATOR-3
+  stash: 13bAbwp74hQsn8nhwtdwKnarkXwLzPyQo945V9NkqN3Rm4vE
+- identity:
+    display: PARITY-VALIDATOR-4
+  stash: 14Gv6k3msBPfVgjg2RcVNgsj1r6eH6V7pVXWnmjdEZTrzzxs
 
-  4:
-    identity:
-      display: PARITY-VALIDATOR-4
-    stash: 5FLcxQni1Q8C49jA4nZVEY3aAE6zanvyjzo2dUkGgUSLpZHt
-  

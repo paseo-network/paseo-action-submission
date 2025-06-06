@@ -4,30 +4,24 @@ identity:
   website: https://stakeworld.io
   twitter: na
   discord: na
-  riot: '@stakeworld:matrix.org'
+  riot: "@stakeworld:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: STAKEWORLD.IO
-    stash: 5ENXgjWyXkG6zdanViiF4xJcfZ1DS6SYPyg8vdenKVub6tXG
-  1:
-    identity:
-      display: STAKEWORLD.IO/01
-    stash: 5FcLU3AFBdr1yLmq8Egpy2ZwxgECL1deM1bUsgQw5g7MoibY
-  2:
-    identity:
-      display: STAKEWORLD.IO/02
-    stash: 5HVUs7BYTpD8jq1HhqVuFqyhmpM24sPP19NWEqwM8e2TW42E
-  3:
-    identity:
-      display: STAKEWORLD.IO/03
-    stash: 5EkTMUxkniWNoUhcnVG2xidhkQaAHPwKSkPgEUrdSotdkpcA
-  4:
-    identity:
-      display: STAKEWORLD.IO/04
-    stash: 1eaKp1U1wE2QhL29c5Yf23bkG1UvnBJoZCAakjHtbwwYybP  
-  5:
-    identity:
-      display: STAKEWORLD.IO/05
-    stash: 15tvhLvPh2DqKj9HpNfugHP2hxN228XvUmv1cujzr2Xn9c4B
+- identity:
+    display: STAKEWORLD.IO
+  stash: 13Jpq4n3PXXaSAbJTMmFD78mXAzs8PzgUUQd5ve8saw7HQS5
+- identity:
+    display: STAKEWORLD.IO/01
+  stash: 14YdcNRK3R7VQsnM5sjq7BQ6pJDr2KBnRWKy2yQHdm8szNZD
+- identity:
+    display: STAKEWORLD.IO/02
+  stash: 16Rn1SScKbUcBN1ofUYuPzordSLfmAwX5e6zQ8vhgj3ygLqS
+- identity:
+    display: STAKEWORLD.IO/03
+  stash: 13gkVpDpeVmrF1i8k8K36sTrc2ZoyhVTXF8APmqyztv9wKvv
+- identity:
+    display: STAKEWORLD.IO/04
+  stash: 1eaKp1U1wE2QhL29c5Yf23bkG1UvnBJoZCAakjHtbwwYybP
+- identity:
+    display: STAKEWORLD.IO/05
+  stash: 15tvhLvPh2DqKj9HpNfugHP2hxN228XvUmv1cujzr2Xn9c4B

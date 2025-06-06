@@ -3,32 +3,26 @@ identity:
   display: Dwellir
   email: info@dwellir.com
   website: https://dwellir.com
-  twitter: '@DwellirOfficial'
+  twitter: "@DwellirOfficial"
   discord: na
-  riot: '@dwellir:matrix.org'
+  riot: "@dwellir:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: DWELLIR PASEO
-    stash: 5FRWXfgHjZVXs7BSP4yBB2b8fgczRof5zynJjbgud6ptRrUA
-  1:
-    identity:
-      display: DWELLIR PASEO 2
-    stash: 5EceVbpmrw2nP72QzXRvkqRTz2Wq5zuZ3pMeok49Hk2KgdeV
-  2:
-    identity:
-      display: DWELLIR PASEO 3
-    stash: 5FESKnoNzzhXesGA9XR9R23wt3Rzfo4Ydsvbg5EgACt8A1au
-  3:
-    identity:
-      display: DWELLIR PASEO 4
-    stash: 5DqBTkVeqJf7iKWJLUxNuj9E8reDwVMfPqdkutJw5DnGftY8
-  4:
-    identity:
-      display: DWELLIR PASEO 5
-    stash: 5FbfhUu6pQWZWy6AXoXCcZVEkoCe4TgFaTAKhSeuCMpt4aYY
-  5:
-    identity:
-      display: DWELLIR PASEO 6
-    stash: 5EbiZKWABPeKgWEnwU2pFHRg8b1EFLqNrdK4Tm1kVQ3dHeXB
+- identity:
+    display: DWELLIR PASEO
+  stash: 14MofzwMbLm1JeBxLi2BKBRHXJce87DE5UWnttgGBBrQcEy9
+- identity:
+    display: DWELLIR PASEO 2
+  stash: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
+- identity:
+    display: DWELLIR PASEO 3
+  stash: 14AjU84Srmy16QGg7AU9ZAt6jfReN6cgiNf5qNE2iHueLisb
+- identity:
+    display: DWELLIR PASEO 4
+  stash: 12mUc5kih5vb9rWpJ81P3syNzUdsdnuoULNF5BJHdJonr7ie
+- identity:
+    display: DWELLIR PASEO 5
+  stash: 14XxqpAAgBn2xW6gVSaCkiKPcRCHkmEPewtorjeFkSrQExhF
+- identity:
+    display: DWELLIR PASEO 6
+  stash: 13Y1hemE3Auo83FJu75pPSFpzCzswePWw83Yd4173V59UCQf

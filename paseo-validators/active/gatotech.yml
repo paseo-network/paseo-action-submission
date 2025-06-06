@@ -3,32 +3,26 @@ identity:
   display: Gatotech
   email: info@gatotech.uk
   website: https://gatotech.uk
-  twitter: '@gatotech_uk'
+  twitter: "@gatotech_uk"
   discord: gatotech_uk
-  riot: '@gatotech:matrix.org'
+  riot: "@gatotech:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: GATOTECH/1
-    stash: 14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X
-  1:
-    identity:
-      display: GATOTECH/2
-    stash: 15ct392wVXxZdWjuSJuJ4PXn8SG1wzgzfCk6oHo6s54r75hB
-  2:
-    identity:
-      display: GATOTECH/3
-    stash: 16ct38zjLsDajHhU7G8WhWbUn47JswRGvZyLpbEFrHtzTuuK
-  3:
-    identity:
-      display: GATOTECH/4
-    stash: 16ct38RMD4pwgWVCZFkcfoo48ArivpCqGUWQqRumNWamotvM
-  4:
-    identity:
-      display: GATOTECH/5
-    stash: 14ct38LihwyfMVGjcjnWR4V6puU2EfkyaRXEvgu6ASuvJF8n
-  5:
-    identity:
-      display: GATOTECH/6
-    stash: 15ct38wCsWX3tcMGPpNv2bjdQ248ogQ7fJyps5Dus82rHr6G
+- identity:
+    display: GATOTECH/1
+  stash: 14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X
+- identity:
+    display: GATOTECH/2
+  stash: 15ct392wVXxZdWjuSJuJ4PXn8SG1wzgzfCk6oHo6s54r75hB
+- identity:
+    display: GATOTECH/3
+  stash: 16ct38zjLsDajHhU7G8WhWbUn47JswRGvZyLpbEFrHtzTuuK
+- identity:
+    display: GATOTECH/4
+  stash: 16ct38RMD4pwgWVCZFkcfoo48ArivpCqGUWQqRumNWamotvM
+- identity:
+    display: GATOTECH/5
+  stash: 14ct38LihwyfMVGjcjnWR4V6puU2EfkyaRXEvgu6ASuvJF8n
+- identity:
+    display: GATOTECH/6
+  stash: 15ct38wCsWX3tcMGPpNv2bjdQ248ogQ7fJyps5Dus82rHr6G

@@ -2,32 +2,26 @@ identity:
   display: CoinStudio
   email: coinstudio.polkadot@gmail.com
   website: na
-  twitter: @CoinStudio3
+  twitter: "@CoinStudio3"
   discord: CoinStudio
-  riot: @coinstudio:matrix.org
+  riot: "@coinstudio:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: CoinStudio
-    stash: 5FJ7mri5qMgoAA1u6GptebqbPT1QXpPggoABrpgs2NJprKwz
-  1:
-    identity:
-      display: CoinStudio/02
-    stash: 5HRKPCr1YaRKLGJLMeG41iHs82XiAduBFgVasn8mMBfobneH
-  2:
-    identity:
-      display: CoinStudio/03
-    stash: 5G7NJQJGv9CLwaxVzeuMx8Z1jc2v32pkTEYT7EcbzdvSVNS3
-  3:
-    identity:
-      display: CoinStudio/04
-    stash: 5H61XpmwqpD6QgfFQxyTPaio28nfJtdhRd5n3gBZGves7M52
-  4:
-    identity:
-      display: CoinStudio/05
-    stash: 5EoHHQzSW7NLZfdY8TiU7spJe1zvfuvHrWzTFDEC6Z1fUxLW
-  5:
-    identity:
-      display: CoinStudio/06
-    stash: 5EjuQGHhvm6PHhJW2x3H1BhngskjxSRXCZfDAt2QLR39ASQq
+- identity:
+    display: CoinStudio
+  stash: 14EQvBy9h8xGbh2R3ustnkfkF514E7wpmHtg27gDaTLM2str
+- identity:
+    display: CoinStudio/02
+  stash: 16McXY75QMgnmoJrKHK49s81yeXMrwTKLBE53587uGhKnLBY
+- identity:
+    display: CoinStudio/03
+  stash: 153fSjZLmvTpP7y1xHxN6HPAbE2ZjLNtXjGwGXbxYiwxfnLN
+- identity:
+    display: CoinStudio/04
+  stash: 162JgA31hbUZrDfmNc2TXjYwsknK1CBqW7pGCyAuq1gPHXHA
+- identity:
+    display: CoinStudio/05
+  stash: 13jaRkFWMtdp1Ce466mUG2eTVdzaNDURw1iwQWDYee3BfXYf
+- identity:
+    display: CoinStudio/06
+  stash: 13gCYbYmnYMrjEK1zb6H9LXwYVkPejyfH4PhLB1ktW4fLt1q

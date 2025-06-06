@@ -2,32 +2,26 @@ identity:
   display: FARADAY
   email: hello@faradaynodes.com
   website: https://faradaynodes.com
-  twitter: @FaradayNodes
+  twitter: "@FaradayNodes"
   discord: faradaynodes
-  riot: @faradaynodes:matrix.org
+  riot: "@faradaynodes:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: FARADAY
-    stash: 5CnuZRDpqnMLwPXSQcLBQB3dhUgjgAG2MJKgJLUKoPFiKLsh
-  1:
-    identity:
-      display: FARADAY/02
-    stash: 5G3hPJKHBy2A7G3zwDdS9PHEMZRqV93N4x24yQozYMPqAE1s
-  2:
-    identity:
-      display: FARADAY/03
-    stash: 5GNgVqn7AjuGx3Jsp3LC6UmpzmqJSdV7DiSNipfGa9rqQV7M
-  3:
-    identity:
-      display: FARADAY/04
-    stash: 5EkAqMRtLkD2aHQdg9jCjhkcS61CJodxN2Gqgr3DHssW5pp8
-  4:
-    identity:
-      display: FARADAY/05
-    stash: 5GsZVhD4W5XBKCxXYog1iPyYu9ToEAqqgxVqZ8ydZM7uBZd9
-  5:
-    identity:
-      display: FARADAY/06
-    stash: 5CVFGAeQ5kYdif4fta5Kzc2Vry3YoQ1RQMXr7KKFBCZoiyuD
+- identity:
+    display: FARADAY
+  stash: 1jChkUthZcpNvXxNFPBYKsnZ6gPNTpARo4ATdTgMUHEW41f
+- identity:
+    display: FARADAY/02
+  stash: 14yzXdaM3kHdYo4WtrgSHY7PDBRVBSbW9SkZ8hoM6SRMLfGv
+- identity:
+    display: FARADAY/03
+  stash: 15JyeB3B2XAkPaKPmgPCEdbyrPpx8w3FJDArt7ed8EtMb3ka
+- identity:
+    display: FARADAY/04
+  stash: 13gTyggxCXUW1pR9dnnCsramHhzr17C6SX1Kr92Zqxu2GBLS
+- identity:
+    display: FARADAY/05
+  stash: 15ore2U8Mrnekjy3WSj1rYohkmTSvUPymTEKiRxz7S9RMpLh
+- identity:
+    display: FARADAY/06
+  stash: 1RYQVuTwXp7AC5BrD8L8kreib3CVhZZUrGLGcJbjHbKuP4h

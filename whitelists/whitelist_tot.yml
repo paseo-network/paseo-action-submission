@@ -2,6 +2,8 @@ disableBot: false
 disableWhitelist: false
 balanceTarget: 10000
 balanceThreshold: 10000
+accountsToUnstake:
+  - address: 1fSoTsjobb2CU2RmbomCbpurhtYLnwULXoRNbsGA5J59b7U
 whitelist:
   - name: root
     address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3

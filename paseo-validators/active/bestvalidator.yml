@@ -2,32 +2,26 @@ identity:
   display: BestValidator
   email: hello@bestvalidator.com
   website: https://bestvalidator.com
-  twitter: @mosonyi_zoltan
+  twitter: "@mosonyi_zoltan"
   discord: mosonyi
-  riot: @mosonyi:matrix.org
+  riot: "@mosonyi:matrix.org"
 
 accounts:
-  0:
-    identity:
-      display: BESTVALIDATOR/PAS1
-    stash: 5HQmaKFE96LL1XVnsNSzxKuPpfKdvqDigTvQpB3kTXQguZ2B
-  1:
-    identity:
-      display: BESTVALIDATOR/PAS2
-    stash: 5GKZxQUUmm3XkiUwU9JtLYGSw7KfkLPuRzrEfDf9NAUXznSW
-  2:
-    identity:
-      display: BESTVALIDATOR/PAS3
-    stash: 5DJb44caCLAgfgxBDcP3Q5GQ4SGpMHAGyrXPyMnz6FrYSXED
-  3:
-    identity:
-      display: BESTVALIDATOR/PAS4
-    stash: 5Cf7QK3jhYhX2iWdvFmQZnL2TDKkRjiNQ1DsnWfMX9SfHyJy
-  4:
-    identity:
-      display: BESTVALIDATOR/PAS5
-    stash: 16DCWz6gpC4UQnGDDrdDAnRDTW6cowGcrgwjkLWSDZgi7qCw
-  5:
-    identity:
-      display: BESTVALIDATOR/PAS6
-    stash: 15XaoCMRWCZv9fgeUCh5Gm6DRTbWeHJCmKZ3C4F9TgBRBoaV
+- identity:
+    display: BESTVALIDATOR/PAS1
+  stash: 16M4ieWHzsboT4WJq1W16UjYgHKHd8mrkxetyU371cSD5tvV
+- identity:
+    display: BESTVALIDATOR/PAS2
+  stash: 15Fs6jjYdYK1CFVTRnMtUh6bnjKKSdx3WVaipWeVvFW4B6Xa
+- identity:
+    display: BESTVALIDATOR/PAS3
+  stash: 12EtCPse47SA7DxhBFS3YE6Yv4GU3aiR4MFt8enLeLt4cqar
+- identity:
+    display: BESTVALIDATOR/PAS4
+  stash: 1bQYeJoZKxzUFX9stpQhwABJqKQ83GWUVxMwoei5EUBUVJE
+- identity:
+    display: BESTVALIDATOR/PAS5
+  stash: 16DCWz6gpC4UQnGDDrdDAnRDTW6cowGcrgwjkLWSDZgi7qCw
+- identity:
+    display: BESTVALIDATOR/PAS6
+  stash: 15XaoCMRWCZv9fgeUCh5Gm6DRTbWeHJCmKZ3C4F9TgBRBoaV
