@@ -4,6 +4,7 @@ balanceTarget: 10000
 balanceThreshold: 10000
 accountsToUnstake:
   - address: 1fSoTsjobb2CU2RmbomCbpurhtYLnwULXoRNbsGA5J59b7U
+  - address: 1nSo4wkjicerqXgEhEgzQhosLKLrMzVXdsQs36Bd4tEZpWE
 whitelist:
   - name: root
     address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
@@ -23,15 +24,15 @@ whitelist:
     address: 14Gjs1TD93gnwEBfDMHoCgsuf1s2TVKUP6Z1qKmAZnZ8cW5q
   - name: b - alice
     address: 15oF4uVJwmo4TdGW7VfQxNLavjCXviqxT9S1MgbjMNHr6Sp5
-  - name: NOMINATOR #0 (EXTENSION)
+  - name: NOMINATOR
     address: 128tszPRog4ER3DkZ6b7SXBBGDt4Dx6mdB8YwTFS6dABxxDY
-  - name: NOMINATOR #1 (EXTENSION)
+  - name: NOMINATOR
     address: 13QKfB3ojBi8Fc4z5skJB3W7skrGm3DspHXNMuw3hg6PdFoJ
-  - name: NOMINATOR #2 (EXTENSION)
+  - name: NOMINATOR
     address: 15S2wZRsr2fBNemYqgiV8xMEH483gP7rdjqzMwzJZx2rJUYQ
-  - name: NOMINATOR #3 (EXTENSION)
+  - name: NOMINATOR
     address: 148YX3ZGnHteX191naDwmWD4RdfJg1hTSf3LYWnoAi3g5vLs
-  - name: NOMINATOR #4 (EXTENSION)
+  - name: NOMINATOR
     address: 13dFP7oMYsuGauDhd6bw4BLk5ytZKPFSqsHwWKWTdpzZ3RwL
   - name: NOMINATOR 5 (EXTENSION)
     address: 14VU9u425dCEHoRxTdDprHFyXqPppMvFgryLMbZ1GKLfwEaR
