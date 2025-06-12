@@ -437,7 +437,7 @@ whitelist:
     address: 15ore2U8Mrnekjy3WSj1rYohkmTSvUPymTEKiRxz7S9RMpLh
   - name: FARADAY 6
     address: 1RYQVuTwXp7AC5BrD8L8kreib3CVhZZUrGLGcJbjHbKuP4h
-  - name: 🐟Blackfin Tuna🐟	
+  - name: 🐟Blackfin Tuna🐟
     address: 16QCvVK7FQmWLBs2bmz6F8JvgQK5B2chXGTUY88y2YwenDUz
   - name: 🐟Blackfin Tuna🐟/🌊Adriatic🌊
     address: 15QCWmhJwSJmunidxERsEFmsL4um3QrhM5ygpaME2giFXXPN
@@ -453,3 +453,15 @@ whitelist:
     address: 1NouVnGV7Pz3ARz4EHnoDx6hHyY94PxnttpxUvnZJVfkUTf
   - name: PRMC/4845
     address: 13QtuXhb8SecJacGUVHgj4fTkcp1dRBxGcXedpdNdVCjQ1qt
+accountsToUnstake:
+  - address: 1KMtookzJ1p6vXb6tRARhj8CFqMjhoibsr3y1VWy9SQHb76
+  - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
+  - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
+  - address: 15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6
+  - address: 12Mu3tC4fYEzZ44vBbuk9LCapARk4gcdDh2Cn1NtBYfZ6rq6
+  - address: 16iVnQkqrf4jVfxJDezkvaxHDqisANjSYkcdqXLbXCLaSqBe
+  - address: 1LR7FPh85MiQpCa3oR639BPMS43j9ube1FEVmsc5DA6TEz1
+  - address: 155cNvnFmRfG1o9GMSyWpEeEXdaqDC4Fkef8X8e6SxcWMggd
+  - address: 14u9dEGTLgwwzQ6oMm6bN2mt7xxwEko8qciKw9jg3Uc4pYjA
+  - address: 16esp1HcsdiBb3z1WzuNrZXE4xCbRE3UWya3sG9bErNAH43D
+  - address: 1533pySTQygrVju1sAEoNUcSuFGtiKAq2Qmq8nXbLpMYxqwZ
