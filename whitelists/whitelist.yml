@@ -453,3 +453,5 @@ whitelist:
     address: 1NouVnGV7Pz3ARz4EHnoDx6hHyY94PxnttpxUvnZJVfkUTf
   - name: PRMC/4845
     address: 13QtuXhb8SecJacGUVHgj4fTkcp1dRBxGcXedpdNdVCjQ1qt
+  - name: Parity PDP
+    address: 13ihzQgscAofUtquwmsymSPKtoxwYvrpMxtFRnqg49ykdfzn
