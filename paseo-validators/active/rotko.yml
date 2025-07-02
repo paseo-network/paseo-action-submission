@@ -1,0 +1,16 @@
+identity:
+  address: "5Hp8jff3VpdMf65hCU7WCirU4XsjwaCQTePdFLpHKmCVBi3J"
+  display: "ROTKO NETWORKS"
+  email: "hq@rotko.net"
+  website: "https://rotko.net"
+  twitter: "@rotkonetworks"
+  riot: "@hitchhooker:matrix.org"
+
+accounts:
+- identity:
+    display: "ROTKO NETWORKS/01"
+  stash: 15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6
+- identity:
+    display: "ROTKO NETWORKS/02"
+  stash: 14cQdSZy4FdLXa36dgVd6BWt41Fd1j6pkf8hPXFsWm1f9orX
+
