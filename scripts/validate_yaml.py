@@ -75,10 +75,11 @@ def main():
     """Main validation function"""
     print("🔍 Finding YAML files...")
     
-    # Find all YAML files
+    # Find all YAML files, excluding .github directory
     yaml_files = []
     for pattern in ['*.yml', '*.yaml']:
-        yaml_files.extend(Path('.').rglob(pattern))
+        all_files = Path('.').rglob(pattern)
+        yaml_files.extend([f for f in all_files if '.github' not in str(f)])
     
     print(f"Found {len(yaml_files)} YAML files")
     for yaml_file in sorted(yaml_files):
