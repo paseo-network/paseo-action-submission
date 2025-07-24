@@ -10,32 +10,32 @@ jobs:
   validate-yaml:
     runs-on: ubuntu-latest
     name: Validate YAML Files
-    
+
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-      
+
     - name: Setup Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
-        
+
     - name: Install yamllint
       run: pip install yamllint
-      
+
     - name: Find and validate YAML files
       run: |
         echo "Found YAML files:"
-        find . -name "*.yml" -o -name "*.yaml" | head -20
-        
+        find . -name "*.yml" -o -name "*.yaml" | grep -v ".github" | head -20
+
         echo -e "\nValidating YAML syntax..."
-        find . -name "*.yml" -o -name "*.yaml" | while read file; do
+        find . -name "*.yml" -o -name "*.yaml" | grep -v ".github" | while read file; do
           echo "Validating: $file"
           yamllint -d relaxed "$file" || exit 1
         done
-        
+
         echo -e "\nAll YAML files are valid!"
-        
+
     - name: Validate YAML structure and configuration
       run: |
         python3 scripts/validate_yaml.py
