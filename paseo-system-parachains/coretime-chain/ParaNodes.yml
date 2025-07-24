@@ -1,10 +1,10 @@
 identity:
   display: ParaNodes.io
-  email: support@paranodes.io
+  email: "support@paranodes.io"
   website: paranodes.io
-  twitter: @ParaNodes
+  twitter: "@ParaNodes"
   discord: paranodes.io
-  riot: @paradoxxx:matrix.org
+  riot: "@paradoxxx:matrix.org"
 
 system_chain: Coretime
 

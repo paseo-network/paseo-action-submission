@@ -1,10 +1,10 @@
 identity:
   display: Lucky Friday Labs
-  email: info@luckyfriday.io
+  email: "info@luckyfriday.io"
   website: https://luckyfriday.io
-  twitter: @LuckyFridayLabs
+  twitter: "@LuckyFridayLabs"
   discord: luckyfridaymark
-  riot: @luckyfriday:matrix.org
+  riot: "@luckyfriday:matrix.org"
 
 accounts:
   0:

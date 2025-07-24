@@ -1,9 +1,9 @@
 identity:
   display: turboflakes.io
-  email: support@turboflakes.io
+  email: "support@turboflakes.io"
   website: https://turboflakes.io
-  twitter: @turboflakes
-  riot: @turboflakes:matrix.org
+  twitter: "@turboflakes"
+  riot: "@turboflakes:matrix.org"
 
 system_chain: AssetHub
 

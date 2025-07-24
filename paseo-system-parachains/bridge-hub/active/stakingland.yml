@@ -1,10 +1,10 @@
 identity:
   display: Staking Land
-  email: stakingland@telutions.com
+  email: "stakingland@telutions.com"
   website: https://stakingland.de
-  twitter: @erco773
+  twitter: "@erco773"
   discord:
-  riot: @erk773:matrix.org
+  riot: "@erk773:matrix.org"
 
 system_chain: BridgeHub
 

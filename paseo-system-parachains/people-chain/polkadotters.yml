@@ -1,10 +1,10 @@
 identity:
   display: Polkadotters
-  email: polkadotters@protonmail.com
+  email: "polkadotters@protonmail.com"
   website: https://polkadotters.com
-  twitter: @Polkadotters1
+  twitter: "@Polkadotters1"
   discord: pmensik#3434
-  riot: @pmensik:matrix.org
+  riot: "@pmensik:matrix.org"
 
 system_chain: People
 
