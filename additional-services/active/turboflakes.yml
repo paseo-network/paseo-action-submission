@@ -2,6 +2,6 @@ serviceName: ONE-T Web dashboard
 description: Monitor and explorer for Paseo Network to evaluate validator performances and network status
 provider: turboflakes.io
 email: support@turboflakes.io
-matrix: @turboflakes:matrix.org
+matrix: "@turboflakes:matrix.org"
 costPerQuarter: $450
 startDate: 01/06/2024

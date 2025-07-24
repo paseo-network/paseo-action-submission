@@ -1,11 +1,11 @@
 # Identity to be set up for all system chain collators running by Example
 identity:
   display: Example
-  email: hi@example.io
+  email: "hi@example.io"
   website: https://example.io
-  twitter: @example
+  twitter: "@example"
   discord: example
-  matrix: @example:matrix.org
+  matrix: "@example:matrix.org"
 
 system_chain: BridgeHub
 

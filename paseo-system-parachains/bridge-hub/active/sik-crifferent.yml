@@ -1,10 +1,10 @@
 identity:
   display: Sik | crifferent.de
-  email: simon.kraus@crifferent.de
+  email: "simon.kraus@crifferent.de"
   website: https://crifferent.de
-  twitter: @dev0_sik
+  twitter: "@dev0_sik"
   discord: dev0_sik
-  riot: @dev0_sik:matrix.org
+  riot: "@dev0_sik:matrix.org"
 
 system_chain: BridgeHub
 

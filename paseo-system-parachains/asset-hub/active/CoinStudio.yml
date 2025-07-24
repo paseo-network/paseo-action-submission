@@ -2,9 +2,9 @@ identity:
   display: CoinStudio
   email: coinstudio.polkadot@gmail.com
   website: na
-  twitter: @CoinStudio3
+  twitter: "@CoinStudio3"
   discord: CoinStudio
-  riot: @coinstudio:matrix.org
+  riot: "@coinstudio:matrix.org"
 
 system_chain: AssetHub
 
