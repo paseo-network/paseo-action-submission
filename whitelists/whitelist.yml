@@ -455,3 +455,5 @@ whitelist:
     address: 13QtuXhb8SecJacGUVHgj4fTkcp1dRBxGcXedpdNdVCjQ1qt
   - name: Parity PDP
     address: 13ihzQgscAofUtquwmsymSPKtoxwYvrpMxtFRnqg49ykdfzn
+  - name: Parity nominator stash
+    address: 13maujzA7BnLGiH5VTtE58FQv5nTNHiBTxyVv2uzRKKLZSV7
