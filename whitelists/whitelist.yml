@@ -457,3 +457,5 @@ whitelist:
     address: 13ihzQgscAofUtquwmsymSPKtoxwYvrpMxtFRnqg49ykdfzn
   - name: Parity nominator stash
     address: 13maujzA7BnLGiH5VTtE58FQv5nTNHiBTxyVv2uzRKKLZSV7
+  - name: AH_migration_parity
+    address: 14iw76ZmY7BzFfBYrTrCnMyAzU5X4LY5jCFN6XuSnTYnzaTe
