@@ -5,459 +5,916 @@ balanceThreshold: 5000
 whitelist:
   - name: AMFORC
     address: 129nK5nVDE2EDPBYwUubQ5DMRW8cGh95hTm5QDBDkPSwtxeZ
+    role: manual
   - name: AMFORC 2
     address: 12YWEqu8ZfeRAm9dKLNvvA7NowApiy7T7gpdMQDoeLzHhbeK
+    role: manual
   - name: AMFORC 3
     address: 16aFKS1UHi1VPtT824bEG86gC7BNPQTgKf7NUxdg1riY1RnG
+    role: manual
   - name: AMFORC 4
     address: 15QGcUSWjsBtsnLU855qRENsyiJFNuQWZmdH7WHZu51zVqKu
+    role: manual
   - name: AMFORC 5
     address: 16FbDvXPY5zpcaeHDh2Sh4p9fVB2vqjJYE2GEKfbB7XR8CdM
+    role: manual
   - name: AMFORC 6
     address: 1h1jb9csXS7dbmW2sh7L8oNdyMXhR2BaHTssMfjGna4U4H8
+    role: manual
   - name: BESTVALIDATOR / PAS1
     address: 16M4ieWHzsboT4WJq1W16UjYgHKHd8mrkxetyU371cSD5tvV
+    role: manual
   - name: BESTVALIDATOR / PAS2
     address: 15Fs6jjYdYK1CFVTRnMtUh6bnjKKSdx3WVaipWeVvFW4B6Xa
+    role: manual
   - name: BESTVALIDATOR/PAS3
     address: 12EtCPse47SA7DxhBFS3YE6Yv4GU3aiR4MFt8enLeLt4cqar
+    role: manual
   - name: BESTVALIDATOR/PAS4
     address: 1bQYeJoZKxzUFX9stpQhwABJqKQ83GWUVxMwoei5EUBUVJE
+    role: manual
   - name: BESTOVALIDATOR/PAS5
     address: 16DCWz6gpC4UQnGDDrdDAnRDTW6cowGcrgwjkLWSDZgi7qCw
+    role: manual
   - name: BESTOVALIDATOR/PAS6
     address: 15XaoCMRWCZv9fgeUCh5Gm6DRTbWeHJCmKZ3C4F9TgBRBoaV
+    role: manual
   - name: COINSTUDIO
     address: 14EQvBy9h8xGbh2R3ustnkfkF514E7wpmHtg27gDaTLM2str
+    role: manual
   - name: COINSTUDIO/02
     address: 16McXY75QMgnmoJrKHK49s81yeXMrwTKLBE53587uGhKnLBY
+    role: manual
   - name: COINSTUDIO/03
     address: 153fSjZLmvTpP7y1xHxN6HPAbE2ZjLNtXjGwGXbxYiwxfnLN
+    role: manual
   - name: COINSTUDIO/04
     address: 162JgA31hbUZrDfmNc2TXjYwsknK1CBqW7pGCyAuq1gPHXHA
+    role: manual
   - name: COINSTUDIO/05
     address: 13jaRkFWMtdp1Ce466mUG2eTVdzaNDURw1iwQWDYee3BfXYf
+    role: manual
   - name: CoinStudio/06
     address: 13gCYbYmnYMrjEK1zb6H9LXwYVkPejyfH4PhLB1ktW4fLt1q
+    role: manual
   - name: DPSTK - VAL 01
     address: 12v3n3ERC9qaGvh8EMpqoqbJ9uTNFfVz5V97SgijopadQQNz
+    role: manual
   - name: DPSTK - VAL 02
     address: 12sbyyn9jmJuDNj4dN9KXG4kFuk73jNzes8iL65EkL2zF2YZ
+    role: manual
   - name: DPSTK - PASEO 3
     address: 1jg7ZiqWG2VRJgCJdbMUmMA58oyxqoYkLKm99cDzSafdL9k
+    role: manual
   - name: DPSTK - PASEO 4
     address: 12ViYnAX7VFhtXsid8maQiUNFKy9tZ8HjjomprLkkqwtM7pj
+    role: manual
   - name: DPSTK - PASEO 5
     address: 13gCPdXBnogPEdtMb9wV58KJx4W433doNR6rr7g6deivTekd
+    role: manual
   - name: DPSTK - PASEO 6
     address: 13N7syj4L8oF4DcLCPt2NvDj3sQBRc2Ys2TtJLVT1DjgNRS8
+    role: manual
   - name: DWELLIR
     address: 14MofzwMbLm1JeBxLi2BKBRHXJce87DE5UWnttgGBBrQcEy9
+    role: manual
   - name: DWELLIR PASEO 2
     address: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
+    role: manual
   - name: DWELLIR PASEO 3
     address: 14AjU84Srmy16QGg7AU9ZAt6jfReN6cgiNf5qNE2iHueLisb
+    role: manual
   - name: DWELLIR PASEO 4
     address: 12mUc5kih5vb9rWpJ81P3syNzUdsdnuoULNF5BJHdJonr7ie
+    role: manual
   - name: DWELLIR PASEO 5
     address: 14XxqpAAgBn2xW6gVSaCkiKPcRCHkmEPewtorjeFkSrQExhF
+    role: manual
   - name: DWELLIR PASEO 6
     address: 13Y1hemE3Auo83FJu75pPSFpzCzswePWw83Yd4173V59UCQf
+    role: manual
   - name: EXTRACOIN /01
     address: 13UBzfbnVVfjknMicPyHAKwNzJdhTDEQC43PqjhmfmBxjguu
+    role: manual
   - name: EXTRACOIN /02
     address: 13TkZwVbsRChsjiFWNGkKFCD4k68QXZCdFaLZp7EamxsHjbc
+    role: manual
   - name: EXTRACOIN/03
     address: 13Tk9s5DxaJCNoGTEYy45Rwaad1WdGyLhoVTMm5KzkD5EE81
+    role: manual
   - name: EXTRACOIN/04
     address: 13TkATvbEHRSKEExaBUm1rLjbBdy7VpGoKSXepe7DW3yfGjx
+    role: manual
   - name: EXTRACOIN/05
     address: 1EXtRkCSH2BT7HS4iAPjGLx62LeVCkgG3EQpCMmvPaktC9p
+    role: manual
   - name: EXTRACOIN/06
     address: 1ExtDsHgxecE4kFfQnRSH1CBxF9cuxDvNz99UJJ21qBjENM
+    role: manual
   - name: gatotech
     address: 1gatoakSkH4be8KD9Ekj5xCXMdAiGxieg2NfTg41s2UME5J
+    role: manual
   - name: GATOTECH/1
     address: 14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X
+    role: manual
   - name: GATOTECH/2
     address: 15ct392wVXxZdWjuSJuJ4PXn8SG1wzgzfCk6oHo6s54r75hB
+    role: manual
   - name: GATOTECH/3
     address: 16ct38zjLsDajHhU7G8WhWbUn47JswRGvZyLpbEFrHtzTuuK
+    role: manual
   - name: GATOTECH/4
     address: 16ct38RMD4pwgWVCZFkcfoo48ArivpCqGUWQqRumNWamotvM
+    role: manual
   - name: GATOTECH/5
     address: 14ct38LihwyfMVGjcjnWR4V6puU2EfkyaRXEvgu6ASuvJF8n
+    role: manual
   - name: GATOTECH/6
     address: 15ct38wCsWX3tcMGPpNv2bjdQ248ogQ7fJyps5Dus82rHr6G
+    role: manual
   - name: LUCKYFRIDAY.IO/01
     address: 14N4LVCYRX7VvxhXnj31Kob2Yi2SMhYxRQSTN3GmsbZFhP5k
+    role: manual
   - name: LUCKYFRIDAY.IO/02
     address: 16cByaE7R4BXkQxDTnM5mXxqzZGLPbvJtfMjm7hxc1CYv9jg
+    role: manual
   - name: LUCKYFRIDAY.IO/03
     address: 1R2A7Z8q69GgvHfym3nNKLJYFUGAUfw4t9T1dctx3b3AgSP
+    role: manual
   - name: LUCKYFRIDAY.IO/04
     address: 15JvQG3wD9BobMmp4QCQAD56CD89k7xzFF4Pg225VBP7LA2n
+    role: manual
   - name: LUCKYFRIDAY.io/05
     address: 13v7CtWKMuVZ3gVt7mXULY2mZgtDKxi78VjJUc4nj1nC4H7s
+    role: manual
   - name: LUCKYFRIDAY.IO/06
     address: 14kxsUE6ReqySWTQb8DBFbtQuKbNYTBFi6wSXgfo4tTXVJwz
+    role: manual
   - name: METASPAN
     address: 13Mx1WYozeD17A2BvVkUyZujzHEwf4YLxq5EJZSANmCJwwne
+    role: manual
   - name: METASPAN/2
     address: 15fi5UoHzQtdGLcJayGoNkqMG2z7FqgmEFTTdHNm2BcNhFqK
+    role: manual
   - name: METASPAN/3
     address: 14p9ngv1qsCFfko7dPCwtE6dThYZE9TGuNQmhJeULXRJLjcv
+    role: manual
   - name: METASPAN/4
     address: 15mLBUmw3X6d3wfQ3gZwDrjSR86AwnAK77LnawvB3ozNsjED
+    role: manual
   - name: METASPAN/5
     address: 13VopNL9R3DZMiMXbRyyB3HaWbYdDdMZrst2hK68pzoQipEw
+    role: manual
   - name: METASPAN/6
     address: 1nks7F8S61VikX6GhMM6dUCRmkaS7BxHfhzWpTMnJB9zydG
+    role: manual
   - name: MILE
     address: 1HznmFfzmCa7XbJ6kTddy239jvYiw3xtGipQDkrwbksyHf9
+    role: manual
   - name: MILE/BRAVO
     address: 13eRz7d5JYLm8Ju1M8ENSwA8MWhHvrQn83s22DamF2Jv12v
+    role: manual
   - name: MILE 3
     address: 15g6GHqsG5mSqMafx9KyGZiHMCLU5oqBwv3nUPQTAD7SFUic
+    role: manual
   - name: MILE 4
     address: 14oiUZRimDZ6Hw8xnyN33kqR1iaTi4a68s4dK3833YKnLRbG
+    role: manual
   - name: MILE 5 ECHO
     address: 1HmagcqorPBKUmKkPs4Kf2Ad4uL9DvU3uZ9euk5i2btRQNt
+    role: manual
   - name: Mile/Foxtrot 6
     address: 1MAZzTWuUocSpLMjXpDqT9Jh4iFc5yikMFPMHdQsvGh2YtE
+    role: manual
   - name: OPENBITLAB
     address: 12TVZ3zNTGhKZ4zqxL3khwDqoz1tyd4WHEDEkWZ7GZM4UH7x
+    role: manual
   - name: OPENBITLAB/02
     address: 15twFRNdHF4YWkHJaZJSJPsBPKiEBVc7wYkNUobooE6pqrRB
+    role: manual
   - name: OPENBITLAB/03
     address: 12zdpeTnSdoz3iLQeaiGH26vTgMwFZ1v1Q7bHGBhFahxCPuK
+    role: manual
   - name: OPENBITLAB/04
     address: 1jqfgEywABDaENJ4AzuVEnhjXGQ4BK5pquBnXDtMjA6jcNg
+    role: manual
   - name: OPENBITLAB/65
     address: 162qwreSRw6zyLwEzUBwaKU1S2Ld1YnkkeLFSi77UKiJkpxM
+    role: manual
   - name: OPENBITLAB/6
     address: 12WdinLqmqxen5SsYoyDepAxSy4A42GMMaTKRxDdLoPJkWbm
+    role: manual
   - name: PARANODES.IO
     address: 16WWmr2Xqgy5fna35GsNHXMU7vDBM12gzHCFGibQjSmKpAN
+    role: manual
   - name: PARANODES.IO/02
     address: 12E2pitSGnojRUWsQy1sikbdD1tC5YHvHf54bpcFghPuZfiA
+    role: manual
   - name: PARANODES.IO/03
     address: 12ErKLifa29iNgjtHpbhSnPS5p7WjZ6sjJG4QPiD51h843kx
+    role: manual
   - name: PARANODES.IO/04
     address: 15XRpHVkHTNS7ATPVuPDtB8PF4fWrCm35s4MpjrDDWLt3zQ1
+    role: manual
   - name: PARANODES.IO/05
     address: 13pcKvGLEidLZenv8ojyjVAaQNLjfCgVDEbQqqN5iNyn5cSx
+    role: manual
   - name: PARANODES.IO/06
     address: 15ca1Ui8a2YjZdDekDxtwcqt66ZdCwaNa377AxYBhVXGVUgP
+    role: manual
   - name: PARITY-VALIDATOR-0
     address: 13WLGhGcrk48emknP1mxXNtxNnKpbesCbiY2ya42XecDpEJh
+    role: manual
   - name: PARITY-VALIDATOR-1
     address: 13h28RLJvnHrW97iwQMntM9kC3KdgB1iURtPQSvD5KskWgPs
+    role: manual
   - name: PARITY-VALIDATOR-2
     address: 14Q6d7nBEnmvThE5o8sFdXJbxLAJzb9vPw2w4utdWwPrWosa
+    role: manual
   - name: PARITY-VALIDATOR-3
     address: 13bAbwp74hQsn8nhwtdwKnarkXwLzPyQo945V9NkqN3Rm4vE
+    role: manual
   - name: PARITY-VALIDATOR-4
     address: 14Gv6k3msBPfVgjg2RcVNgsj1r6eH6V7pVXWnmjdEZTrzzxs
+    role: manual
   - name: POLKADOTTERS
     address: 12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h
+    role: manual
   - name: POLKADOTTERS/ SHRIMP
     address: 12owmS8Sobqxfx6KK9vk9e67FqnGpZdmxCFCRFptzZdsoujC
+    role: manual
   - name: POLKADOTTERS/🐙 OCTOPUS
     address: 1EW4qe6JrL2tDY28jwDbhnkBNWfpTiHhiEuywBSs94CMr9D
+    role: manual
   - name: POLKADOTTERS/🦈 SHARK
     address: 14XmqoXavpGob1zf2gHGMQqWcsR7Azvi9xK1SZLfrJ8ctfqE
+    role: manual
   - name: POLKADOTTERS/SQUID
     address: 14ocbHyjGM7nZah5Bx8nm2Mjbrn6aJ8qxUsh1KukGYdtbiXc
+    role: manual
   - name: POLKADOTTERS/DOLPHIN
     address: 14zx6hSaBXSbcisyEf48cUEJSF21sQLdbnnC3aSzJF6vmPLX
+    role: manual
   - name: RADIUMBLOCK.COM / 01
     address: 15Sd3u99CJK22BBFYB6tuE87ct7GePK3QTKu5ux443zNdaqp
+    role: manual
   - name: RADIUMBLOCK.COM / 02
     address: 1Regtvgr3XBLaiRNFH7ZNHXYYMveVUThUtYXv5tYWp7HJAU
+    role: manual
   - name: RADIUMBLOCK.COM / 03
     address: 1UWLvDuc7e8VNor2TmkvG9M8YGxy5b4yJUDo1CCnX3qcr7m
+    role: manual
   - name: RADIUMBLOCK.COM / 04
     address: 1H85ZaLiUogypQrS8czKfhqrTRuKR373aAosw4hnHswdmH6
+    role: manual
   - name: SIK CRIFFERENTE.DE
     address: 15wepZh1jWNqxBjsgErm8HmYiE21n79c5krQJeTsYAjHddeM
+    role: manual
   - name: SIK 2 CRIFFERENTE.DE
     address: 14m8CmDmksk4cQ5YtvQzRva7J7B2gLCSSD8dwPfyH6WUahrG
+    role: manual
   - name: SIK | CRIFFERENT.DE/3
     address: 15tDfZCj1dsKiFksZXrdgUV6dLeG5dJiQu7ozwcJtSVtWoYX
+    role: manual
   - name: SIK | CRIFFERENT.DE/4
     address: 17LrDuufPyiutyGX19d6Tvq3hLuiQUUtNyyNmCd7qYBVmNc
+    role: manual
   - name: SIK | CRIFFERENT.DE/5
     address: 1BrSeSKiCJofuv2czTTQphMucGJNDjUny1JQoFbe9zbdrcc
+    role: manual
   - name: SIK | CRIFFERENT.DE/6
     address: 1Eu3wjXT7bBeYw3YqrDvudseugJbybEDhBanGWMaBcPKSqF
+    role: manual
   - name: SIMPLY STAKING
     address: 15maXeo31iTeu62rJboj84CazoMqyf3EBmd1vDfPZoBBroqm
+    role: manual
   - name: STAKE PLUS
     address: 13xTAvbANb5yZuFHv3pAKgxmCWYRKXHX5NTRwVChSUoaF7iz
+    role: manual
   - name: STAKE PLUS/02
     address: 13e2rQHUqzWf7nWABeu4Tse1PKKdSnFVYF2a6JKVdN7dVJbo
+    role: manual
   - name: STAKE PLUS/03
     address: 15oarqCWHp2odVetR7qdDi3KQNMvbgcYqwLAruehARwfCJcg
+    role: manual
   - name: STAKE PLUS/04
     address: 15tVviWswB7XRwUEdCiRCDnzV7pEy3iLy2R6TGot9YkhdEWU
+    role: manual
   - name: STAKE PLUS/05
     address: 15YLgGBKMSdc7ANemggnHb6EaBhmzmUiuxJUeQAW544Qg2D5
+    role: manual
   - name: STAKE PLUS/06
     address: 13mQ4eDZrxAtQ1eNGxmx6by7UbHs2cpenxuHJ3PT7QfAECJQ
+    role: manual
   - name: STAKER SPACE/01
     address: 1128LMvaKYP367kgJz5Y4bA68QgUJwLMz14nWLeS36Ts4WZU
+    role: manual
   - name: STAKER SPACE/02
     address: 138g1op1nPsZ3mL6SdDu9KKP41pZxAm6oUA96A7AQWLAQ5gu
+    role: manual
   - name: STAKER SPACE/03
     address: 12N3gvs6SMvQfQN9r6rr18VV6VVEp781uQy1uHNmSn9GTNts
+    role: manual
   - name: STAKER SPACE/04
     address: 13B18z2o12qJ7TsTmWx8pK8mQX7Z9n57mWnW9VHzsUPWgAFj
+    role: manual
   - name: STAKER SPACE/05
     address: 145oNnkx1hB9yNyhSydmqswLn8Vwk5t9WjdQhWsEHFAErQGf
+    role: manual
   - name: STAKER SPACE/06
     address: 167qDBpNQCSymYKYiRRmtkbVqJCpsZeBchnMFtnbU6PkYLfS
+    role: manual
   - name: STAKEWORLD.IO
     address: 13Jpq4n3PXXaSAbJTMmFD78mXAzs8PzgUUQd5ve8saw7HQS5
+    role: manual
   - name: STAKEWORLD.IO/1
     address: 14YdcNRK3R7VQsnM5sjq7BQ6pJDr2KBnRWKy2yQHdm8szNZD
+    role: manual
   - name: STAKEWORLD.IO/02
     address: 16Rn1SScKbUcBN1ofUYuPzordSLfmAwX5e6zQ8vhgj3ygLqS
+    role: manual
   - name: STAKEWORLD.IO/03
     address: 13gkVpDpeVmrF1i8k8K36sTrc2ZoyhVTXF8APmqyztv9wKvv
+    role: manual
   - name: STAKEWORLD.IO/04
     address: 1eaKp1U1wE2QhL29c5Yf23bkG1UvnBJoZCAakjHtbwwYybP
+    role: manual
   - name: STAKEWORLD.IO/05
     address: 15tvhLvPh2DqKj9HpNfugHP2hxN228XvUmv1cujzr2Xn9c4B
+    role: manual
   - name: STAKING LAND 1
     address: 12WnaN6u9TpiC6W6ijMvPPE3znh9Tn8MUEcwKDhwkW3GaLuJ
+    role: manual
   - name: STAKING LAND 2
     address: 16kVF9M2u9Er13cFBnyhgaQpM34kaZPpppyzVTbsAbW2oPhC
+    role: manual
   - name: STAKING LAND 3
     address: 15XLyYM5441ykqfCLZ7yVYnRJaA9c64psuZ2ewGWVJ2wvUgs
+    role: manual
   - name: STAKING LAND 4
     address: 14TKD3BiHE33cVUZzVnfKZyhteAQ4zatUs6vWGMTAhFM2V5y
+    role: manual
   - name: STAKING LAND 5
     address: 12QbtgKwLQCmQv1ZH2Wx3GUXZ4jfy25vqbere7Gzn1FDjsVr
+    role: manual
   - name: STAKING LAND 6
     address: 16AqqqHYYm5otTyLGN5jcSH6cseVPZFbVDMp3SSVXn9F1cdM
+    role: manual
   - name: STKD.IO/01
     address: 15iebFvoLbgvPWRVxEuFoRfKHivLt5tQxtwFYWi7RngHZntC
+    role: manual
   - name: STKD.IO/02
     address: 16XjDDrzTiDMn4DvLHQ2r5xfSuFFGmSXxFGiZzKWzSGtj1hB
+    role: manual
   - name: STKD.IO/03
     address: 12uGKC7G7mpWnZ6D7sRoEe3kEsYHnnTSGuHXgXPBiMeXKjke
+    role: manual
   - name: STKD.IO/04
     address: 16AnmzLXccnT1GAyDz25VHyGjNaxD5jcntP4uewPh6M3Nytt
+    role: manual
   - name: STKD.IO/05
     address: 15fyTZiYUa5xrEmgCBVYnqgpUGcmn3V521ti12bRsxTsgKAh
+    role: manual
   - name: STKD.IO/06
     address: 15VTVoNHtTKkpSihVaBB7GbzWU989vswm3QxAZ8p7pVHtjzS
+    role: manual
   - name: TURBOFLAKES.IO
     address: 1LfAfKweyPjXs4JkKW4AxHPTe7pu4w4HjcZbEtB6a8vMqkd
+    role: manual
   - name: TURBOFLAKES.IO/01
     address: 13iiwNL7mzjuS4KxXEHQ2Csx8fETishXWKzeeCfHCig6j2dd
+    role: manual
   - name: TURBOFLAKES.IO/02
     address: 13ifG5jWQsVJYMhvgXLvdmiY8aHKxhaHqhYPSeMECKrdxcpy
+    role: manual
   - name: TURBOFLAKES.IO/03
     address: 134FKJ6HbdrcyJpqmCAdGus5r4VH1sQ2BmDu5z6GAbTX8U2y
+    role: manual
   - name: TURBOFLAKES.IO/04
     address: 16dHdXJHgMwKGdb5EhkuvTk6p4E1rDe8FbSM3uovhLFWn9V
+    role: manual
   - name: TURBOFLAKES.IO/05
     address: 15XqxovYMHNVzFvjch81NPUeUGHa9afi8i9XwC1frsd4jU76
+    role: manual
   - name: VALIDORANGE PAS1
     address: 155e9sKLCfW8Jk9dsBnav9jQuj3ADxkep9voAEzRLwHLqMZs
+    role: manual
   - name: VALIDORANGE PAS2
     address: 1RjCpv9SfmNUkfBjG2e8taPNinPb6PVmPfvzvFYJVYhTtpY
+    role: manual
   - name: VALIDORANGE PAS3
     address: 1H52MTkDxeSrgNuNLFHJeAnesJK44oM2fMsZYukjrHPc2Gk
+    role: manual
   - name: VALIDORANGE PAS4
     address: 12VkkMVhkyG5RHXJjgJZQGR5bnaaRQq4UrmbeWGKsXLexZxb
+    role: manual
   - name: VALIDORANGE PAS5
     address: 1hWFtc7cPznyNXVUgNaKx3zzFTFoKXj5A22Ksr66RhWgWyj
+    role: manual
   - name: VALIDORANGE PAS6
     address: 14rLnEdtM5ZMt7KaaG3PsaXR3bx9hhLTHu7svNkP3EQTMP9g
+    role: manual
   - name: AssetHub
     address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
+    role: manual
   - name: PhalaPaseo
     address: 14Jn28cPVDXHqQ89aL3gz3Fveu2duuRHjLfeWcKj4J3rvgDm
+    role: manual
   - name: Parachain - NO NAME
     address: 12TEURiF1uAPHfNJeip7D2vak96XnYjd61oiph2czn5xVERC
+    role: manual
   - name: Integritee Network (Paseo)
     address: 14Jt1pipqWnUvQPNhW7mgAhRaLSGMQjtKpiriKC5FEe3rywZ
+    role: manual
   - name: Bajun Paseo
     address: 16czBNKAsprSV6tZ2arPC6fh13vuZSdDAuf2DmWBoYMT9deF
+    role: manual
   - name: Nodle
     address: 1eJ5NqghqAiGVo313f224yFXo5p12QFiQj4kH5KMnZ7joAc
+    role: manual
   - name: Bifrost
     address: 12VZEHGNeJ27kKUu6VsdJV6BBJ4YJfr1ewDxpSLkVqAju8b6
+    role: manual
   - name: Hydra
     address: 12sUuZWTPCVvQmbH35vQPApkN4CRj3kt3qEZAzHe5jBSgQcd
+    role: manual
   - name: Ajuna Network (Paseo)
     address: 16czBNKAsprSV6tZ2arPC6fh13vuZSdDAuf2DmWBoYMT9deF
+    role: manual
   - name: AVN_Paseo
     address: 136ewZnnmtt7kvTmMyUNsWnssi7z4LaSBj9NCTUMyAuBid82
+    role: manual
   - name: KILT Peregrine
     address: 13QbktHCM4jViNQktX9T8Tmma2buw4eNM8Mw5Q3eMWWa9yca
+    role: manual
   - name: Zeitgeist Battery Stat
     address: 16CfL8duhzrTBeX9FAAeVDAKg8HMCSWgGGnnxHsu12H7oEcs
+    role: manual
   - name: Darwinia Koi
     address: 156HGo9setPcU2qhFMVWLkcmtCEGySLwNqa3DaEiYSWtte4Y
+    role: manual
   - name: Bajun Network (Paseo)
     address: 16czBNKAsprSV6tZ2arPC6fh13vuZSdDAuf2DmWBoYMT9deF
+    role: manual
   - name: Amplitude testnet (Foucoco)
     address: 14Jbt4jrSsnJR4Cn8i57EGybjYpNbQ86i7iK56FCr9B3XL17
+    role: manual
   - name: Kreivo de Paseo
     address: 13MUpbhzsE5mZZUfL4nir6XAcZEjYq8Ax5Y5sGEh3aqLEvne
+    role: manual
   - name: Polimec
     address: 15CyvMWHKwbAPQ3ekqRFWLyq3kcjU8ypMuuGfsMnxanW85WZ
+    role: manual
   - name: Energy Web X Paseo
     address: 16kk1RDDehbU3kvXVHmVWvTdBmw9t1FrUrni2CDKiAwAUJyJ
+    role: manual
   - name: Muse Network
     address: 1FNYXmHw12Be63RdSgepV5dxm5a5vuSRnLGmeyGeveaMn7S
+    role: manual
   - name: Frequency
     address: 14zTMr3QL1nQew6HH3LEKHzbEjJWKqSciHsbampGWUgAVsvG
+    role: manual
   - name: Pop Network
     address: 1A13Vuern2hQMFHFxDP9vngPtfjnpnVyCiXgYpaiTYo8qFb
+    role: manual
   - name: xcavate
     address: 13Yd2k4Y9wa5XmmW1ARaZJAaiqWWXVuds46ejQMNZQ2RjjnL
+    role: manual
   - name: Myriad Social
     address: 124Xi3pHmuAWFz8EB4bNQeJpsxCJWd36wnWbg23dK5frd5s9
+    role: manual
   - name: Laos Omega
     address: 13ucKjHzhxsoXbqp4pshzXRYN4mjboNSiqwGLewPZXAioc7
+    role: manual
   - name: Hyperbridge (Gargantua)
     address: 1313g5wy8vZdwNzHGCKkSSYEjG2LYyy9dpSBufU8WvNycqsh
+    role: manual
   - name: Niskala
     address: 15YDeEAMn9GrhgX9DhJXTME9MQPYAcyYRjhXLGdN3dG53swY
+    role: manual
   - name: LAOS Mercury
     address: 13ucKjHzhxsoXbqp4pshzXRYN4mjboNSiqwGLewPZXAioc7
+    role: manual
   - name: Papermoon
     address: 1W5fFS1zkhQQBDcvZJLA7DWipfzvGLrMYhoGwFxrTd9Ktz6
+    role: manual
   - name: ROOT
     address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
+    role: manual
   - name: FAUCET
     address: 16FaD2xBy99z5qvp8QqCeJntNBMZEsq3YdPLrrzH4vkQpnqZ
+    role: manual
   - name: FAUCET
     address: 167U3jKTwAJZwFDKXLaGad8yykSYtAg6di994AVoe33o7VQF
+    role: manual
   - name: NOMINATOR 1
     address: 13QKfB3ojBi8Fc4z5skJB3W7skrGm3DspHXNMuw3hg6PdFoJ
+    role: manual
   - name: NOMINATOR 3
     address: 148YX3ZGnHteX191naDwmWD4RdfJg1hTSf3LYWnoAi3g5vLs
+    role: manual
   - name: NOMINATOR 6
     address: 14VU9u425dCEHoRxTdDprHFyXqPppMvFgryLMbZ1GKLfwEaR
+    role: manual
   - name: NOMINATOR 7
     address: 16aq5sYKPCGNgiQvNcWcqqfZAPMzJEU8pq5YhPxwMNRGhaYb
+    role: manual
   - name: NOMINATOR 0
     address: 128tszPRog4ER3DkZ6b7SXBBGDt4Dx6mdB8YwTFS6dABxxDY
+    role: manual
   - name: NOMINATOR 2
     address: 15S2wZRsr2fBNemYqgiV8xMEH483gP7rdjqzMwzJZx2rJUYQ
+    role: manual
   - name: NOMINATOR 4
     address: 13dFP7oMYsuGauDhd6bw4BLk5ytZKPFSqsHwWKWTdpzZ3RwL
+    role: manual
   - name: NOMINATOR 6
     address: 16GGQ44uFiNx1EH4kd4Qfz1224TfrUv7i577MWNFs3CnXhsb
+    role: manual
   - name: NOMINATOR 8
     address: 14aD47Py9WjCXKdqNyTGMgtXouiiSEKbiDm4YefgaDfTwTns
+    role: manual
   - name: NeuroWeb
     address: 1263TdZbNgTZvvQmSkEDYenRFy2YAJ2HPZ7ZuWL8RHqpSD1a
+    role: manual
   - name: address
     address: 13p8vrXMqzuqCkCtWFkoVqvGoy35pCymnS6MeBvydiLPwBGZ
+    role: manual
   - name: PARITY
     address: 13EkprGfV5ExMF89KoiXAfCddG2LTVdgn6cWZRAKXWq2HNTs
+    role: manual
   - name: R0GUE#0
     address: 14g4qTfyFXbe3ms94SDGbK35pm9NMXiDaY98N5JrDZyoELpE
+    role: manual
   - name: address
     address: 16Jssux4B4CSQF97qxEEhfhHa6Yt3TPL3VJh4zs8crmxuJZB
+    role: manual
   - name: turboflakes.io/01
     address: 13iiwNL7mzjuS4KxXEHQ2Csx8fETishXWKzeeCfHCig6j2dd
+    role: manual
   - name: R0GUE#1
     address: 13YMK2ePPKQeW7ynqLozB65WYjMnNgffQ9uR4AzyGmqnKeLq
+    role: manual
   - name: R0GUE#2
     address: 16DDnKqAWf2UN4PgcJjzz9jaHJEfckjBfg8kxmj3KettiCaU
+    role: manual
   - name: R0GUE#3
     address: 12CSB38jwxvNFh9BHqrDwgErFGPycGQBgJJJe36p3y2GHafo
+    role: manual
   - name: address
     address: 13SoXWdoUZ3UAzC8WF69y9Pr8Q6Q3hDF3Qzt6bnWN7dsPFzT
+    role: manual
   - name: Clawbird
     address: 14EMibn17QAGaSzYekquo6tbFYFpdm2vswHagBcWgsT4S6Tp
+    role: manual
   - name: address
     address: 138VAoi3MMjXKeLLWH22ucxNYEMgnbi7qm8DVrtG7zcuAsFs
+    role: manual
   - name: address
     address: 167ReMkRRA5qS4KkXnXxnLC6YLNV3J5Wp4A7yo2mz7DxpKio
+    role: manual
   - name: address
     address: 129ahoNBbD53JrHC3aP6XXdWvTKxVyQo1PjqMcQ698sp3FdM
+    role: manual
   - name: address
     address: 13UVJyLnbVp8c4FQeiGCovEJbQuhsZKmtH4JmFwDA7oh7dSD
+    role: manual
   - name: address
     address: 13UVJyLnbVp9x5XDyJv8g8r3UddNwBrdaH7AADCmw9XQWvYW
+    role: manual
   - name: address
     address: 13UVJyLnbVp8c4FQeiGCsV63YihAstUrqj3AGcK7gaj8eubS
+    role: manual
   - name: address
     address: 1pWrpWSyQVXbGHi7kXX7382MqyarEAYK6vajYfmn1fFadUJ
+    role: manual
   - name: address
     address: 14o1q66xqAaNegDdnNgjY67rvZP4QDMUtXpL9WX9nAg6sUT
+    role: manual
   - name: address
     address: 1RiowZfqo4kL2vrXfFYdDovuXH8Rp5p5XU64rswJmQWCpAd
+    role: manual
   - name: address
     address: 13SoXWdoUZ3UAzC8WF69y9Pr8Q6Q3hDF3Qzt6bnWN7dsPFzT
+    role: manual
   - name: turboflakes.io/05
     address: 15XqxovYMHNVzFvjch81NPUeUGHa9afi8i9XwC1frsd4jU76
+    role: manual
   - name: address
     address: 15XaoCMRWCZv9fgeUCh5Gm6DRTbWeHJCmKZ3C4F9TgBRBoaV
+    role: manual
   - name: address
     address: 14cQdSZy4FdLXa36dgVd6BWt41Fd1j6pkf8hPXFsWm1f9orX
+    role: manual
   - name: Virto Team
     address: 13MUpbhzsE5mZZUfL4nir6XAcZEjYq8Ax5Y5sGEh3aqLEvne
+    role: manual
   - name: EduChain
     address: 16dDKP5hFoXVj7syxVe9GfQF5zSKWJ8QJ7aUuTjo4gy8zbKn
+    role: manual
   - name: Tugy
     address: 1eGtATyy4ayn77dsrhdW8N3Vs1yjqjzJcintksNmScqy31j
+    role: manual
   - name: Laos Venus Para
     address: 13ucKjHzhxsoXbqp4pshzXRYN4mjboNSiqwGLewPZXAioc7
+    role: manual
   - name: WeTEE Para
     address: 12poTyHx3tWrSEMvXVggU83sJ8HoLEtzeoE77JmCr41L2qHH
+    role: manual
   - name: Ideal Labs
     address: 12ZHHNraSBqPNGsCgdynXNGi5GfVtZKCVZsV2gkZFwVACRDh
+    role: manual
   - name: BlockDeep
     address: 14TVhj8PXhm56ukEZUpBMLZPKxftMQMsqioQRpiJKFMHviTh
+    role: manual
   - name: Polkadot Deployment Portal Proxy stg
     address: 1bgHTD4DybE7psymrBgnxfwBQNZqXXmHWha8xgCSFg1VXhy
+    role: manual
   - name: Polkadot Deployment Portal Proxy prod
     address: 15tDotVwkPS7QNjYjDzkeKdWBazVPq4DLczasBQYuNhZTDQ6
+    role: manual
   - name: Xcavate
     address: 1jChkUthZcpNvXxNFPBYKsnZ6gPNTpARo4ATdTgMUHEW41f
+    role: manual
   - name: FARADAY 1
     address: 1jChkUthZcpNvXxNFPBYKsnZ6gPNTpARo4ATdTgMUHEW41f
+    role: manual
   - name: FARADAY 2
     address: 14yzXdaM3kHdYo4WtrgSHY7PDBRVBSbW9SkZ8hoM6SRMLfGv
+    role: manual
   - name: FARADAY 3
     address: 15JyeB3B2XAkPaKPmgPCEdbyrPpx8w3FJDArt7ed8EtMb3ka
+    role: manual
   - name: FARADAY 4
     address: 13gTyggxCXUW1pR9dnnCsramHhzr17C6SX1Kr92Zqxu2GBLS
+    role: manual
   - name: FARADAY 5
     address: 15ore2U8Mrnekjy3WSj1rYohkmTSvUPymTEKiRxz7S9RMpLh
+    role: manual
   - name: FARADAY 6
     address: 1RYQVuTwXp7AC5BrD8L8kreib3CVhZZUrGLGcJbjHbKuP4h
+    role: manual
   - name: 🐟Blackfin Tuna🐟
     address: 16QCvVK7FQmWLBs2bmz6F8JvgQK5B2chXGTUY88y2YwenDUz
+    role: manual
   - name: 🐟Blackfin Tuna🐟/🌊Adriatic🌊
     address: 15QCWmhJwSJmunidxERsEFmsL4um3QrhM5ygpaME2giFXXPN
+    role: manual
   - name: 🐟Blackfin Tuna🐟/🌊Mediterranean🌊
     address: 12TunjAnibmgj63yEB8Mzyn29vkN198mqnLRiS4VfD6a7c4c
+    role: manual
   - name: 🐟Blackfin Tuna🐟/🌊Atlantic🌊
     address: 1TuNSwZVpDxpDzzMMmFXQmcqmVToMhrN4rcyyjNYmVWJrnj
+    role: manual
   - name: 🐟Blackfin Tuna🐟/🌊Pacific🌊
     address: 13tuNSQUdEK3Lyy7JL8gCxhevL7fNLTdCxPjncJxWBvo3SPh
+    role: manual
   - name: 🐟Blackfin Tuna🐟/🌊Caribbean🌊
     address: 1TuNp66PHDK9SgcAe7zPKDHhs9RCXrAJWvAFjZnCbCZWuZ6
+    role: manual
   - name: QF Parachain
     address: 1NouVnGV7Pz3ARz4EHnoDx6hHyY94PxnttpxUvnZJVfkUTf
+    role: manual
   - name: PRMC/4845
     address: 13QtuXhb8SecJacGUVHgj4fTkcp1dRBxGcXedpdNdVCjQ1qt
+    role: manual
   - name: Parity PDP
     address: 13ihzQgscAofUtquwmsymSPKtoxwYvrpMxtFRnqg49ykdfzn
+    role: manual
   - name: Parity nominator stash
     address: 13maujzA7BnLGiH5VTtE58FQv5nTNHiBTxyVv2uzRKKLZSV7
+    role: manual
   - name: AH_migration_parity
     address: 14iw76ZmY7BzFfBYrTrCnMyAzU5X4LY5jCFN6XuSnTYnzaTe
+    role: manual
   - name: Nominator 8
     address: 1KMtookzJ1p6vXb6tRARhj8CFqMjhoibsr3y1VWy9SQHb76
+    role: manual
+  - address: 13cKp89XJa22TBZQ2D2hnp4syPY7V2bksGG4vGTHXbHdWbgS
+    name: sibling:4607
+    role: system
+  - address: 13UVJyLnbVp77Z2t6qZV4fNpRjDHppL6c87bHcZKG48tKJad
+    name: modlpy/cfund
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGCw3wnW2UdtDdwoB21mxh2D3eaCByG
+    name: Pool#3(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGCzcoXTLG6tYo2kczsHK4vjWa1jU3h
+    name: Pool#4(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGD4BfGQe3Ztsx7i4yinfSqFyVTGs8u
+    name: Pool#5(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGD7kX1Mwq2uD7CfWxaJ1pjnSQtp5jQ
+    name: Pool#6(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDBKNkKFcVuYGHcxwRoNCeJuLLMQys
+    name: Pool#7(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDcHNvzQ6kwrMtK6oQLpqyz9nR8qvL
+    name: Pool#14(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDEtEVGZPxusRNaQvHJiaYqNFmtnwd
+    name: Pool#8(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDfrEfwhtDxBWyGYnFrBDtWchrgDCv
+    name: Pool#15(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDjR6Qu1fgxWg4Dzm7MXbo35dJDZiH
+    name: Pool#16(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDJT6EDsBRvCaTXru8p4xTMqBDSDab
+    name: Pool#9(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDN1wyBAxtvXjYVJszKRLMtJ6eyaFo
+    name: Pool#10(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDRaoi8UkMvrtdSkrqpmiGQm26Wdse
+    name: Pool#11(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDV9fT5nXpwC3iQCqhL86AwDwY43Sg
+    name: Pool#12(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDYiXC36KHwXCoMepYqUU5TgrybNzB
+    name: Pool#13(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGUcWddfDNNLSajaPyfpYzx9QbrvLfR
+    name: Pool#2(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGUg5VNcX9qLmjpXqxXKuNrfsXJTgzw
+    name: Pool#3(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGUjeM7ZpwJM6tuVHwNqFkmCLSk1Gwk
+    name: Pool#4(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGUoDCrX8imMS3zSjvELc8fioNBYYce
+    name: Pool#5(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGUrn4bUSWEMmD5QBu5qxWaFGHd5kgt
+    name: Pool#6(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGUvLvLRkHhN6NAMdswMJtUmjD4d9tb
+    name: Pool#7(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGUyun5P45ANRXFK5rnrfGPJC8WAQhT
+    name: Pool#8(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGUYwmthuauL7RecwzpKCd3cwgRPCPp
+    name: Pool#1(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGV3UdpLMrdNkgLGXqeN1eHpf3whp4p
+    name: Pool#9(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGV73VZHfe6P5qRDypVsN2CM7yPFB6b
+    name: Pool#10(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGVAcMJEyRZPQzWBRoMNiQ6satpnGt3
+    name: Pool#11(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGVEBD3CHD2Pk9b8snCt4n1Q3pGKopG
+    name: Pool#12(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGVHk4n9azVQ5Jg6Km4PR9uvWjhs4FB
+    name: Pool#13(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGVMJvX6tmxQQTm3mjutmXpSyf9QMh2
+    name: Pool#14(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGVQsnG4CZRQjcr1DimQ7uiySaawZcX
+    name: Pool#15(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGVUSe11WLtR4mvxfhcuUHdVuW2V5gC
+    name: Pool#16(Reward)
+    role: system
+  - address: 13UVJyLnbVp8js3tQFrThMAqw5qrQEhm3KvkcpRyKqahtSwA
+    name: modlpy/ondmd
+    role: system
+  - address: 13UVJyLnbVp9RBZYFwFGyDvVd1y27Tt8tkntv6Q7JVPhFsTB
+    name: modlpy/trsry
+    role: system
+  - address: 13UVJyLnbVp9RBZYFwHYxa5AgDD5tAiuGYvv7oKD2sYdejes
+    name: "modlpy/trsry\bbt\x05"
+    role: system
+  - address: 13UVJyLnbVp9RBZYFwHYxa5XuuuQ54Q2QPQYT7JBKh5xESvE
+    name: "modlpy/trsry\bbt\a"
+    role: system
+  - address: 13YMK2dqinJywRdj2rcgPg79YBsP99f8KaDarsShYfgZsdXX
+    name: "para\x03\b"
+    role: system
+  - address: 13YMK2ds88hFaG8NnFxmjxaeDcWJ9gBz1YmLH7bdgivMTcq4
+    name: "para\n\b"
+    role: system
+  - address: 13YMK2dtwE9kmdYK7XbBYiTJrVnTbSVFiYNqzNTAv3USGFWf
+    name: "para\x13\x13"
+    role: system
+  - address: 13YMK2dxjYEL7c6ymsM996UcwK3xBnKQmSxKx6DNEwsVoSQg
+    name: "para&\b"
+    role: system
+  - address: 13YMK2dyLdZTBZ1Lr87SfEp7r7dwENXVSDSr3GnYX3YJ6vhm
+    name: "para)\r"
+    role: system
+  - address: 13YMK2e1js43uQ266JX42r4gPnzCMCKFF7GeRBgo7MP3CLon
+    name: "para5\b"
+    role: system
+  - address: 13YMK2e2YMGmysjKNpRxoacxnKdrve3jdx9vwcM3UXWv6n1M
+    name: "para9\b"
+    role: system
+  - address: 13YMK2e4keCviNB5dUMConVK667ujd8WU3F5H1KCzC2MqL5P
+    name: "paraD\x12"
+    role: system
+  - address: 13YMK2e69zbCMCfjNshJA4xomWkpk9fNA1nphFU98FG9RPrc
+    name: "paraK\x12"
+    role: system
+  - address: 13YMK2e8xUCA7HY6GK4Mv3VWWTRv9hKNAL4GLNhWu9ApyKP9
+    name: "paraY\r"
+    role: system
+  - address: 13YMK2eboVkAgauXyM86d7SENsU1w3sJubtF5BVpj33GAUsw
+    name: Unknown
+    role: system
+  - address: 13YMK2ebQFdoeM3vL6AeEkA6Bc9BeL14iBSboyAhYSyKiL9R
+    name: Unknown
+    role: system
+  - address: 13YMK2edbuhwMBxeUWm9c643A2wyYHwSVh1bCM7tShtg7Dtk
+    name: Unknown
+    role: system
+  - address: 13YMK2edokvhNu1PuWZzjs7PsaD8JAHGy34U2KMwYDVXxTrT
+    name: Unknown
+    role: system
+  - address: 13YMK2eec1yqwnbgaf9na1FPeCG4G6c3zF7hMNwhQB4XEsoc
+    name: Unknown
+    role: system
+  - address: 13YMK2eeDTNDSK6tmWBh1RE7JejRotxwujADgFr3jEhFeXSm
+    name: Unknown
+    role: system
+  - address: 13YMK2eeopZtUNpeHnJ1Ws2HqMQG6Ts9PGCZYGyFbSYoZfcm
+    name: Unknown
+    role: system
+  - address: 13YMK2efcJncYrXsaJCvHbaaDt3vfubdn75r4hdVxcggU4n2
+    name: Unknown
+    role: system
+  - address: 13YMK2efcm7ma2mko2sAAnR9ThFPtvR4XNjxTRnUy3pTi4UC
+    name: Unknown
+    role: system
+  - address: 13YMK2eGaGourJ5vMhtVzgv2J15XKR6zCeKWshpryGuyfiRJ
+    name: "para\x11"
+    role: system
+  - address: 13YMK2eHBxNLSmhXpKJuxmwU1mDpMXNiqfNBGqCWxY4Hnj2w
+    name: Unknown
+    role: system
+  - address: 13YMK2ehpbimHLydpx8AHoSvXeXyUtgQcCAzQ6bfUHC8CZUx
+    name: Unknown
+    role: system
+  - address: 13YMK2ehRMcQF782BhAhuSAnLPD9CApAQmjM8tGYHh8BkYW9
+    name: Unknown
+    role: system
+  - address: 13YMK2eiDqq8KaqFUD5cgAj4iuromcYeoccdfJvnesG4f6yF
+    name: Unknown
+    role: system
+  - address: 13YMK2eJBHt5WNLAecNwj5K3bSVoPoei4f46ZdMrbsJK1WoK
+    name: Unknown
+    role: system
+  - address: 13YMK2eMBa55o3RVFAtERuceXYK6diZoTzQQPecna2hGsnGG
+    name: Unknown
+    role: system
+  - address: 13YMK2eNavTMRsv8zaEKnC69Cxx1eF6f9xx9otmii5w4TrLk
+    name: Unknown
+    role: system
+  - address: 13YMK2ePBhMTz13z1iLFyuSST6hNEKjYJSgbRZqQgUop6Mwo
+    name: Unknown
+    role: system
+  - address: 13YMK2ePnZX1YMqQUbmSZTMejzgcfQXubaM4KPL6TMuimqEh
+    name: Unknown
+    role: system
+  - address: 13YMK2eQPRgZ6icpwVCd91Gs2tfs6VLGti1XDCpnEF1dTGXp
+    name: Unknown
+    role: system
+  - address: 13YMK2eQPWwz6xGQPEXsWqqn5eukwVVm3MwYVMFn2jEnVyKQ
+    name: Unknown
+    role: system
+  - address: 13YMK2eQzHr6f5QFQNdoiZC5Knf7Xa8eBqfz72KU187Y8Vqn
+    name: Unknown
+    role: system
+  - address: 13YMK2eSPjVoJ9YUbXK9SgEV3yXvP6pz2U9koQuPwfaUmKGW
+    name: Unknown
+    role: system
+  - address: 13YMK2eTnzcdvkPYuBKzR894gdvwYdCMZnmUwWdLHEb7JXRY
+    name: Unknown
+    role: system
+  - address: 13YMK2eUoC9yXagAT53sksuLDZUv7S2TCzocNgt93Bz7V1z1
+    name: Unknown
+    role: system
+  - address: 13YMK2eVoJRt8BKCZDSWio6ghinzqEh4hYuiXihwzf9xcfYR
+    name: Unknown
+    role: system
+  - address: 13YMK2eVzy7n9R4o6ias6u2DKjaMu6hvsb6YoQ61VCJWNKNw
+    name: Unknown
+    role: system
+  - address: 13YMK2eWCYYFARApCUPy7ANptz7q7xZJtyMMnw35BFDu55c3
+    name: Unknown
+    role: system
+  - address: 13YMK2eYQRmxNrCUxGKbR6h4VKXMdRuQ47kQNg4kaii95rq7
+    name: Unknown
+    role: system
+  - address: 13YMK2eYznydQuvEUYRuvYVF22CBuzobXenkEhBxSvZgzcFJ
+    name: Unknown
+    role: system
