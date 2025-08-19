@@ -13,4 +13,15 @@ accounts:
 - identity:
     display: "ROTKO NETWORKS/02"
   stash: 14cQdSZy4FdLXa36dgVd6BWt41Fd1j6pkf8hPXFsWm1f9orX
-
+- identity:
+    display: "ROTKO NETWORKS/03"
+  stash: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
+- identity:
+    display: "ROTKO NETWORKS/04"
+  stash: 12j7tc3eQLWMy73ntjT78vKc2Ky9TNReE89naW8UMo7krxPs
+- identity:
+    display: "ROTKO NETWORKS/05"
+  stash: 14Pgzmwj5gz8jPz4KSDcbx3WiSrXQWrjr7J5Cp7tKBAgmeoP
+- identity:
+    display: "ROTKO NETWORKS/06"
+  stash: 1xjAWwLYgpobrsfCmTvETHWsKRNkHuzo8H1a4nQzBjAPNPg
