@@ -924,3 +924,14 @@ whitelist:
   - address: 13YMK2eYznydQuvEUYRuvYVF22CBuzobXenkEhBxSvZgzcFJ
     name: para:2001
     role: system
+accountsToUnstake:
+  - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
+  - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
+  - address: 15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6
+  - address: 1bRqzaAjBHm5bBd4kZAkUhVzfKq5imWBTQyetAD2wZ9qGkz
+  - address: 164xeEDhqUKdtLG55YCUo8Fba332FPdksWkYBTD5hvtBaX2M
+  - address: 14GrSNuFBkEZz4gRfhahnVCoGvbXkim8NiFVHckLqUH6atbZ
+  - address: 1LR7FPh85MiQpCa3oR639BPMS43j9ube1FEVmsc5DA6TEz1
+  - address: 16esp1HcsdiBb3z1WzuNrZXE4xCbRE3UWya3sG9bErNAH43D
+  - address: 155cNvnFmRfG1o9GMSyWpEeEXdaqDC4Fkef8X8e6SxcWMggd
+  - address: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
