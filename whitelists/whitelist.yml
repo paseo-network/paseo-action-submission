@@ -924,3 +924,9 @@ whitelist:
   - address: 13YMK2eYznydQuvEUYRuvYVF22CBuzobXenkEhBxSvZgzcFJ
     name: para:2001
     role: system
+  - address: 13YMK2dzM1denrb7HWVpkfiDUZfhVBgZNjM22juLsyPcP2y2
+    name: para.
+    role: system
+  - address: 13YMK2e4xJtpjbvgAyVZBtQqi6uGoV9Ne5RuYghGUjAuav7i
+    name: paraE
+    role: system
