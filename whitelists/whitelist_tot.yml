@@ -1,5 +1,5 @@
 disableBot: true
-disableWhitelist: true
+disableWhitelist: false
 balanceTarget: 10000
 balanceThreshold: 10000
 accountsToUnstake:
