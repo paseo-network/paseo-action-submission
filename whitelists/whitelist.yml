@@ -930,3 +930,9 @@ whitelist:
   - address: 13YMK2e4xJtpjbvgAyVZBtQqi6uGoV9Ne5RuYghGUjAuav7i
     name: para:4933
     role: system
+accountsToUnstake:
+  - address: 1bRqzaAjBHm5bBd4kZAkUhVzfKq5imWBTQyetAD2wZ9qGkz
+  - address: 164xeEDhqUKdtLG55YCUo8Fba332FPdksWkYBTD5hvtBaX2M
+  - address: 1LR7FPh85MiQpCa3oR639BPMS43j9ube1FEVmsc5DA6TEz1
+  - address: 155cNvnFmRfG1o9GMSyWpEeEXdaqDC4Fkef8X8e6SxcWMggd
+  - address: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
