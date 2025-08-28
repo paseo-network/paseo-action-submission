@@ -5,6 +5,7 @@ balanceThreshold: 10000
 accountsToUnstake:
   - address: 1fSoTsjobb2CU2RmbomCbpurhtYLnwULXoRNbsGA5J59b7U
   - address: 1nSo4wkjicerqXgEhEgzQhosLKLrMzVXdsQs36Bd4tEZpWE
+  - address: 1nSo4wkjicerqXgEhEgzQhosLKLrMzVXdsQs36Bd4tEZpWE
 whitelist:
   - name: root
     address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
