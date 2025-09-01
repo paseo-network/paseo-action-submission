@@ -927,3 +927,27 @@ whitelist:
   - address: 13YMK2ehQuHFDvt8xxWU2FLD6a1fy9zjfW5EkA7ZHFzQWEEt
     name: para:2043
     role: system
+  - address: 15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6
+    name: rotko
+    role: manual
+  - address: 1bRqzaAjBHm5bBd4kZAkUhVzfKq5imWBTQyetAD2wZ9qGkz
+    name: nominator
+    role: manual
+  - address: 164xeEDhqUKdtLG55YCUo8Fba332FPdksWkYBTD5hvtBaX2M
+    name: nominator
+    role: manual
+  - address: 14GrSNuFBkEZz4gRfhahnVCoGvbXkim8NiFVHckLqUH6atbZ
+    name: nominator
+    role: manual
+  - address: 1LR7FPh85MiQpCa3oR639BPMS43j9ube1FEVmsc5DA6TEz1
+    name: nominator
+    role: manual
+  - address: 16esp1HcsdiBb3z1WzuNrZXE4xCbRE3UWya3sG9bErNAH43D
+    name: nominator
+    role: manual
+  - address: 155cNvnFmRfG1o9GMSyWpEeEXdaqDC4Fkef8X8e6SxcWMggd
+    name: nominator
+    role: manual
+  - address: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
+    name: nominator
+    role: manual
