@@ -930,3 +930,6 @@ whitelist:
   - address: 13YMK2e4xJtpjbvgAyVZBtQqi6uGoV9Ne5RuYghGUjAuav7i
     name: para:4933
     role: system
+  - address: 13YMK2ehQuHFDvt8xxWU2FLD6a1fy9zjfW5EkA7ZHFzQWEEt
+    name: para:2043
+    role: system
