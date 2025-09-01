@@ -681,12 +681,6 @@ whitelist:
   - name: Parity PDP
     address: 13ihzQgscAofUtquwmsymSPKtoxwYvrpMxtFRnqg49ykdfzn
     role: manual
-  - name: Parity nominator stash
-    address: 13maujzA7BnLGiH5VTtE58FQv5nTNHiBTxyVv2uzRKKLZSV7
-    role: manual
-  - name: AH_migration_parity
-    address: 14iw76ZmY7BzFfBYrTrCnMyAzU5X4LY5jCFN6XuSnTYnzaTe
-    role: manual
   - name: Nominator 8
     address: 1KMtookzJ1p6vXb6tRARhj8CFqMjhoibsr3y1VWy9SQHb76
     role: manual
