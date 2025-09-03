@@ -14,7 +14,7 @@ created: 19-05-2025
 
 
 ## Summary
-This PAS proposes defines the new requirements for the Paseo node providers, meaning validators and system chain collators, as well as RPC infrastructure. 
+Effective from Q3 2025, all infrastructure providers in the Paseo Testnet, specifically node operators including validators, system chain collators, and RPC providers, must meet the following requirements (measured over the quarter) to be eligible for quarterly payments.
 
 ## Requirements
 
