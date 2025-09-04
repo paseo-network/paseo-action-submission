@@ -37,4 +37,4 @@ The official communication and coordination channel for Paseo providers is the M
 ### Node Versions
 All nodes (validators, collators, and RPC nodes) **must run the latest node version, or at minimum, the previous version**. In the event of an emergency upgrade, providers must update their nodes **within 48 hours** of the request.
 
-**Failure to meet this criterion will result in the complete loss of compensation for the affected node(s).**
+**Failure to meet these criteria will result in a complete loss of compensation for the affected node(s).**
