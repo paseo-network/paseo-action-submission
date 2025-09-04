@@ -10,11 +10,11 @@ created: 19-05-2025
 | Version | Description                      | Author    | Date       |
 |---------|----------------------------------|-----------|------------|
 | 1.0     | Initial version                  | Portico Labs  | 19-05-2025 |
-| 1.1     | ...                              |              |            |
+| 1.1     | Improvement                              | Portico Labs  | 03-09-2025 |
 
 
 ## Summary
-This PAS proposes defines the new requirements for the Paseo node providers, meaning validators and system chain collators, as well as RPC infrastructure. 
+Effective from Q3 2025, all infrastructure providers in the Paseo Testnet, specifically node operators including validators, system chain collators, and RPC providers, must meet the following requirements (measured over the quarter) to be eligible for quarterly payments.
 
 ## Requirements
 
@@ -32,7 +32,9 @@ https://apps.turboflakes.io/?chain=paseo#/insights
 **Exception Policy for Outages**:In case any provider suffers an outage or any service disruption, the exception could be applied if the issue is communicated proactively by the provider and they maintain active communication with the core group.
 
 ### Communication Response Time
-To ensure timely coordination and smooth progress on technical matters, the provider is expected to respond to a direct message or a tag in the Core & Infra channel within 72 hours of being contacted```
+The official communication and coordination channel for Paseo providers is the Matrix room: [Paseo [Core & Infra] - Internal](https://matrix.to/#/#polkadot-community-testnet:parity.io). Providers are required to respond to any comments, questions, or requests when the room is tagged (`@room`) or when they are specifically mentioned (e.g., in weekly reports highlighting validators with below-expected performance) **within 72 hours once the communication was sent.**
 
 ### Node Versions
-Nodes must be upgraded to the latest stable release within one week of its official availability.
+All nodes (validators, collators, and RPC nodes) **must run the latest node version, or at minimum, the previous version**. In the event of an emergency upgrade, providers must update their nodes **within 48 hours** of the request.
+
+**Failure to meet these criteria will result in a complete loss of compensation for the affected node(s).**
