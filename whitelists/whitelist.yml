@@ -951,6 +951,12 @@ whitelist:
   - address: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
     name: nominator
     role: manual
+  - address: 15ANCc2sWHvj4Fwraeqk6qHAwpvYbGWRCTyBvdt2Gw7eiQut
+    name: core sudo
+    role: manual
+  - address: 15i5yDbebYHErJc1xZ6qZZL3pLrNXwMLynvGqURPKYfmvQCo
+    name: core sudo proxy
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
