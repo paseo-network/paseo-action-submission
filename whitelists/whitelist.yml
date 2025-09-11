@@ -957,6 +957,12 @@ whitelist:
   - address: 15i5yDbebYHErJc1xZ6qZZL3pLrNXwMLynvGqURPKYfmvQCo
     name: core sudo proxy
     role: manual
+  - address: 163CRvzDQ8JHZfmufa86zA7BfDY7NToUSqmWbpDq5kwDYSmH
+    name: PAS <-> USDC Pool
+    role: manual
+  - address: 12dvmstTqsjrPrPdouMpbsgaaQjPGYFh7gMaiNgZ7Rzaacok
+    name: PAS <-> USDt Pool
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
