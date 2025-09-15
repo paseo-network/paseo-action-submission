@@ -684,6 +684,42 @@ whitelist:
   - name: Nominator 8
     address: 1KMtookzJ1p6vXb6tRARhj8CFqMjhoibsr3y1VWy9SQHb76
     role: manual
+  - address: 15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6
+    name: rotko
+    role: manual
+  - address: 1bRqzaAjBHm5bBd4kZAkUhVzfKq5imWBTQyetAD2wZ9qGkz
+    name: nominator
+    role: manual
+  - address: 164xeEDhqUKdtLG55YCUo8Fba332FPdksWkYBTD5hvtBaX2M
+    name: nominator
+    role: manual
+  - address: 14GrSNuFBkEZz4gRfhahnVCoGvbXkim8NiFVHckLqUH6atbZ
+    name: nominator
+    role: manual
+  - address: 1LR7FPh85MiQpCa3oR639BPMS43j9ube1FEVmsc5DA6TEz1
+    name: nominator
+    role: manual
+  - address: 16esp1HcsdiBb3z1WzuNrZXE4xCbRE3UWya3sG9bErNAH43D
+    name: nominator
+    role: manual
+  - address: 155cNvnFmRfG1o9GMSyWpEeEXdaqDC4Fkef8X8e6SxcWMggd
+    name: nominator
+    role: manual
+  - address: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
+    name: nominator
+    role: manual
+  - address: 15ANCc2sWHvj4Fwraeqk6qHAwpvYbGWRCTyBvdt2Gw7eiQut
+    name: core sudo
+    role: manual
+  - address: 15i5yDbebYHErJc1xZ6qZZL3pLrNXwMLynvGqURPKYfmvQCo
+    name: core sudo proxy
+    role: manual
+  - address: 163CRvzDQ8JHZfmufa86zA7BfDY7NToUSqmWbpDq5kwDYSmH
+    name: PAS <-> USDC Pool
+    role: manual
+  - address: 12dvmstTqsjrPrPdouMpbsgaaQjPGYFh7gMaiNgZ7Rzaacok
+    name: PAS <-> USDt Pool
+    role: manual
   - address: 13cKp89XJa22TBZQ2D2hnp4syPY7V2bksGG4vGTHXbHdWbgS
     name: sibling:4607
     role: system
@@ -927,42 +963,36 @@ whitelist:
   - address: 13YMK2ehQuHFDvt8xxWU2FLD6a1fy9zjfW5EkA7ZHFzQWEEt
     name: para:2043
     role: system
-  - address: 15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6
-    name: rotko
-    role: manual
-  - address: 1bRqzaAjBHm5bBd4kZAkUhVzfKq5imWBTQyetAD2wZ9qGkz
-    name: nominator
-    role: manual
-  - address: 164xeEDhqUKdtLG55YCUo8Fba332FPdksWkYBTD5hvtBaX2M
-    name: nominator
-    role: manual
-  - address: 14GrSNuFBkEZz4gRfhahnVCoGvbXkim8NiFVHckLqUH6atbZ
-    name: nominator
-    role: manual
-  - address: 1LR7FPh85MiQpCa3oR639BPMS43j9ube1FEVmsc5DA6TEz1
-    name: nominator
-    role: manual
-  - address: 16esp1HcsdiBb3z1WzuNrZXE4xCbRE3UWya3sG9bErNAH43D
-    name: nominator
-    role: manual
-  - address: 155cNvnFmRfG1o9GMSyWpEeEXdaqDC4Fkef8X8e6SxcWMggd
-    name: nominator
-    role: manual
-  - address: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
-    name: nominator
-    role: manual
-  - address: 15ANCc2sWHvj4Fwraeqk6qHAwpvYbGWRCTyBvdt2Gw7eiQut
-    name: core sudo
-    role: manual
-  - address: 15i5yDbebYHErJc1xZ6qZZL3pLrNXwMLynvGqURPKYfmvQCo
-    name: core sudo proxy
-    role: manual
-  - address: 163CRvzDQ8JHZfmufa86zA7BfDY7NToUSqmWbpDq5kwDYSmH
-    name: PAS <-> USDC Pool
-    role: manual
-  - address: 12dvmstTqsjrPrPdouMpbsgaaQjPGYFh7gMaiNgZ7Rzaacok
-    name: PAS <-> USDt Pool
-    role: manual
+  - address: 13cKp89NHeBaavdrnnBbJUbA8KrKvHgzWcH8A4FVpcsaqvvg
+    name: sibling:4818
+    role: system
+  - address: 13cKp89Uh2yWgTG28JA1QEvPUMjEPKejqkjHKf9zqLiFKjH6
+    name: sibling:2034
+    role: system
+  - address: 13UVJyLmxC88KGyzDfDKNgoXTQhKNRdhokRneDB1MkhWT2KC
+    name: modlmContentCHANNEL_-
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGF9SpSq4hQ67H2DJJjzcHd7kpRdozh
+    name: Pool#39(Stash)
+    role: system
+  - address: 13YMK2dq7Z5iN8FznyrWJmvH4EvZL4CpRpq2rUE2Zqg2zvU8
+    name: para
+    role: system
+  - address: 13YMK2dtXiF6igjy92dz2qURWwjwmi8Z5A98tiq4Kzj2ffxn
+    name: para
+    role: system
+  - address: 13YMK2e8YpPMYzGP8C7HqQfFbm2ZZTiSHxvXKWRucN5go7AJ
+    name: paraW
+    role: system
+  - address: 13YMK2ee19pJPRpG7mibzTLBMJGoq1ogh7TETZT1dHxcZKxZ
+    name: para:1002
+    role: system
+  - address: 13YMK2eeQPvfRffsm2g4NpcKYZbe7jfvtXtsimn8ot2Z1W17
+    name: para:1004
+    role: system
+  - address: 13YMK2eZCuzgTKuiEnEWBqFLsrB2CsdtSxdgu6izwtr1zTPw
+    name: para:4818
+    role: system
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
