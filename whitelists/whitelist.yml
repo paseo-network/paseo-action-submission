@@ -993,6 +993,15 @@ whitelist:
   - address: 13YMK2eZCuzgTKuiEnEWBqFLsrB2CsdtSxdgu6izwtr1zTPw
     name: para:4818
     role: system
+  - address: 12j7tc3eQLWMy73ntjT78vKc2Ky9TNReE89naW8UMo7krxPs
+    name: ROTKO NETWORKS/04
+    role: manual
+  - address: 14Pgzmwj5gz8jPz4KSDcbx3WiSrXQWrjr7J5Cp7tKBAgmeoP
+    name: ROTKO NETWORKS/05
+    role: manual
+  - address: 1xjAWwLYgpobrsfCmTvETHWsKRNkHuzo8H1a4nQzBjAPNPg
+    name: ROTKO NETWORKS/06
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
