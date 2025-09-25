@@ -603,7 +603,7 @@ whitelist:
   - name: address
     address: 15XaoCMRWCZv9fgeUCh5Gm6DRTbWeHJCmKZ3C4F9TgBRBoaV
     role: manual
-  - name: address
+  - name: ROTKO NETWORKS/02
     address: 14cQdSZy4FdLXa36dgVd6BWt41Fd1j6pkf8hPXFsWm1f9orX
     role: manual
   - name: Virto Team
@@ -685,7 +685,7 @@ whitelist:
     address: 1KMtookzJ1p6vXb6tRARhj8CFqMjhoibsr3y1VWy9SQHb76
     role: manual
   - address: 15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6
-    name: rotko
+    name: ROTKO NETWORKS/01
     role: manual
   - address: 1bRqzaAjBHm5bBd4kZAkUhVzfKq5imWBTQyetAD2wZ9qGkz
     name: nominator
@@ -706,7 +706,7 @@ whitelist:
     name: nominator
     role: manual
   - address: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
-    name: nominator
+    name: ROTKO NETWORKS/03
     role: manual
   - address: 15ANCc2sWHvj4Fwraeqk6qHAwpvYbGWRCTyBvdt2Gw7eiQut
     name: core sudo
