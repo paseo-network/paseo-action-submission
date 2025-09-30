@@ -2,4 +2,4 @@
 |------------------|------------------|------------------|---------------|---------------|
 |PORTICO           |PORTICO           |CORE TEAM SERVICE           |17500          |129vE7MUN2YHaNLYw7HSMM8c9kFRjtKGhvUMjwrer11zP6vh|
 |R0GUE             |R0GUE           |CORE TEAM SERVICE           |52500          |15pmMM8VbJC6oDNMhxZeoDEaatY6m2mimfpnSfUDtLZdABYS|
-|ZONDAX            |ZONDAX           |CORE TEAM SERVICE           |30000          |1fN87Fgj5BUhezFgbLiGbXTMrBVggnmYBX9anzMBky8KaJ5|
+|ZONDAX            |ZONDAX           |CORE TEAM SERVICE           |35000          |1fN87Fgj5BUhezFgbLiGbXTMrBVggnmYBX9anzMBky8KaJ5|
