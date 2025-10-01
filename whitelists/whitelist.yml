@@ -720,6 +720,15 @@ whitelist:
   - address: 12dvmstTqsjrPrPdouMpbsgaaQjPGYFh7gMaiNgZ7Rzaacok
     name: PAS <-> USDt Pool
     role: manual
+  - address: 12j7tc3eQLWMy73ntjT78vKc2Ky9TNReE89naW8UMo7krxPs
+    name: ROTKO NETWORKS/04
+    role: manual
+  - address: 14Pgzmwj5gz8jPz4KSDcbx3WiSrXQWrjr7J5Cp7tKBAgmeoP
+    name: ROTKO NETWORKS/05
+    role: manual
+  - address: 1xjAWwLYgpobrsfCmTvETHWsKRNkHuzo8H1a4nQzBjAPNPg
+    name: ROTKO NETWORKS/06
+    role: manual
   - address: 13cKp89XJa22TBZQ2D2hnp4syPY7V2bksGG4vGTHXbHdWbgS
     name: sibling:4607
     role: system
@@ -993,15 +1002,48 @@ whitelist:
   - address: 13YMK2eZCuzgTKuiEnEWBqFLsrB2CsdtSxdgu6izwtr1zTPw
     name: para:4818
     role: system
-  - address: 12j7tc3eQLWMy73ntjT78vKc2Ky9TNReE89naW8UMo7krxPs
-    name: ROTKO NETWORKS/04
-    role: manual
-  - address: 14Pgzmwj5gz8jPz4KSDcbx3WiSrXQWrjr7J5Cp7tKBAgmeoP
-    name: ROTKO NETWORKS/05
-    role: manual
-  - address: 1xjAWwLYgpobrsfCmTvETHWsKRNkHuzo8H1a4nQzBjAPNPg
-    name: ROTKO NETWORKS/06
-    role: manual
+  - address: 13cKp89WVdU9MXcHWxTZ8tg2M3gyga3qj9ig17e49z1yMzH4
+    name: sibling:2043
+    role: system
+  - address: 13UVJyLfyT48XmrfcEZZx6SJszrs22vebMLQerNsdUq9dKfZ
+    name: modlOmniWhLM1
+    role: system
+  - address: 13UVJyLjaBaMESA99yXDjBPFgEuM49rMtVoBYPbq8niCe3rp
+    name: modlaca/fees
+    role: system
+  - address: 13UVJyLjzCUDXMvZ81ynb9bQdJ3DhMd2esqMUsdybvKeKx7g
+    name: modlctcnopls=
+    role: system
+  - address: 13UVJyLjzCUDXMvZ81ynHKJhrm7tfhqbsdw5x7kSybiSdEen
+    name: modlctcnopls8
+    role: system
+  - address: 13UVJyLjzCUDXMvZ81yoWeTWvtoCnJyJzbYA59JZUt9FRffg
+    name: modlctcnoplsL
+    role: system
+  - address: 13UVJyLjzCUDXMvZ81yp4kBBWerPqHP5bdMqdJhiD4SDHooU
+    name: modlctcnoplsU
+    role: system
+  - address: 13UVJyLjzCUDXMvZ81yq7NkmisBJvu3XrF2MEH878x6hUSuc
+    name: modlctcnoplsf
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGDN2kqQyw2xa5HnHrAw74b1DDfJP9C
+    name: Pool#266(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGedrRM6C9GGH7fQQkoJpZZm4ndxmea
+    name: Pool#165(Reward)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGFhYY7Qpkb95gnpL8RYmgmqw7PVqWB
+    name: Pool#48(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGJmsR969wsRbX4cj96rLa479BQWBe6
+    name: Pool#98(Stash)
+    role: system
+  - address: 13UVJyLnbVp8c4FQeiGYvBULeVD6mbtTnjZbrqAa2pDh47QD
+    name: Pool#328(Reward)
+    role: system
+  - address: 13YMK2dtL6BvCZpAKQAFqeqMRK5XdMCRySvKG7fVjhh4SXKc
+    name: para
+    role: system
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
