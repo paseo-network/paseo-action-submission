@@ -705,7 +705,7 @@ whitelist:
   - address: 155cNvnFmRfG1o9GMSyWpEeEXdaqDC4Fkef8X8e6SxcWMggd
     name: nominator
     role: manual
-  - address: 15imEAMWCmsG2rG5pQE4TachyzbgoD7f9wywdHpeCgFdEmme
+  - address: 15g1G7kPdLn2u2KEdWoj5jV789uVLkoYAXwLSttL3d78F2A5
     name: ROTKO NETWORKS/03
     role: manual
   - address: 15ANCc2sWHvj4Fwraeqk6qHAwpvYbGWRCTyBvdt2Gw7eiQut
@@ -993,13 +993,13 @@ whitelist:
   - address: 13YMK2eZCuzgTKuiEnEWBqFLsrB2CsdtSxdgu6izwtr1zTPw
     name: para:4818
     role: system
-  - address: 12j7tc3eQLWMy73ntjT78vKc2Ky9TNReE89naW8UMo7krxPs
+  - address: 138KL2HVHLsuk1NhNjnttQbcWfSahCBsjDbXF9vigbxrdXij
     name: ROTKO NETWORKS/04
     role: manual
-  - address: 14Pgzmwj5gz8jPz4KSDcbx3WiSrXQWrjr7J5Cp7tKBAgmeoP
+  - address: 15dbNAcR6qoKv65mkq4EUVzvtxZg1gA7JrVa1ywkkF37VgdX
     name: ROTKO NETWORKS/05
     role: manual
-  - address: 1xjAWwLYgpobrsfCmTvETHWsKRNkHuzo8H1a4nQzBjAPNPg
+  - address: 12EgzZggXfmuZS4q88wxWcwU3hj4v2yH2dEaBfvMTfGpkQ6c
     name: ROTKO NETWORKS/06
     role: manual
 accountsToUnstake:
