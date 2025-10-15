@@ -1005,3 +1005,6 @@ whitelist:
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
+  - address: 15daeY9VQRNH2hqGJV7mYEf9r454ZcH27CXQ6PYhxqPvNwKQ
+  - address: 16PfN1iSAsfuHbMAWst84ZfoNuc7pVTmTr3UiWvHUyKeCoN9
+  - address: 15zhSzPto84hrXyvquYAyUgwRVam8M32fpd7vqUZnMKvJGmc
