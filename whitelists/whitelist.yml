@@ -499,7 +499,7 @@ whitelist:
     address: 1W5fFS1zkhQQBDcvZJLA7DWipfzvGLrMYhoGwFxrTd9Ktz6
     role: manual
   - name: ROOT
-    address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
+    address: 15ANCc2sWHvj4Fwraeqk6qHAwpvYbGWRCTyBvdt2Gw7eiQut
     role: manual
   - name: FAUCET
     address: 16FaD2xBy99z5qvp8QqCeJntNBMZEsq3YdPLrrzH4vkQpnqZ
@@ -1001,6 +1001,18 @@ whitelist:
     role: manual
   - address: 12EgzZggXfmuZS4q88wxWcwU3hj4v2yH2dEaBfvMTfGpkQ6c
     name: ROTKO NETWORKS/06
+    role: manual
+  - name: Proxy BOT
+    address: 16Pb1aETBa8g2RjpvPNTWXdpmpDQXQC7Qutyb3RRr2uD9sWu
+    role: manual
+  - name: Proxy Portico
+    address: 124ZNy5h8CgbNi7HUENJdZiWrowv87jMi1nbJ7SRMZ1ZHWXV
+    role: manual
+  - name: Proxy R0GUE
+    address: 15i5yDbebYHErJc1xZ6qZZL3pLrNXwMLynvGqURPKYfmvQCo
+    role: manual
+  - name: Proxy Zondax
+    address: 136HmzpvtDUHYrYJCnkGxfUuyUQMXh84ZxvQ4Lv2ukZ3hTRs
     role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
