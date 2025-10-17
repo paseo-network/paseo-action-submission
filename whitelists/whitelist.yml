@@ -1014,6 +1014,9 @@ whitelist:
   - name: Proxy Zondax
     address: 136HmzpvtDUHYrYJCnkGxfUuyUQMXh84ZxvQ4Lv2ukZ3hTRs
     role: manual
+  - name: Parity Miner
+    address: 1sfB7uNagEsUxB2RdodxWMAkkUFUDYyjQGiVN2QxGLDFcQx
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
