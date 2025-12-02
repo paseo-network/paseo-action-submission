@@ -1017,6 +1017,9 @@ whitelist:
   - name: Parity Miner
     address: 1sfB7uNagEsUxB2RdodxWMAkkUFUDYyjQGiVN2QxGLDFcQx
     role: manual
+  - name: Ankr
+    address: 5HRJLQxnc9umLC62P5p5DLpHyqxgfd8hnUAZcXaWjLdSX7Lo
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
