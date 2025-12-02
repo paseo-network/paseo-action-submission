@@ -1017,6 +1017,12 @@ whitelist:
   - name: Parity Miner
     address: 1sfB7uNagEsUxB2RdodxWMAkkUFUDYyjQGiVN2QxGLDFcQx
     role: manual
+  - name: Sibling:2000
+    address: 13cKp89Msu7M2PiaCuuGr1BzAsD5V3vaVbDMs3YtjMZHdGwR
+    role: manual
+  - name: Sibling:2000:dev_account_to_get_autorenew
+    address: 16AuFXmiMnv9RnEQjEk6CQNit4xiC1Hm5XLz8iyU2XVo2Wuj
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
