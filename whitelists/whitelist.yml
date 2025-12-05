@@ -1020,9 +1020,6 @@ whitelist:
   - name: Sibling:2000
     address: 13cKp89Msu7M2PiaCuuGr1BzAsD5V3vaVbDMs3YtjMZHdGwR
     role: manual
-  - name: Sibling:2000:dev_account_to_get_autorenew
-    address: 16AuFXmiMnv9RnEQjEk6CQNit4xiC1Hm5XLz8iyU2XVo2Wuj
-    role: manual
   - name: Ankr
     address: 5HRJLQxnc9umLC62P5p5DLpHyqxgfd8hnUAZcXaWjLdSX7Lo
     role: manual
