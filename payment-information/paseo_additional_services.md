@@ -1,6 +1,6 @@
 |PROVIDER_NAME     |PAYMENT_DESCRIPTION     |SERVICE     |TOTAL_QUARTERLY|PAYMENT_ADDRESS|
 |------------------|------------------|------------------|---------------|---------------|
-|SUBSCAN           |SUBSCAN           |INDEXER           |14495          |13UVJyLnbVp9RBZYFwHZ1tWeh4QJH6AqL7w4CTLmQA9DrCNH|
+|SUBSCAN           |SUBSCAN           |INDEXER           |14495          |14RYaXRSqb9rPqMaAVp1UZW2czQ6dMNGMbvukwfifi6m8ZgZ|
 |TURBOFLAKES.IO             |TFLAKE_REPORT           |VALIDATORS REPORTING TOOL           |450          |15XG22uwqzdqWuBV91zBEfdgZ9UK9eCff4sTBHH6hTvLQKAi|
 |ZONDAX            |ZONDAX_LOG           |LOGGING SERVICE           |5000          |1fN87Fgj5BUhezFgbLiGbXTMrBVggnmYBX9anzMBky8KaJ5|
 |OTAR            |OTAR_C           |CURATOR           |500          |14z2CnmqMX2kcWGp5VT68sovjKXZipjkNUPtaMMnz6cjXW3q|
