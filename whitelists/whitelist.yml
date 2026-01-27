@@ -1023,6 +1023,27 @@ whitelist:
   - name: Ankr
     address: 5HRJLQxnc9umLC62P5p5DLpHyqxgfd8hnUAZcXaWjLdSX7Lo
     role: manual
+  - name: Hyperbridge sov
+    address: 13cKp89E522zng8PxNatqCXtaGLREzBkFVKRMyqxsr96zEeH
+    role: manual
+  - name: Shibuya sov account
+    address: 13cKp89Msu7M2PiaCuuGr1BzAsD5V3vaVbDMs3YtjMZHdGwR
+    role: manual
+  - name: Mosaic sov account
+    address: 13cKp88p2LBoU79wy9tMKMGVseca6g3aHYrrM5dY87qcmLDT
+    role: manual
+  - name: Frequency sov account
+    address: 13cKp89CGRYN7bn8ZiHM6YnFhaNfwjneN6L2gXMuZCqNx1En
+    role: manual
+  - name: EnergyWeb sov account
+    address: 13cKp88hcSRzrHU7h2b59UpEmRRFV8Bf8ona9gMZCikbX4Bv
+    role: manual
+  - name: Pendulum sov account
+    address: 13cKp88uRtW7yk5oXmTsai77sou5NuqAa6zyC61DaqBuG786
+    role: manual
+  - name: Aventus sov account
+    address: 13cKp88focmnfczugzxQUEeKGprmaNNqsmy8Gro1NrsyrvLT
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
