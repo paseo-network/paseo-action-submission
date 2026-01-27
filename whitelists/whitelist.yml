@@ -1023,9 +1023,6 @@ whitelist:
   - name: Ankr
     address: 5HRJLQxnc9umLC62P5p5DLpHyqxgfd8hnUAZcXaWjLdSX7Lo
     role: manual
-  - name: Dev Frequency
-    address: 14zTMr3QL1nQew6HH3LEKHzbEjJWKqSciHsbampGWUgAVsvG
-    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
