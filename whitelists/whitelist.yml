@@ -1044,6 +1044,9 @@ whitelist:
   - name: Aventus sov account
     address: 13cKp88focmnfczugzxQUEeKGprmaNNqsmy8Gro1NrsyrvLT
     role: manual
+  - name: Pendulum dev account
+    address: 12mkWe8Lfsk4Qx6EEocvRDpzmA6SQQHBA4Fq3b9T9cyPr7Td
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
