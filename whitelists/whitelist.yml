@@ -1047,6 +1047,9 @@ whitelist:
   - name: Pendulum dev account
     address: 12mkWe8Lfsk4Qx6EEocvRDpzmA6SQQHBA4Fq3b9T9cyPr7Td
     role: manual
+  - name: Parity sibling 5118
+    address: 13cKp89X73EGwJHAeKtDyTzivX7bBfq7vCyGZoiijnUpL8Tm
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
