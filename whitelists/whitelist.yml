@@ -1050,6 +1050,9 @@ whitelist:
   - name: Parity sibling 5118
     address: 13cKp89X73EGwJHAeKtDyTzivX7bBfq7vCyGZoiijnUpL8Tm
     role: manual
+  - name: KusamaShield
+    address: 13E3nowaA41G6YbfZ9N1AShmn3WGSdrjJxKqfjusoEmyEYCD
+    role: manual
 accountsToUnstake:
   - address: 15rKRd3tmVRksxQcuoQihdSryhyryqvF6uacfmaQkiir45Bw
   - address: 12zffNGGB1y7QqU1LCuVzPQWEnFKTeYeChpowGV7acSxfVSd
