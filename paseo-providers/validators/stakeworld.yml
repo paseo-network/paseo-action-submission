@@ -1,0 +1,18 @@
+identity:
+  display: Stakeworld.io
+  email: info@stakeworld.io
+  website: https://stakeworld.io
+  twitter: na
+  discord: na
+  riot: "@stakeworld:matrix.org"
+
+accounts:
+- identity:
+    display: STAKEWORLD.IO
+  stash: 13Jpq4n3PXXaSAbJTMmFD78mXAzs8PzgUUQd5ve8saw7HQS5
+- identity:
+    display: STAKEWORLD.IO/01
+  stash: 14YdcNRK3R7VQsnM5sjq7BQ6pJDr2KBnRWKy2yQHdm8szNZD
+- identity:
+    display: STAKEWORLD.IO/02
+  stash: 16Rn1SScKbUcBN1ofUYuPzordSLfmAwX5e6zQ8vhgj3ygLqS
