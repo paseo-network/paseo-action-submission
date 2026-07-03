@@ -1,0 +1,15 @@
+identity:
+  display: Polkadotters
+  email: polkadotters@protonmail.com
+  website: https://polkadotters.com
+  twitter: "@Polkadotters1"
+  discord: pmensik#3434
+  riot: "@pmensik:matrix.org"
+
+accounts:
+- identity:
+    display: Polkadotters
+  stash: 12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h
+- identity:
+    display: Polkadotters/SHRIMP
+  stash: 12owmS8Sobqxfx6KK9vk9e67FqnGpZdmxCFCRFptzZdsoujC
