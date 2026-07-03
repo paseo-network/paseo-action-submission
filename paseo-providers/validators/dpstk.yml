@@ -1,0 +1,18 @@
+identity:
+  display: DPSTK
+  email: info@dpstk.de
+  website:
+  twitter:
+  discord:
+  riot: "@dapestake:matrix.org"
+
+accounts:
+- identity:
+    display: DPSTK - VAL01
+  stash: 12v3n3ERC9qaGvh8EMpqoqbJ9uTNFfVz5V97SgijopadQQNz
+- identity:
+    display: DPSTK - VAL02
+  stash: 12sbyyn9jmJuDNj4dN9KXG4kFuk73jNzes8iL65EkL2zF2YZ
+- identity:
+    display: DPSTK - PASEO 3
+  stash: 1jg7ZiqWG2VRJgCJdbMUmMA58oyxqoYkLKm99cDzSafdL9k
