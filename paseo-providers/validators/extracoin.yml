@@ -1,0 +1,19 @@
+identity:
+  display: ExtraCoin
+  email: yaronski@protonmail.com
+  website: https://amperfix.de/
+  twitter: "@yaronski"
+  discord: _yrn_
+  riot: "@yrn:matrix.org"
+
+accounts:
+- identity:
+    display: ExtraCoin/01
+  stash: 13UBzfbnVVfjknMicPyHAKwNzJdhTDEQC43PqjhmfmBxjguu
+- identity:
+    display: ExtraCoin/02
+  stash: 13TkZwVbsRChsjiFWNGkKFCD4k68QXZCdFaLZp7EamxsHjbc
+- identity:
+    display: ExtraCoin/03
+  stash: 13Tk9s5DxaJCNoGTEYy45Rwaad1WdGyLhoVTMm5KzkD5EE81
+  
