@@ -1,0 +1,15 @@
+identity:
+  display: CoinStudio
+  email: coinstudio.polkadot@gmail.com
+  website: na
+  twitter: na
+  discord: na
+  matrix: "@coinstudio:matrix.org"
+
+system_chain: AssetHub
+
+accounts:
+    identity:
+    display: Coinstudio
+    account_id: 5FJ7mri5qMgoAA1u6GptebqbPT1QXpPggoABrpgs2NJprKwz
+    aura_id: 0x503b6bdac5a0a212291355b423f3f36332f64ae5cbf31a41bac3fdf55bff355f
