@@ -1,0 +1,15 @@
+identity:
+  display: CoinStudio
+  email: coinstudio.polkadot@gmail.com
+  website: na
+  twitter: na
+  discord: na
+  riot: "@coinstudio:matrix.org"
+
+accounts:
+- identity:
+    display: COINSTUDIO
+  stash: 14EQvBy9h8xGbh2R3ustnkfkF514E7wpmHtg27gDaTLM2str
+- identity:
+    display: COINSTUDIO/02
+  stash: 16McXY75QMgnmoJrKHK49s81yeXMrwTKLBE53587uGhKnLBY
