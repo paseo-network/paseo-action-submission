@@ -1,0 +1,18 @@
+identity:
+  display: Dwellir
+  email: info@dwellir.com
+  website: https://dwellir.com
+  twitter: "@DwellirOfficial"
+  discord: na
+  riot: "@dwellir:matrix.org"
+
+accounts:
+- identity:
+    display: DWELLIR PASEO
+  stash: 14MofzwMbLm1JeBxLi2BKBRHXJce87DE5UWnttgGBBrQcEy9
+- identity:
+    display: DWELLIR PASEO 2
+  stash: 13Ywdw5qiiJFpe2vxAUvtzFcqeWUnJTh8K68y33Vqq3qsBQq
+- identity:
+    display: DWELLIR PASEO 3
+  stash: 14AjU84Srmy16QGg7AU9ZAt6jfReN6cgiNf5qNE2iHueLisb
