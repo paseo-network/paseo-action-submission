@@ -1,0 +1,18 @@
+identity:
+  display: openbitlab
+  email: openbitlab@gmail.com
+  website: https://openbitlab.com
+  twitter: "@Openbitlab_node"
+  discord: openbitlab
+  riot: "@openbitlab_:matrix.org"
+
+accounts:
+- identity:
+    display: openbitlab
+  stash: 12TVZ3zNTGhKZ4zqxL3khwDqoz1tyd4WHEDEkWZ7GZM4UH7x
+- identity:
+    display: openbitlab/02
+  stash: 15twFRNdHF4YWkHJaZJSJPsBPKiEBVc7wYkNUobooE6pqrRB
+- identity:
+    display: openbitlab/03
+  stash: 12zdpeTnSdoz3iLQeaiGH26vTgMwFZ1v1Q7bHGBhFahxCPuK
