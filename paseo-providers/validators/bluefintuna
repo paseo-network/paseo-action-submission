@@ -1,0 +1,17 @@
+identity:
+  display: 🐟BluefinTuna🐟
+  email: antun@tutanota.com
+  website: NA
+  twitter: NA
+  discord: tunkas
+  riot: @bluefin_tuna:matrix.org
+
+accounts:
+
+    - identity:
+      display: 🐟Blackfin Tuna🐟
+    stash: 16QCvVK7FQmWLBs2bmz6F8JvgQK5B2chXGTUY88y2YwenDUz
+    
+    - identity:
+      display: 🐟Blackfin Tuna🐟/🌊Adriatic🌊
+    stash: 15QCWmhJwSJmunidxERsEFmsL4um3QrhM5ygpaME2giFXXPN
