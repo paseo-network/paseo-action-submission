@@ -13,3 +13,6 @@ accounts:
 - identity:
     display: COINSTUDIO/02
   stash: 16McXY75QMgnmoJrKHK49s81yeXMrwTKLBE53587uGhKnLBY
+- identity:
+    display: COINSTUDIO/03
+  stash: 153fSjZLmvTpP7y1xHxN6HPAbE2ZjLNtXjGwGXbxYiwxfnLN
