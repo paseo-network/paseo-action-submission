@@ -13,3 +13,6 @@ accounts:
 - identity:
     display: Polkadotters/SHRIMP
   stash: 12owmS8Sobqxfx6KK9vk9e67FqnGpZdmxCFCRFptzZdsoujC
+- identity:
+    display: Polkadotters/DOLPHIN
+  stash: 13z5r8LALFr9jj8Ha3b3LKcwfvfxyifkmRj4qa2tqRKrEVKe
