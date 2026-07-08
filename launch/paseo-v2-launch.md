@@ -140,8 +140,10 @@ One line per validator. By default the first two or three accounts from each pro
 - [ ] ValidOrange-PAS2 · `1RjCpv9SfmNUkfBjG2e8taPNinPb6PVmPfvzvFYJVYhTtpY`
 - [ ] ValidOrange-PAS3 · `1H52MTkDxeSrgNuNLFHJeAnesJK44oM2fMsZYukjrHPc2Gk`
 
-### Pending (validator identity files not shared yet)
-- [ ] **Interweb** · 2 validators · stashes pending
+### Interweb
+Validator identities shared via their existing metaspan provider file.
+- [ ] METASPAN · `13Mx1WYozeD17A2BvVkUyZujzHEwf4YLxq5EJZSANmCJwwne`
+- [ ] METASPAN/2 · `15fi5UoHzQtdGLcJayGoNkqMG2z7FqgmEFTTdHNm2BcNhFqK`
 
 ## Collators
 
