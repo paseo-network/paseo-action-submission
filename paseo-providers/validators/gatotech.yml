@@ -7,17 +7,10 @@ identity:
   discord: gatotech_uk
   riot: "@gatotech:matrix.org"
 
-#system_chain: BridgeHub
-
 accounts:
-  # Here example is running two collators, 0 and 1
-  0:
-    identity:
-      display: GATOTECH/1
-    account_id: 14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X
-    #aura_id: 0x78a70e070479190982e8d28ff0c038c1f20690619576525d48312c2cbdb1f3ed
-  1:
-    identity:
-      display: GATOTECH/2
-    account_id: 15ct392wVXxZdWjuSJuJ4PXn8SG1wzgzfCk6oHo6s54r75hB
-    #aura_id: 0xc74979afe16f7c78bca0a339e0c7f072e8668954a558cb431c7d9207d70954a0
+- identity:
+    display: GATOTECH/1
+  stash: 14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X
+- identity:
+    display: GATOTECH/2
+  stash: 15ct392wVXxZdWjuSJuJ4PXn8SG1wzgzfCk6oHo6s54r75hB
