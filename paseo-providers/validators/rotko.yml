@@ -1,0 +1,15 @@
+# Identity to be set up for all validators running by Rotko Networks
+identity:
+  display: "ROTKO NETWORKS"
+  email: "hq@rotko.net"
+  website: "https://rotko.net"
+  twitter: "@rotkonetworks"
+  riot: "@hitchhooker:matrix.org"
+
+accounts:
+- identity:
+    display: val-paseo-01
+  stash: 15HfgrULVrnXuRkEoscWrUiFAk3xjUqpfPPWJeXreiNJmdm6
+- identity:
+    display: val-paseo-02
+  stash: 12EgzZggXfmuZS4q88wxWcwU3hj4v2yH2dEaBfvMTfGpkQ6c
