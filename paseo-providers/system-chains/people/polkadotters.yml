@@ -1,0 +1,16 @@
+identity:
+  display: Polkadotters
+  email: polkadotters@protonmail.com
+  website: https://polkadotters.com
+  twitter: "@Polkadotters1"
+  discord: pmensik#3434
+  riot: "@pmensik:matrix.org"
+
+system_chain: People
+
+accounts:
+  0:
+    identity:
+      display: Polkadotters
+    account_id: 12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h
+    aura_id: 0xbccd0bd4085c85b739c38c52ffc63571ea225ae9b5d4e0a99c9bfdfc0413df74
