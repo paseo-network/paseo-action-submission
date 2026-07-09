@@ -1,0 +1,16 @@
+identity:
+  display: stkd
+  email: admin@stkd.io
+  website: https://stkd.io
+  riot: "@frazzled:matrix.org"
+
+accounts:
+- identity:
+    display: STKD.io/01
+  stash: 5GnMSvfjUpRSwyQyzbrFfGqAS6vhBnLGtQCmPDikshemP4Jh
+- identity:
+    display: STKD.io/02
+  stash: 5HbS4tbvbvwtLXDQNeM2hw8WbHFbaTtPskYEQhLASMFNYYLX
+- identity:
+    display: STKD.io/03
+  stash: 5DxyArrCFzZ3M25hAENo6VDbPFYe6UuJCQZ3XEPqAGd19Nqp
