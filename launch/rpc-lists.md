@@ -3,6 +3,7 @@
 ## Relay
 - wss://paseo-v2.rpc.turboflakes.io
 - wss://rpc-paseo.stakeworld.io 
+- wss://paseo-rpc.n.dwellir.com
 
 ## Assethub
 
