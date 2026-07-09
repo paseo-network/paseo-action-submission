@@ -1,0 +1,17 @@
+# Identity to be set up for all validators running by turboflakes.io
+# These two validators have been in the paseo-v2 active set since genesis;
+# this file registers them with the onboarding service after the fact.
+identity:
+  display: interweb
+  email: hello@interweb-it.com
+  website: https://interweb-it.com
+  twitter: "@interweb_it"
+  riot: "@interweb_:matrix.org"
+
+accounts:
+- identity:
+    display: INTERWEB-VAL1
+  stash: 5EResBHk8rwXfd1fxrhUqR5b8fFHxkzCtLLk9GSopgAnmP5v
+- identity:
+    display: INTERWEB-VAL3
+  stash: 5FsreMewz5vnEDnbfk9wk5GUc5YuXqu8psgHY1f7nSPnAGur
