@@ -1,0 +1,17 @@
+# Identity to be set up for all validators running by turboflakes.io
+# These two validators have been in the paseo-v2 active set since genesis;
+# this file registers them with the onboarding service after the fact.
+identity:
+  display: turboflakes.io
+  email: support@turboflakes.io
+  website: https://turboflakes.io
+  twitter: "@turboflakes"
+  riot: "@turboflakes:matrix.org"
+
+accounts:
+- identity:
+    display: turboflakes.io
+  stash: 1LfAfKweyPjXs4JkKW4AxHPTe7pu4w4HjcZbEtB6a8vMqkd
+- identity:
+    display: turboflakes.io/01
+  stash: 13iiwNL7mzjuS4KxXEHQ2Csx8fETishXWKzeeCfHCig6j2dd
