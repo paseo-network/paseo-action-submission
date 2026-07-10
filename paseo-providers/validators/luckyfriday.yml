@@ -2,14 +2,14 @@ identity:
   display: LuckyFriday
   email: info@luckyfriday.com
   website: https://luckyfriday.com
-  twitter: 
-  discord: 
+  twitter:
+  discord:
   riot: "@luckyfriday:matrix.org"
 
 accounts:
-- identity:
-    display: LuckyFriday / Paseo 01
-  stash: 14N4LVCYRX7VvxhXnj31Kob2Yi2SMhYxRQSTN3GmsbZFhP5k
-- identity:
-    display: LuckyFriday / Paseo 01
-  stash: 16cByaE7R4BXkQxDTnM5mXxqzZGLPbvJtfMjm7hxc1CYv9jg
+  - identity:
+      display: LuckyFriday / Paseo 01
+      stash: 14N4LVCYRX7VvxhXnj31Kob2Yi2SMhYxRQSTN3GmsbZFhP5k
+  - identity:
+      display: LuckyFriday / Paseo 01
+      stash: 16cByaE7R4BXkQxDTnM5mXxqzZGLPbvJtfMjm7hxc1CYv9jg
