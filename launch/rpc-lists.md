@@ -4,6 +4,7 @@
 - wss://paseo-v2.rpc.turboflakes.io
 - wss://rpc-paseo.stakeworld.io 
 - wss://paseo-rpc.n.dwellir.com
+- wss://rpc.interweb-it.com/paseo
 
 ## Assethub
 
@@ -17,8 +18,6 @@
 
 ## Bulletin
 - wss://bulletin-paseo.tservices.es:8443
-- http://bullet.sik.rocks:9944
-- ws://bullet.sik.rocks:9944
 
 ## ETH RPC
 - https://paseo-assethub-rpc.laissez-faire.trade
