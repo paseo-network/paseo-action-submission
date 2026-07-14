@@ -18,6 +18,8 @@
 
 ## Bulletin
 - wss://bulletin-paseo.tservices.es:8443
+- wss://bullet.sik.rocks
+- https://bullet.sik.rocks
 
 ## ETH RPC
 - https://paseo-assethub-rpc.laissez-faire.trade
