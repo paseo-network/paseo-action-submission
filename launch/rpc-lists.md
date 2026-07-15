@@ -21,6 +21,8 @@
 - wss://bulletin-paseo-02.tservices.es:9443
 - wss://bullet.sik.rocks
 - https://bullet.sik.rocks
+
+### Bulletin IPFS gateways
 - https://bulletin-kubo.tservices.es:9443
 
 ## ETH RPC
