@@ -2,7 +2,7 @@
 PAS: 2
 title: Core Support Model
 status: Open
-author: Edu Clerici (@educlerici-zondax)
+author: paseo-team
 created: 23-02-2024
 ---
 
@@ -12,6 +12,7 @@ created: 23-02-2024
 |---------|----------------------------------|-----------|------------|
 | 1.0     | Initial version                  | Edu Clerici  | 23-02-2024 |
 | 1.1     | Coretime update                  |  @al3mart   | 24-10-2024  |
+| 1.2     | Restructuring update: stakeholders, abstract, community/monitoring, system chains, region-based assignment, SLO alignment, removed obsolete sections | paseo-team | 20-07-2026 |
 
 
 
@@ -19,13 +20,13 @@ created: 23-02-2024
 The purpose of operating and maintaining the Paseo testnet is to cater to the needs of various stakeholders in the ecosystem. These include:
 
 - Parachains
+- Ecosystem product teams
 - Wallets
 - API Builders
 - Validators
-- Custodians
 
 ## Abstract
-A short description of the proposed change, this should clearly describe the proposed change that will happen if this PAS is passed rather than why it should be done or the detail behind how to complete the changes.
+This document defines the operational support model for the Paseo testnet. It describes the responsibilities, processes, and communication channels through which the Paseo Core Team keeps the network running and supports the teams building on it.
 
 
 ## Documentation
@@ -35,35 +36,24 @@ A short description of the proposed change, this should clearly describe the pro
 - **Design Decision Documentation** : Recording rationales behind significant design decisions for transparency and future reference.
 - **Parameter Change Documentation:** Keeping track of any changes made to the network's parameters, ensuring they're well-documented and justified.
 
-## Coordination Meetings
-
-- **Weekly Internal Report every Thursday** : A routine meeting to discuss progress, challenges, and plan for the upcoming week. The meeting must be documented in a Google Docs Shared where all the team can be aligned regarding the insights from the team.
-
 ## Community Management
 
-- **Bridge Management** (_Platforms: Element, Discord - TBD_): Choosing and maintaining communication platforms for effective interaction with the community.
+- **Bridge Management** (_Platforms: Element/Matrix and the official Polkadot forum: https://forum.polkadot.network/_): Choosing and maintaining communication platforms for effective interaction with the community.
 - **Paseo's GitHub Organization Maintenance** : Overseeing the GitHub repository, ensuring it's up-to-date and well-organised.
 - **Element Channels** : Managing various channels with different topics, such as:
   - **Public** : Public channel to share every update and news to the complete community
   - **Tech** : Developer coordination channel and other Support channel for efficient communication and collaboration between them.
   - **Management Channels** : Specialised channels for internal and core team discussions.
 
-## Social Media Management
-
-- **X Account** : Engaging with the community, sharing updates, and announcements.
-- Other Social Media Updates (_Weekly. Optional_): Regular updates across different platforms to keep the community informed.
-
 ## Monitoring
 
-- Validator Monitoring (Service Level Agreements): Ensuring validators operate within agreed-upon standards and parameters.
-- Bot Development:
-  - Large Balance Monitoring: Keeping track of significant balance changes in the network.
-  - OpenGov Monitoring: Monitoring governance activities and proposals.
+- Staking and validator data is sourced from the Turboflakes Paseo portal.
+- Additional monitoring processes are being developed in the Paseo Dashboard, maintained by R0GUE: https://polkadot-testnet.r0gue.io/network
 
 ## Runtime Management
 
 - **Track, Add, Remove Pallets** : Managing the components of the runtime environment to ensure optimal performance.
-- **Runtime Upgrades** : Establishing a timeline (TBD) and process for upgrading the network.
+- **Runtime Upgrades** : The runtime upgrade and integration process is defined in PAS-3 (Runtime Upgrade). Paseo tracks the development branches to surface new features and products early, rather than following tagged releases.
 - **Pallet Configuration Analysis** : Assessing whether new or existing pallet configurations align with Paseo's requirements.
 
 ## Runtime Upgrade Testing and Coordination
@@ -80,10 +70,10 @@ Support tasks that are within the scope:
 - Top up balances for sovereign accounts
 - XCM HRMP Channels Management for System Chains: Handling cross-consensus message passing channels for any Paseo System chain.
 - XCM Debugging for Parachain Support: Troubleshooting and supporting parachain-related issues from the relay chain or system chain perspective.
-- Parachain Slot Assignment: Managing the allocation of slots to parachains, if applicable.
+- Region and Task Assignment: Tasks (parachains) are assigned to regions based on demand. At present, a region is backed by a single core and holds a maximum of 6 tasks.
 - Benchmarking : Recalculate weights for every Runtime upgrade, taking into account different hardware configurations from Polkadot.
 - Building Deterministic Runtime Artifacts: Ensuring the runtime is predictable and repeatable.
-- Coretime: Lead migration from parachain slots into coretime sales. Assign tasks to cores if needed to maintain the finalization of the chains connected to Paseo.
+- Core and Region Administration: Assign tasks to regions and cores as needed to maintain the finalization of the chains connected to Paseo. Core allocation is managed directly by administrators with sudo access rather than through market-based Coretime sales.
 
 Support tasks that are **not** in the scope:
 - Analyze parachain failed storage migrations.
@@ -94,21 +84,14 @@ Support tasks that are **not** in the scope:
 Ensuring these specific chains are supported and integrated within Paseo.
 
 - Assethub
-- Bridgehub
 - People
-- Coretime
-- Collectives
+- Bulletin
 
-## Service Level Agreement (Support)
+## Support Response
 
-The workflow to acknowledge and resolve support tickets within specified time frames will be the following.
+General support response is governed by the Service Level Objectives (SLOs) approved in the latest Paseo governance proposal, which define the coverage windows and the acknowledgment and mitigation targets. Refer to the current proposal for the applicable SLO definitions.
 
-- Support Ticket Handling
-  - **Acknowledgment** : Within 24 hours.
-  - **Resolution** : Mean time of 72 hours (_varies based on complexity and triage_)
-
-Support tickets that are **not** in the scope for the SLA:
-- every ticket that has the "Core" label on it.
+Tickets labeled "Core" fall outside the general support flow and are handled through the runtime and core administration processes.
 
 ## High-Level Process Description
 
@@ -126,18 +109,12 @@ Support tickets that are **not** in the scope for the SLA:
 
   - **Weekly Escalation Process:** Monthly reporting involves summarizing significant events, blog posts, or achievements. It provides a holistic view of the team's activities and contributions to Paseo.
 
-## Coordination Meetings
-
-- Weekly every Tuesday: Core Team Meeting
-- Weekly every Thursdays: Internal Weekly Report
-- Monthly TBD: Fellowship Coordination
-
 ## Reporting
 
-Provide regular updates to stakeholders and the community in different formats.
+Provide updates to stakeholders and the community in different formats, without fixed time commitments.
 
-- **Weekly Updates** : Written summary about what update was done during the week.
-- **Monthly Reporting** :Written Blog Format summary about what happened during the current month.
+- **Written Updates** : Summaries of the work done, shared periodically.
+- **Blog / Forum Reporting** : Longer-form summaries published on the Polkadot forum as relevant.
 
 
 ## Copyright

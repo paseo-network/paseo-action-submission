@@ -10,14 +10,13 @@ created: 23-02-2024
 | Version | Description                      | Author    | Date       |
 |---------|----------------------------------|-----------|------------|
 | 1.0     | Initial version                  | Edu Clerici  | 23-02-2024 |
-| 1.1     | ...                              |              |            |
+| 1.1     | Triage ownership moved to R0GUE; support response tied to approved proposal SLOs | @paseo-team  | 20-07-2026 |
 
 ## Summary
-This PAS proposes the creation of a new repository within the paseo-network organization on GitHub, named support. The purpose of this repository is to centralize and streamline the process of handling support requests, issues, and inquiries from the public and contributors.
+This PAS defines the existance of a repository within the paseo-network organization on GitHub, named support. The purpose of this repository is to centralize and streamline the process of handling support requests, issues, and inquiries from the public and contributors.
 
 ## Abstract
-- A new repository named paseo-network/support will be created.
-- This repository will serve as the primary point of contact for external support requests related to the paseo-network. In addition to external support request,  the Paseo core team will register related tasks not related directly with the runtime in this repository. 
+This repository serves as the primary point of contact for external support requests related to the paseo-network. In addition to external support request,  the Paseo core team will register related tasks not related directly with the runtime in this repository. 
 
 ## Issue Creation
 
@@ -26,7 +25,7 @@ This PAS proposes the creation of a new repository within the paseo-network orga
 
 ## Issue Triage
 
-- Zondax will be responsible for the daily triage of incoming issues.
+- R0GUE will be responsible for the daily triage of incoming issues.
 - The triage process will involve reviewing, categorizing, and prioritizing the issues.
 - Necessary labels will be applied to each issue to facilitate efficient issue management.
 
@@ -46,13 +45,9 @@ This PAS proposes the creation of a new repository within the paseo-network orga
 - It will also explain the issue triage and resolution process, so users are aware of what to expect after submitting their issues.
 - Contact information and links to additional resources, such as FAQs or documentation, will be included.
 
-## Service Level Agreement (Support)
+## Support Response
 
-The workflow to acknowledge and resolve support tickets within specified time frames will be the following.
-
-- Support Ticket Handling
-  - **Acknowledgment** : Within 24 hours.
-  - **Resolution** : Mean time of 72 hours (_varies based on complexity and triage_)
+General support response is governed by the Service Level Objectives (SLOs) approved in the latest Paseo governance proposal. Those SLOs define the coverage windows and the acknowledgment and mitigation targets for incidents, and they supersede any fixed acknowledgment or resolution times previously stated here. Refer to the current proposal for the applicable SLO definitions.
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
