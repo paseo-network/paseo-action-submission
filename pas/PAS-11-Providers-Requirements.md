@@ -11,6 +11,7 @@ created: 19-05-2025
 |---------|----------------------------------|-----------|------------|
 | 1.0     | Initial version                  | Portico Labs  | 19-05-2025 |
 | 1.1     | Improvement                              | Portico Labs  | 03-09-2025 |
+| 1.2     | Identities                              | Portico Labs  | 25-05-2026 |
 
 
 ## Summary
@@ -37,4 +38,7 @@ The official communication and coordination channel for Paseo providers is the M
 ### Node Versions
 All nodes (validators, collators, and RPC nodes) **must run the latest node version, or at minimum, the previous version**. In the event of an emergency upgrade, providers must update their nodes **within 48 hours** of the request.
 
-**Failure to meet these criteria will result in a complete loss of compensation for the affected node(s).**
+### Registered On-Chain Identity.
+Since 2026 Q2, for receiving the total payment as the result of the service provided, the payment address should attach a recognizable and corresponding on-chain identity.
+
+**Failure to meet these criteria will result in a complete loss of compensation for the affected node(s) or total payment in case of a missing on-chain identity.**
