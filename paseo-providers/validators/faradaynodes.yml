@@ -19,3 +19,7 @@ accounts:
     identity:
       display: FARADAY/03
     stash: 15JyeB3B2XAkPaKPmgPCEdbyrPpx8w3FJDArt7ed8EtMb3ka
+  3:
+    identity:
+      display: FARADAY/04
+    stash: 13gTyggxCXUW1pR9dnnCsramHhzr17C6SX1Kr92Zqxu2GBLS
