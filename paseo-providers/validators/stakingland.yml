@@ -13,3 +13,6 @@ accounts:
 - identity:
     display: Staking Land 2
   stash: 16kVF9M2u9Er13cFBnyhgaQpM34kaZPpppyzVTbsAbW2oPhC
+- identity:
+    display: Staking Land 3
+  stash: 15XLyYM5441ykqfCLZ7yVYnRJaA9c64psuZ2ewGWVJ2wvUgs
