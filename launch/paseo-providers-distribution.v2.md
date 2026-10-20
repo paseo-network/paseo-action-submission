@@ -37,7 +37,7 @@ Validators, collators and RPC nodes per provider. Node counts only.
 
 ## Validators
 
-One line per validator, named as its on-chain identity appears on r0gue. 58 validators in total: 56 in the active set and 2 registered and waiting (marked *ready*), both paid. Addresses in Polkadot format.
+One line per validator, named as its on-chain identity. 58 validators in total: 58 in the active set. Addresses in Polkadot format.
 
 ### Bestvalidator
 - BESTVALIDATOR/PAS1 · `16M4ieWHzsboT4WJq1W16UjYgHKHd8mrkxetyU371cSD5tvV`
