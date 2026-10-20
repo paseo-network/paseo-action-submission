@@ -101,7 +101,7 @@ One line per validator, named as its on-chain identity appears on r0gue. 58 vali
 
 ### Polkadotters
 - 5F3nho…JL47yT (no on-chain identity) · `13z5r8LALFr9jj8Ha3b3LKcwfvfxyifkmRj4qa2tqRKrEVKe`
-- Polkadotters · `12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h` · *ready (waiting)*
+- Polkadotters · `12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h` 
 - Polkadotters/🦐 SHRIMP · `12owmS8Sobqxfx6KK9vk9e67FqnGpZdmxCFCRFptzZdsoujC`
 
 ### Sik crifferent.de
