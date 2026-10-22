@@ -396,24 +396,6 @@ whitelist:
   - name: TURBOFLAKES.IO/05
     address: 15XqxovYMHNVzFvjch81NPUeUGHa9afi8i9XwC1frsd4jU76
     role: manual
-  - name: VALIDORANGE PAS1
-    address: 155e9sKLCfW8Jk9dsBnav9jQuj3ADxkep9voAEzRLwHLqMZs
-    role: manual
-  - name: VALIDORANGE PAS2
-    address: 1RjCpv9SfmNUkfBjG2e8taPNinPb6PVmPfvzvFYJVYhTtpY
-    role: manual
-  - name: VALIDORANGE PAS3
-    address: 1H52MTkDxeSrgNuNLFHJeAnesJK44oM2fMsZYukjrHPc2Gk
-    role: manual
-  - name: VALIDORANGE PAS4
-    address: 12VkkMVhkyG5RHXJjgJZQGR5bnaaRQq4UrmbeWGKsXLexZxb
-    role: manual
-  - name: VALIDORANGE PAS5
-    address: 1hWFtc7cPznyNXVUgNaKx3zzFTFoKXj5A22Ksr66RhWgWyj
-    role: manual
-  - name: VALIDORANGE PAS6
-    address: 14rLnEdtM5ZMt7KaaG3PsaXR3bx9hhLTHu7svNkP3EQTMP9g
-    role: manual
   - name: AssetHub
     address: 13rxtPcR9nsAMzLKJsj6UevMR9TzGmyRohJVgQ6U6K2xeqU3
     role: manual
