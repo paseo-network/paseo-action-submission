@@ -14,3 +14,6 @@ accounts:
 - identity:
     display: GATOTECH/2
   stash: 15ct392wVXxZdWjuSJuJ4PXn8SG1wzgzfCk6oHo6s54r75hB
+- identity:
+    display: GATOTECH/3
+  stash: 16ct38zjLsDajHhU7G8WhWbUn47JswRGvZyLpbEFrHtzTuuK

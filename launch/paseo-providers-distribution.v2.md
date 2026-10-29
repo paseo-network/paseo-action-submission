@@ -16,7 +16,7 @@ Validators, collators and RPC nodes per provider. Node counts only.
 | DWELLIR | 0 | 3 | 2 | 5 |
 | EXTRACOIN | 0 | 3 | 0 | 3 |
 | FARADAY | 1 | 3 | 0 | 4 |
-| GATOTECH | 0 | 2 | 1 | 3 |
+| GATOTECH | 0 | 3 | 1 | 4 |
 | LUCKYFRIDAY.IO | 0 | 2 | 0 | 2 |
 | INTERWEB | 0 | 2 | 2 | 4 |
 | MILE | 0 | 3 | 0 | 3 |
@@ -31,13 +31,13 @@ Validators, collators and RPC nodes per provider. Node counts only.
 | TURBOFLAKES.IO | 1 | 2 | 2 | 5 |
 | VALIDORANGE | 0 | 3 | 0 | 3 |
 | ROTKO | 0 | 2 | 1 | 3 |
-| TOTAL | 6 | 58 | 12 | 76 |
+| TOTAL | 6 | 59 | 12 | 77 |
 
 ## Paseo Q3 onwards: Validators, collators and RPC providers Details
 
 ## Validators
 
-One line per validator, named as its on-chain identity. 58 validators in total: 58 in the active set. Addresses in Polkadot format.
+One line per validator, named as its on-chain identity. 59 validators in total: 59 in the active set. Addresses in Polkadot format.
 
 ### Bestvalidator
 - BESTVALIDATOR/PAS1 · `16M4ieWHzsboT4WJq1W16UjYgHKHd8mrkxetyU371cSD5tvV`
@@ -75,6 +75,7 @@ One line per validator, named as its on-chain identity. 58 validators in total: 
 ### Gatotech
 - GATOTECH/1 · `14ct38L1AkD3A9bShDNQHx6EVeLf8PVckTrFXFsHZNVTKj1X`
 - GATOTECH/2 · `15ct392wVXxZdWjuSJuJ4PXn8SG1wzgzfCk6oHo6s54r75hB`
+- GATOTECH/3 · `16ct38zjLsDajHhU7G8WhWbUn47JswRGvZyLpbEFrHtzTuuK`
 
 ### LuckyFriday.io
 - LuckyFriday.io · `14N4LVCYRX7VvxhXnj31Kob2Yi2SMhYxRQSTN3GmsbZFhP5k`
