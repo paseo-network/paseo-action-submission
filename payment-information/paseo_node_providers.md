@@ -8,7 +8,7 @@
 |DWELLIR|DWELLIR|3|0|2|750|1MrurrNb4VTrRJUXT6fGxHFdmwwscqHZUFkMistMsP8k5Nk|@Dwellir:matrix.org|
 |EXTRACOIN|EXTRACOIN|3|0|0|450|12xZjGMdzT98em2HmHY34kmsu7oHg4s1xYuxsqaYp6GLBhTa|yrn:matrix.org|
 |FARADAY|FARADAY|3|1|0|650|15mYsj6DpBno58jRoV5HCTiVPFBuWhDLdsWtq3LxwZrfaTEZ|faradaynodes:matrix.org|
-|GATOTECH|GATOTECH|2|0|1|450|1gatoakSkH4be8KD9Ekj5xCXMdAiGxieg2NfTg41s2UME5J|info@gatotech.uk, @GatoTech:matrix.org, https://t.me/gatotech|
+|GATOTECH|GATOTECH|3|0|1|600|1gatoakSkH4be8KD9Ekj5xCXMdAiGxieg2NfTg41s2UME5J|info@gatotech.uk, @gatotech:matrix.org, https://t.me/gatotech|
 |LUCKYFRIDAY.IO|LUCKYF|2|0|0|300|15MV2nX6BEoiBz8Ua2xNta19sVBKT7kiw2MEHdu2Jd9a4VaC|info@luckyfriday.io, @luckyfriday:matrix.org|
 |INTERWEB|IWEB|2|0|2|600|16ce9zrmiuAtdi9qv1tuiQ1RC1xR6y6NgnBcRtMoQeAobqpZ|https://github.com/interweb-it, https://github.com/dcolley|
 |MILE|MILE|3|0|0|450|13xAUHVDyG1v9LLHYtMm7XZFyKNVxoj47oWV431XQ9kjXN38|mherceg@protonmail.com, @matherceg:matrix.org|
